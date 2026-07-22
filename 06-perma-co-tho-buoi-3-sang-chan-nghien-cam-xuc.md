@@ -8,7 +8,6 @@ tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
 khoa_hoc: "Đồng Hành Perma - Buổi 3"
 ---
 
-
 # KHÓA HỌC: PERMA BUỔI 5 (Video 3)
 
 > Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.
@@ -45,7 +44,6 @@ Quá trình truy vấn này không dùng để phán xét đúng sai. Nó giúp 
 
 Trước đây, xã hội định nghĩa thành công bằng những thước đo vật chất bên ngoài như "tậu trâu, lấy vợ, làm nhà". Nhưng ngày nay, thành công không chỉ dừng lại ở việc sở hữu. Điều quan trọng là những gì ta có liệu có phản ánh đúng con người và mong muốn sâu thẳm bên trong ta hay không. Nhận diện được mô thức và nỗi sợ của chính mình chính là bước đầu tiên để chạm đến sự tự do đích thực.
 
-
 ---
 
 ## Phần 2: Cơ chế thần kinh của bế tắc
@@ -61,7 +59,6 @@ Khi bạn quyết tâm thay đổi, một lực cản nội sinh khổng lồ s�
 Đó là lý do ngay khi bạn định bắt đầu, các phản ứng vật lý lập tức xuất hiện: cơn buồn ngủ ập tới, cơ thể uể oải, căng thẳng, khó thở, thậm chí là buồn nôn hay rối loạn tiêu hóa. Lúc này, hệ thần kinh đang bật chế độ cảnh báo. Ngay lập tức, tâm trí sẽ hùa theo bằng vô số lời biện hộ hợp lý hóa sự bỏ cuộc: "Mình không hợp với việc này", "Mình bận quá", hoặc "Mình xứng đáng được nghỉ ngơi".
 
 Hiểu được cơ chế giải phẫu sự bế tắc này, bạn sẽ nhận ra những phản kháng của cơ thể chỉ là một phần tất yếu trong quá trình tự chữa lành. Thay vì tự trách mình yếu kém, hãy kiên nhẫn vượt qua lực cản sinh học này. Đây chính là bước đệm quan trọng nhất để bạn tự tin kiến tạo lại "nhân dạng tương lai" và thực sự thay đổi cuộc đời mình.
-
 
 ---
 
@@ -84,7 +81,6 @@ Chỉ có 5% thời lượng hoạt động của não bộ thực sự dành ch
 > "Chúng ta không phải là suy nghĩ của mình. Suy nghĩ của chúng ta phần lớn là những phản ứng điện hóa tự động của một hệ thống 95% vô thức."
 
 Hãy nhớ rằng, không phải tất cả những gì bạn nghĩ đều là sự thật. Việc nhận thức được điều này chính là chìa khóa để bạn thấu hiểu bản thân, dần gỡ bỏ những nhãn mác tiêu cực và phá vỡ vòng lặp bế tắc trong cuộc sống.
-
 
 ---
 
@@ -117,7 +113,6 @@ Sự ám ảnh về ngoại hình khiến đứa trẻ phải tạo ra một "b�
 
 Đặc biệt trong độ tuổi dậy thì, sự tự ti này có thể biến thành những hành vi cực đoan như nhịn đói, ăn kiêng mù quáng hay luôn đổ lỗi mọi sự đổ vỡ trong các mối quan hệ đều xuất phát từ những khiếm khuyết trên cơ thể mình.
 
-
 ---
 
 ## Phần 5: Vòng lặp của chứng nghiện cảm xúc
@@ -142,7 +137,6 @@ Từ vòng lặp nghiện cảm xúc, chúng ta dễ nảy sinh một tâm lý k
 
 Bản thân tôi từng trải qua cảm giác này khi mang thai bé thứ hai. Vì cuộc sống lúc đó đã quá tự do và viên mãn với một cậu con trai đầu lòng kháu khỉnh, tôi bỗng sợ hãi việc sinh thêm một bé gái hoàn hảo như mọi người mong đợi. Sâu thẳm bên trong, tôi mang một niềm tin ngầm rằng sự mãn nguyện tột cùng chắc chắn sẽ đi kèm với rủi ro hay một sự đánh đổi nào đó.
 
-
 ---
 
 ## Phần 6: Tác động của tổn thương lên cơ thể
@@ -165,7 +159,6 @@ Trong y học, hiệu ứng giả dược (Placebo) là minh chứng rõ ràng n
 Nếu bạn không tin rằng mình có thể thay đổi hoặc được chữa lành, cơ thể sẽ ngay lập tức bám vào niềm tin đó. Nó tiếp tục duy trì các phản ứng căng thẳng, tạo ra độc tính sinh lý và đẩy bạn vào trạng thái trì hoãn, bất lực hay tự dằn vặt. Sự bế tắc không hẳn vì bạn không muốn phát triển, mà vì ngay từ đầu, bạn đã cài đặt một niềm tin giới hạn vào tâm trí mình.
 
 > "Tâm trí có khả năng ra lệnh cho hệ sinh học. Khi bạn tin rằng mình không thể thay đổi cơ thể, bạn sẽ sản sinh ra các chất hóa chất để biến điều đó thành sự thật."
-
 
 ---
 
@@ -200,7 +193,6 @@ Bộ não của chúng ta giống như một vùng đất trống. Mỗi thói q
 
 Giáo dục và sự nỗ lực không ngừng không chỉ thay đổi người bình thường mà còn mang lại giá trị to lớn cho những cá nhân mang khuyết tật về thần kinh, giúp họ định hình lại các kết nối trong não bộ. Hãy luôn tin rằng não bộ không bao giờ là một khối đóng băng, và tương lai của bạn hoàn toàn nằm trong tay bạn.
 
-
 ---
 
 ## Phần 8: Tính khả biến của hệ thần kinh
@@ -231,7 +223,6 @@ Ngược lại, khi xây dựng "nhân dạng tương lai", bạn thực sự l�
 
 Thay vì viết: "Tôi hy vọng mình sẽ tự do tài chính", hãy khẳng định: "Tôi tự do tài chính". Hãy định nghĩa rõ ràng bạn là ai, bạn sở hữu điều gì và đang sống một cuộc đời như thế nào. Việc khẳng định mạnh mẽ này giúp bạn gỡ bỏ những "nhãn dán" cũ như "tôi không giỏi kiếm tiền", từ đó thiết lập một phiên bản mới, tự chủ và trọn vẹn hơn.
 
-
 ---
 
 ## Phần 9: Phác họa bức tranh nhân dạng mới
@@ -257,7 +248,6 @@ Bên cạnh đó, hãy thực hành viết "Nhật ký tương lai" mỗi ngày.
 
 Cuối cùng, hãy trở thành người tự chữa lành cho chính mình. Hãy tin vào tính khả biến của hệ thần kinh và "lời tiên tri tự hoàn thành". Khi bạn duy trì được kỷ luật, kỷ luật sẽ biến thành sự tin cậy. Sự tin cậy sẽ thay đổi niềm tin, từ đó tạo ra khao khát thay đổi và dẫn đến sự chuyển hóa sâu sắc ở cấp độ tế bào.
 
-
 ---
 
 ## Phần 10: Thực hành bài tập đảo ngữ ba lần
@@ -281,7 +271,6 @@ Cuối cùng, hãy loại bỏ các từ phủ định (như "không") trong câ
 Ví dụ: Từ "Một người hài hước không thể là tôi", khi bỏ từ "không", câu sẽ thành "Một người hài hước là tôi". Sau đó, bạn có thể đảo lại chủ thể một lần nữa để tạo thành lời khẳng định mạnh mẽ: "Tôi là một người hài hước" hay "Tôi xứng đáng có những công việc nhẹ nhàng".
 
 Khi thực hiện đến bước cuối cùng này, bạn sẽ nhận ra những niềm tin tiêu cực ban đầu đã lung lay và không còn đáng sợ nữa. Cứ mỗi lần thực hành đảo ngữ, trong não bộ của bạn sẽ xuất hiện một tiếng "tách" - một khoảnh khắc bừng tỉnh. Bạn sẽ nhận ra rằng mình hoàn toàn có quyền lựa chọn nghĩ khác đi, thay vì mãi bám víu vào những định kiến cũ.
-
 
 ---
 
@@ -307,7 +296,6 @@ Khi bạn đã xây dựng được những suy nghĩ tích cực và biến ch�
 Bất cứ kiến thức hay thói quen nào cũng cần được lặp lại nhiều lần để thực sự trở thành của bạn. Lần đầu tiên tiếp nhận thông tin chỉ là bước khởi đầu. Hãy chủ động nghe lại, tự đặt câu hỏi và ghi chép lại những điểm khiến bạn ấn tượng nhất. Sự lặp lại liên tục sẽ khắc sâu kiến thức, tạo thành một "rãnh thông tin" mới và bền vững trong não bộ.
 
 Cuối cùng, điều quan trọng nhất là bạn phải chiến thắng chính những niềm tin cũ kỹ và sự trì hoãn bên trong mình. Sẽ không còn lý do gì để chúng ta chần chừ hay e ngại thêm nữa. Hãy nuôi dưỡng cảm xúc hạnh phúc với những niềm tin mới và vững bước trên hành trình phát triển bản thân.
-
 
 ---
 

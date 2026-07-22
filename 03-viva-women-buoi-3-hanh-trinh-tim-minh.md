@@ -7,7 +7,6 @@ tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
 khoa_hoc: "Viva Women - Buổi 3"
 ---
 
-
 # SÁCH CHI TIẾT: TỰ KHAI VẤN - HÀNH TRÌNH TÌM RA VÀ GIỮ GÌN CHÍNH MÌNH
 Biên tập tinh hoa từ bài giảng Viva Women (Buổi 3) - Giảng viên: Đan Mi & Khách mời Thanh Hiền
 
@@ -202,8 +201,6 @@ Khi Nền móng và Bức tường chưa có, đừng cố vẽ ra một phong c
 | 5 | "Chúng ta không được trả tiền cho thời gian, mà trả cho GIÁ TRỊ." | Liên tục học thêm kỹ năng mới (AI, Công cụ tự động hóa) để tăng giá trị mỗi giờ làm việc. |
 | 6 | "Tương tác là sự CHỦ ĐỘNG HIỆN DIỆN." | Dành 15 phút mỗi ngày đi bình luận có chiều sâu, tag tên bạn bè hoặc đặt câu hỏi mở trên các bài viết giá trị. |
 
-
-
 ---
 
 # Phân tích Video: Hành trình tìm ra chính mình và sự hiện diện
@@ -213,8 +210,6 @@ Date: 2026-07-22
 ## Giai Đoạn 3: Phân Tích Góc Nhìn & Niềm Tin Ẩn (Thang Bloom)
 
 > Lưu ý đặc biệt: Đây là phần Tự chiêm nghiệm & Chuyển hóa nội tâm được tách biệt rõ ràng khỏi bài học chính. Hệ thống được thiết kế theo Thang nhận thức Bloom (Phân tích - Đánh giá - Sáng tạo) nhằm giúp người học nhận diện Niềm tin ẩn, soi chiếu điểm mù và đưa vào thực hành thực tế.
-
-
 
 ### Góc Nhìn & Niềm Tin Ẩn 1: Tình thương và sự kiên nhẫn
 - Hiện tượng: "Bởi vì có hiểu thì mới có thương. Mà cái tình thương ở đây đó chính là sự kiên nhẫn... đặt cái tình yêu của mình trong từng quá trình."
@@ -255,8 +250,6 @@ Date: 2026-07-22
 3. Bạn đã thực sự kiên nhẫn với hành trình của chính mình chưa?
 
 Câu hỏi cho User: Worldview nào bạn tâm đắc nhất? Bạn muốn lưu worldview nào vào Worldview Library (Phase 7B)?
-
-
 
 ---
 

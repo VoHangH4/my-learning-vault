@@ -6,7 +6,6 @@ tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
 khoa_hoc: "Tiếng Anh 25 Phút"
 ---
 
-
 # HỌC TIẾNG ANH QUA BÀI HÁT: 25 MINUTES
 Bản đầy đủ 100% thứ tự hát (Kết hợp luyện âm & Từ vựng)
 

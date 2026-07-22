@@ -8,7 +8,6 @@ tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
 khoa_hoc: "Đồng Hành Perma - Buổi 1"
 ---
 
-
 # KHÓA HỌC: KIND LEARNING COMPANIONSHIP 2026
 
 > Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.
@@ -55,7 +54,6 @@ Khép lại phần nhìn lại tuần qua, tôi muốn nhấn mạnh rằng nh�
 
 Hành trình thay đổi đôi khi sẽ gặp trở ngại về thời gian hay sự e ngại khi phải đối diện với những vấn đề cá nhân. Nhưng mọi thứ đều cần sự phù hợp và dũng cảm đối mặt. Dù chỉ có một người sẵn sàng đồng hành, hành trình này vẫn sẽ tiếp tục. Chính những giây phút thực hành và dũng cảm chia sẻ này mới là lúc chúng ta thực sự chuyển hóa.
 
-
 ---
 
 ## Phần 2: Cơ chế tạo niềm tin
@@ -96,7 +94,6 @@ Chỉ khi bạn gỡ bỏ được những niềm tin cũ kỹ từ quá khứ v
 
 Hành trình này đòi hỏi bạn phải làm việc rất nhiều với chính bản thân mình. Hãy dũng cảm gỡ bỏ những niềm tin đã tồn tại từ rất lâu nhưng không còn mang lại giá trị tốt đẹp cho hiện tại.
 
-
 ---
 
 ## Phần 3: Ảo giác về thực tại
@@ -133,7 +130,6 @@ Hai câu chuyện có chung một bối cảnh và chuỗi sự kiện, nhưng m
 
 > "Cuộc đời bạn ra sao, phụ thuộc vào cách bạn lựa chọn kể lại câu chuyện của chính mình. Bạn chọn đóng vai nạn nhân cam chịu, hay một chiến binh không ngừng nỗ lực?"
 
-
 ---
 
 ## Phần 4: 3 yếu tố làm chủ mình
@@ -156,7 +152,6 @@ Mỗi ngày, có hàng chục ngàn suy nghĩ lướt qua tâm trí. Suy nghĩ �
 > "Chúng ta chịu trách nhiệm cho suy nghĩ thứ hai và hành động đầu tiên của mình."
 
 Khi một chủ đích chuyển hóa thành hành động, bạn sẽ phải chịu hoàn toàn trách nhiệm cho hệ quả của nó. Pháp luật hay xã hội chỉ phán xét dựa trên hành vi, không dựa trên cảm xúc hay nguyên nhân sâu xa. Giống như câu chuyện một người vợ vì quá phẫn nộ khi phát hiện chồng ngoại tình mà ra tay đâm chồng. Kết cục, người vợ phải ngồi tù vì hành vi phạm tội, trong khi người chồng sai trái lại nhởn nhơ bên ngoài. Vì vậy, việc nhận diện ranh giới giữa cảm xúc bộc phát và hành động thực tế là chìa khóa tối thượng để làm chủ cuộc đời.
-
 
 ---
 
@@ -201,7 +196,6 @@ Mọi sự kiện diễn ra đều được não bộ ghi nhận. Khi một cả
 
 Dưới góc nhìn của tâm lý học tích cực, không có cảm xúc nào là hoàn toàn tiêu cực. Mỗi cảm xúc đều là một chất liệu quý giá, một tín hiệu chỉ đường giúp chúng ta quay về thấu hiểu và hoàn thiện chính mình.
 
-
 ---
 
 ## Phần 6: Kịch bản và hệ giá trị
@@ -220,7 +214,6 @@ Mọi suy nghĩ, cảm xúc và niềm tin cuối cùng đều sẽ phản chi�
 > "Chiếc xe đã đưa bạn đến đây sẽ không thể đưa bạn đến bến bờ tiếp theo."
 
 Để thực sự thay đổi, bạn phải quay ngược thời gian, lần tìm về cội nguồn nơi những niềm tin ấy bắt đầu bám rễ. Việc đào sâu vào một nỗi đau hay tổn thương trong quá khứ thường giúp chúng ta thấu hiểu bản thân sâu sắc hơn. Hãy thử nhớ lại và viết ra một ký ức bất kỳ đang hiện lên trong đầu bạn, ví dụ: "Năm 3 tuổi, tôi bị mẹ bắt đi học dù đang đau bụng dữ dội, vì mẹ không tin tôi và cho rằng tôi đang nói dối...". Việc gọi tên và đối diện với những ký ức như thế chính là bước đầu tiên để bạn giải mã niềm tin hiện tại và viết lại kịch bản cuộc đời mình.
-
 
 ---
 
@@ -256,7 +249,6 @@ Từ một ký ức nhỏ bé ban đầu, chúng ta dần quy chiếu nó thành
 
 Những vết thương chưa lành này không chỉ ảnh hưởng đến hiện tại mà còn tác động lên cách chúng ta nuôi dạy con cái và đối xử với những người xung quanh. Chúng tạo ra những cảm xúc tiêu cực, những cơn nóng giận vô cớ và những áp lực không đáng có. Vì vậy, việc nhận diện và phá vỡ những niềm tin sai lệch là bước thiết yếu để giải phóng chính mình.
 
-
 ---
 
 ## Phần 8: Bẫy phòng tránh vòng lặp
@@ -280,7 +272,6 @@ Vào đúng năm 11 tuổi, khi vừa chuyển từ cấp một sang cấp hai, 
 Đến khi con trai lớn của tôi vừa tốt nghiệp cấp một và chuẩn bị bước vào cấp hai, lịch sử dường như lặp lại. Đó cũng là thời điểm gia đình tôi chuyển từ Hà Nội vào Sài Gòn và đối mặt với vô vàn khó khăn để ổn định cuộc sống. Trong buổi lễ tốt nghiệp, khi con trai mang hoa xuống tặng mẹ, tôi đã khóc nức nở đến không thể kìm nén. Con trai tôi lo lắng không hiểu chuyện gì xảy ra, nhưng sâu thẳm bên trong, tôi đang bị bủa vây bởi hàng loạt nỗi sợ hãi: "Liệu mình có đi vào vết xe đổ của ba mẹ không? Liệu con mình có phải trải qua tuổi thơ tăm tối như mình đã từng?".
 
 Tôi nhận ra mình đã rơi vào bẫy phòng tránh. Nỗi sợ hãi lặp lại kịch bản cũ vô tình khiến tôi áp đặt toàn bộ những lo âu, áp lực lên cuộc sống của chính mình và của con. Khi nhận diện được điều này, tôi đã phải quay lại làm việc với bản thân, dỡ bỏ những niềm tin sai lệch và học cách chữa lành. Chỉ khi ta dám đối mặt và ngừng sợ hãi, ta mới thực sự bước ra khỏi vòng lặp và tìm thấy sự bình yên cho chính mình và những người thân yêu.
-
 
 ---
 
@@ -311,7 +302,6 @@ Sau khi đã tìm được sự kiện, hãy đào sâu vào cảm giác của b
 ### Bước 4: Khám phá niềm tin bằng "5 Whys"
 
 Cuối cùng, hãy tự hỏi: "Mình đang có niềm tin thế nào về cách cuộc đời vận hành?". Để tìm ra bản chất của vấn đề, hãy sử dụng kỹ thuật "5 Whys" – liên tục đặt 5 câu hỏi "Tại sao?". Ví dụ, nếu bạn tin rằng "Cuộc đời này chẳng ai lo cho mình", hãy lật ngược lại: "Tại sao tôi lại nghĩ như vậy?". Việc bám vào ký ức để đi tìm câu trả lời sẽ khơi gợi nhiều cảm xúc, giúp bạn dễ dàng đối diện và từng bước gỡ bỏ những rào cản nội tâm.
-
 
 ---
 
@@ -363,7 +353,6 @@ Ký ức tích cực ấy sẽ trở thành một mỏ neo niềm tin cho nhữn
 > "Dù khó khăn thế nào đi nữa, chúng ta cũng sẽ vượt qua. Bạn không thể kiểm soát những nghịch cảnh ập đến, nhưng bạn luôn có thể chọn nỗ lực và kiên trì để chinh phục nó."
 
 Hãy dành thời gian mỗi tuần để chọn ra một ký ức – có thể là một nỗi đau cần tháo gỡ hoặc một niềm tự hào cần neo giữ. Khi bạn gỡ bỏ được những niềm tin giới hạn, bạn sẽ thấy đôi cánh của mình rộng mở và tràn đầy sức mạnh để tự do bay cao.
-
 
 ---
 

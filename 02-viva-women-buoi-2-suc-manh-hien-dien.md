@@ -7,7 +7,6 @@ tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
 khoa_hoc: "Viva Women - Buổi 2"
 ---
 
-
 # SÁCH CHI TIẾT: SỨC MẠNH CỦA SỰ HIỆN DIỆN & TỰ KHAI VẤN NỘI TÂM
 Biên tập chuyên sâu từ bài giảng Viva Women (Buổi 2) - Giảng viên: Đan Mi
 
@@ -150,8 +149,6 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 4. "Cương quyết chú tâm bền bỉ vào giây phút hiện tại. Quá khứ đã qua, tương lai chưa tới, chỉ có hiện tại là có thật."
 5. "Bạn chính là sự nghiệp vĩ đại nhất trên đời này mà bạn cần phải hoàn thiện."
 
-
-
 ---
 
 # Khung Tự Chiêm Nghiệm & Ứng Dụng Thực Hành — Sức Mạnh Hiện Diện
@@ -160,8 +157,6 @@ Speaker: Hằng Võ
 ## Giai Đoạn 3: Phân Tích Góc Nhìn & Niềm Tin Ẩn (Thang Bloom)
 
 > Lưu ý đặc biệt: Đây là phần Tự chiêm nghiệm & Chuyển hóa nội tâm được tách biệt rõ ràng khỏi bài học chính. Hệ thống được thiết kế theo Thang nhận thức Bloom (Phân tích - Đánh giá - Sáng tạo) nhằm giúp người học nhận diện Niềm tin ẩn, soi chiếu điểm mù và đưa vào thực hành thực tế.
-
-
 
 ### Góc Nhìn & Niềm Tin Ẩn 1: Kẻ thù nội tâm
 | Mục | Nội dung |
@@ -204,8 +199,6 @@ Speaker: Hằng Võ
 1. Tiếng nói nội tâm thường xuyên nói với bạn điều gì nhất khi bạn bắt đầu một việc mới?
 2. Bạn đang gồng mình (ngược dòng) ở khía cạnh nào trong công việc hiện tại?
 3. Worldview nào trong 3 worldview trên bạn thấy tâm đắc nhất và muốn lưu vào Worldview Library?
-
-
 
 ---
 

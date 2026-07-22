@@ -8,7 +8,6 @@ tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
 khoa_hoc: "Đồng Hành Perma - Buổi 2"
 ---
 
-
 # KHÓA HỌC: KIND LEARNING COMPANIONSHIP (Video 2)
 
 > Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.
@@ -43,7 +42,6 @@ Mọi chuyện chỉ bắt đầu thay đổi khi tôi đi sâu vào quá trình
 
 Sự nóng tính thực chất không phải là bản chất cốt lõi của tôi, mà chỉ là một "ký ức của cơ bắp" – một phản xạ vô điều kiện hình thành từ những tổn thương trong quá khứ. Bất cứ khi nào gặp phải tình huống kích hoạt, tiềm thức sẽ tự động bung ra sự tức tối và gắt gỏng như một cơ chế tự vệ. Hiểu được điều này, cùng với việc nhận thức rõ sự tồn tại của những vòng lặp thế hệ, tôi càng khao khát được thoát khỏi cái kén tăm tối ấy để chữa lành và tìm lại phiên bản chân thật của chính mình.
 
-
 ---
 
 ## Phần 2: Chai sạn và kìm nén cảm xúc
@@ -68,7 +66,6 @@ Tuy nhiên, những rào cản tâm lý và thói quen kìm nén đã tạo thà
 
 Để thực sự bẻ khóa được những thói quen cũ, chúng ta cần đi sâu hơn vào việc quan sát các phản ứng của bản thân. Bạn phải bắt đầu truy tìm những "nguyên nhân kích hoạt" (triggers)—những điểm nổ vô hình khiến bạn lập tức thu mình lại hoặc kìm nén cảm xúc. Chỉ khi nhận diện rõ ràng những yếu tố này, bạn mới có thể dọn đường để xây dựng một nhân dạng tương lai mới mẻ và tự do hơn.
 
-
 ---
 
 ## Phần 3: Nhận diện nguyên nhân kích hoạt
@@ -86,7 +83,6 @@ Tuy nhiên, khi bình tĩnh nhìn nhận lại, cơn giận ấy không hoàn to
 > "Cơn giận của hiện tại thường là tiếng vọng của một vòng lặp quá khứ, nơi những tổn thương hoặc khuôn mẫu hành vi cũ chưa được nhận diện."
 
 Để có thể xoay chuyển và làm chủ cảm xúc, bước đầu tiên chính là dũng cảm đối diện, gọi tên những nguyên nhân kích hoạt này và thấu hiểu thông điệp thực sự mà chúng đang muốn nói với chúng ta.
-
 
 ---
 
@@ -109,7 +105,6 @@ Khi yếu tố kích hoạt xuất hiện, tín hiệu sẽ được truyền l�
 ### 3. Kết quả và Ảnh hưởng
 Giai đoạn cuối cùng là cách cơ thể và tâm trí giải phóng cảm xúc ra bên ngoài. Sự giải phóng này có thể biểu hiện qua hành vi như la hét, đập phá đồ đạc, hoặc làm tổn thương người khác. Nếu bạn cố gắng kìm nén, cảm xúc sẽ chuyển hóa thành sự biến đổi sinh học, tạo ra những cơn đau hoặc sự căng cứng trên chính cơ thể vật lý. Chỉ khi bóc tách và giải tỏa tận gốc, ký ức mới thực sự được chữa lành và không còn khả năng thao túng cơ thể ta nữa.
 
-
 ---
 
 ## Phần 5: Cảm xúc leo thang và bùng nổ
@@ -130,7 +125,6 @@ Giữa lúc bạn đang bận rộn đối phó với công việc, đứa con n
 
 ### Phản ứng sinh tồn mặc định
 Khi rơi vào trạng thái quá tải hoặc đối mặt với các kích hoạt tâm lý mạnh, não bộ sẽ tự động bật chế độ sinh tồn. Một trong những biểu hiện phổ biến là "đông cứng" (freeze). Chẳng hạn, một người tận mắt nhìn thấy kẻ trộm lấy cắp xe đạp nhưng lại đứng đờ người ra, không thể la hét hay hành động. Đó không phải là sự yếu kém, mà là lúc hệ thần kinh bị tê liệt tạm thời trước một cú sốc vượt quá ngưỡng chịu đựng.
-
 
 ---
 
@@ -164,7 +158,6 @@ Việc nhận diện rõ ba phản ứng sinh tồn mặc định này là chìa
 
 Có những người trải qua tuổi thơ thiếu vắng tình thương, hoặc phải học cách đè nén cảm xúc từ quá sớm. Hậu quả là khi lớn lên, họ chọn cách đối mặt với vạn vật bằng lớp vỏ bọc lạnh lùng. Chỉ khi hiểu được cơ chế sinh tồn đang chi phối bản thân, bạn mới có thể dừng việc trốn chạy, hạ vũ khí chống trả và cho phép chính mình được thực sự chữa lành.
 
-
 ---
 
 ## Phần 7: Niềm tin giới hạn và ký ức
@@ -192,7 +185,6 @@ Chúng ta rất dễ kịch tính hóa hiện tại của mình bằng những p
 > "Đừng kịch tính hóa hiện tại. Hãy tự hỏi bản thân: Mình đang phản ứng với chính sự việc này, hay đang phản ứng với một chuỗi tổn thương trong quá khứ?"
 
 Khi nhận diện được điều này, ta sẽ thôi bị cuốn theo hoàn cảnh và bắt đầu quay về chữa lành những vết thương thực sự bên trong.
-
 
 ---
 
@@ -228,7 +220,6 @@ Hãy tìm ra một phương án "nhấn phanh" hiệu quả nhất với cá nh�
 
 Phương pháp "dừng lại" này không chỉ gói gọn trong việc nuôi dạy con, mà có thể áp dụng linh hoạt cho bất kỳ tình huống hay mối quan hệ nào trong cuộc sống. Nó giúp bạn luôn giữ được sự làm chủ bản thân trong mọi khoảnh khắc.
 
-
 ---
 
 ## Phần 9: Quan sát và bẻ lái cảm xúc
@@ -261,7 +252,6 @@ Mỗi khi bạn thực hành thành công việc quan sát và bẻ lái trướ
 Nếu cứ phó mặc cho thói quen vô thức, một yếu tố kích hoạt sẽ luôn dẫn đến cảm xúc bùng nổ, kéo theo những hành vi ngoài ý muốn và để lại hậu quả dai dẳng. Vòng lặp ấy sẽ mãi lặp lại. Nhưng khi bạn chủ động ngắt quãng được não cảm xúc, bạn sẽ đánh thức tư duy logic. Bạn tự tạo ra cho mình một "khoảng không" quyền lực. Trong khoảng không ấy, bạn có toàn quyền lựa chọn cách phản ứng thông suốt và hiệu quả nhất để làm chủ cục diện.
 
 Hãy biến điều này thành một hành trình có chủ đích bằng cách ghi nhật ký mỗi ngày. Bắt đầu từ việc quan sát các yếu tố kích hoạt, liên tục đặt câu hỏi "Tại sao" (5 Whys) để đào sâu tận gốc rễ vấn đề. Đó chính là chìa khóa để bạn dần gỡ bỏ những niềm tin sai lệch và thực sự làm chủ cuộc sống của chính mình.
-
 
 ---
 
@@ -298,7 +288,6 @@ Khi đã nhận diện được thói quen cũ, bước quan trọng tiếp theo
 
 Sự dịch chuyển từ việc bị kích động sang việc làm chủ phản ứng chính là nền tảng để bạn xây dựng "nhân dạng tương lai". Khi bạn kiên trì quan sát và bẻ lái mỗi ngày, bạn không chỉ đang chữa lành chính mình mà còn đang thiết lập một hành trình sống trọn vẹn và đầy chủ đích.
 
-
 ---
 
 ## Phần 11: Phân tích tình huống thực tế
@@ -321,7 +310,6 @@ Trong tình huống này, mục đích thực sự của quy trình buổi sáng
 Mỗi ngày, hãy ghi chép lại ngắn gọn một sự kiện thực tế. Quan trọng là bạn nhìn ra được diễn biến tâm lý của bản thân: Bạn đã phản ứng theo thói quen cũ ra sao? Bạn có đang vô tình thao túng con không? Bạn đã bẻ lái thành công hay chưa? 
 
 Sự chuyển hóa bắt đầu từ những ghi nhận nhỏ bé đó. Việc thực hành đều đặn, cộng với sự chia sẻ, đồng hành từ những người bạn chung chí hướng, sẽ giúp bạn dần làm chủ cảm xúc và kiên định với những giá trị giáo dục mình theo đuổi.
-
 
 ---
 

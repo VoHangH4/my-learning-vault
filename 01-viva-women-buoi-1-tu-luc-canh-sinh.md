@@ -7,7 +7,6 @@ tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
 khoa_hoc: "Viva Women - Buổi 1"
 ---
 
-
 # Viva Women - Buổi 1: Đánh Thức Nội Lực & Trở Thành Phiên Bản Rực Rỡ Nhất
 
 ## Phần 1: Lời Mở Đầu - Hành Trình Trở Về Với Chính Mình
@@ -163,7 +162,7 @@ Sự cạnh tranh ở đây không phải là dẫm đạp lên nhau để đi l
 Dưới đây là bảng tổng hợp các hành động cụ thể bạn cần thực hiện ngay sau khi đọc xong cuốn cẩm nang này:
 
 | Hạng mục | Vấn đề thường gặp | Hành động giải quyết (Actionable Steps) | Kết quả kỳ vọng |
-| : --- | : --- | : --- | : --- |
+| :--- | :--- | :--- | :--- |
 | Quản trị Cảm xúc & Nội lực| Dễ rơi vào trạng thái overthinking, hay than vãn và đóng vai nạn nhân. | 1. Ngừng hoàn toàn việc than vãn trong 7 ngày tới.<br>2. Thực hành mỉm cười chủ đích ít nhất 10 lần/ngày.<br>3. Thay thế câu "Tại sao lại là tôi?" bằng "Tôi học được gì từ việc này?" | Nội lực vững vàng, năng lượng tích cực lan tỏa đến gia đình và đồng nghiệp. |
 | Sự Hiện Diện (Mindfulness)| Làm nhiều việc cùng lúc nhưng không việc nào trọn vẹn; mất kết nối với hiện tại. | 1. Áp dụng quy tắc "Ở đâu, trọn vẹn ở đó".<br>2. Tắt thông báo điện thoại khi đang chơi với con hoặc dùng bữa cùng gia đình.<br>3. Dành 10 phút tĩnh lặng mỗi sáng để "quay về bên trong". | Cải thiện chất lượng mối quan hệ, giảm stress và tăng hiệu suất làm việc. |
 | Xây dựng Mối Quan Hệ| Quan tâm quá nhiều đến lượt view, like ảo; bỏ bê những kết nối sâu sắc. | 1. Lọc lại danh sách mối quan hệ; ưu tiên chất lượng hơn số lượng.<br>2. Đặt lịch gặp gỡ (trực tiếp/online) với 2-3 người có cùng tần số năng lượng mỗi tuần.<br>3. Thay đổi cách đặt câu hỏi khi nhờ tư vấn (tập trung vào giải pháp). | Tạo ra mạng lưới (network) vững chắc, có thể chuyển hóa thành tài sản trong năm 2026-2027. |
@@ -173,8 +172,6 @@ Dưới đây là bảng tổng hợp các hành động cụ thể bạn cần 
 ---
 Tạm kết: Hành trình thay đổi không bao giờ là dễ dàng, nhưng nó xứng đáng. Hãy biến những kiến thức này thành tài sản của riêng bạn, ứng dụng chúng vào từng hơi thở, từng quyết định trong cuộc sống. Hãy dũng cảm bước ra khỏi vùng an toàn, bỏ lại sau lưng tư duy nạn nhân để chính thức nhận lấy chiếc vương miện mà bạn xứng đáng được đội. Chúc bạn trở thành phiên bản rực rỡ nhất của chính mình!
 
-
-
 ---
 
 # Khung Tự Chiêm Nghiệm & Ứng Dụng Thực Hành — Viva Women Buổi 1
@@ -182,8 +179,6 @@ Tạm kết: Hành trình thay đổi không bao giờ là dễ dàng, nhưng n�
 ## Giai Đoạn 3: Phân Tích Góc Nhìn & Niềm Tin Ẩn (Thang Bloom)
 
 > Lưu ý đặc biệt: Đây là phần Tự chiêm nghiệm & Chuyển hóa nội tâm được tách biệt rõ ràng khỏi bài học chính. Hệ thống được thiết kế theo Thang nhận thức Bloom (Phân tích - Đánh giá - Sáng tạo) nhằm giúp người học nhận diện Niềm tin ẩn, soi chiếu điểm mù và đưa vào thực hành thực tế.
-
-
 
 ### Góc Nhìn & Niềm Tin Ẩn 1
 - Hiện tượng: "Xã hội này là một xã hội của sự cạnh tranh và không có bất cứ một cơ hội nào đến với cuộc sống của các bạn khi mà các bạn cần cái sự giúp đỡ của ai đó... Đừng tìm kiếm sự công bằng bởi vì công bằng không tồn tại."
@@ -223,8 +218,6 @@ Tạm kết: Hành trình thay đổi không bao giờ là dễ dàng, nhưng n�
 1. Bạn đang bám chấp vào "sự công bằng" nào trong cuộc sống mà khiến bạn tự giới hạn bản thân?
 2. Mối quan hệ nào hiện tại đang là "tài sản" lớn nhất của bạn, và bạn đã nuôi dưỡng nó ra sao trong tuần qua?
 3. Bạn chọn lưu worldview nào vào thư viện niềm tin của mình? (Khuyến nghị: Lượt view là phù du, mối quan hệ mới là tài sản hoặc Đợi công bằng là chờ chết, tự bơi mới sống)
-
-
 
 ---
 
