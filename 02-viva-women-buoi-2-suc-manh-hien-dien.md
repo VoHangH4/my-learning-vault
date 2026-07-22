@@ -135,7 +135,7 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 ## BẢNG HƯỚNG DẪN THỰC HÀNH 14 NGÀY (MINDFULNESS FOR NOTION WORKSPACE)
 
 | Tuần | Chủ đề thực hành | Hành động chánh niệm cụ thể | Ứng dụng vào Notion & Công việc (Hằng Võ) |
-|: ---: |: ---|: ---|: ---|
+| :---: | :--- |: ---| :--- |
 | Tuần 1| Tách rời Trí năng & Đạo của nước | - Mức 1: Khi cáu giận/lo lắng, nói thầm: "Tôi đang quan sát nỗi sợ". <br>- Mức 2: Tự ngắt phản ứng 3 giây khi gặp ý kiến trái chiều. | Mở Notion, tạo bảng Nhật Ký Khảo Cổ Cảm Xúc. Ghi lại những lần bị trí năng lôi kéo và cách bạn đã tách rời thành công. |
 | Tuần 2| Chú tâm bền bỉ & Hiện diện trọn vẹn| - Mức 1: Tập trung 100% vào hơi thở 5 phút mỗi sáng.<br>- Mức 2: Tắt thông báo, làm đúng 1 việc quan trọng (MIT) trong 45 phút. | Thiết kế lại Zen Workspace trên Notion: Tối giản các tab gây xao nhãng, chỉ để lại 3 việc trọng tâm trong ngày. |
 
@@ -190,10 +190,11 @@ Speaker: Hằng Võ
 - So sánh với mainstream: Trong khi số đông dạy xây thương hiệu bằng công thức, chạy ads, giật tít, speaker tin rằng nội lực và sự bình an bên trong mới tạo ra sự bền vững.
 - Tension nội tại: Phải vừa thuận theo tự nhiên (không gồng) lại vừa phải "cương quyết chú tâm bền bỉ" (cần một chút ý chí gò ép sự tập trung).
 
-### 3.3. Phân Loại Và Lưu Trữ Tri Thức
-(Ghi chú: P.A.R.A là phương pháp quản lý kiến thức gồm 4 nhóm: Dự án - Lĩnh vực - Tài nguyên - Lưu trữ)
-- Củng cố: Tư duy "Sống một cuộc đời nở hoa" rất khớp với việc sử dụng Notion để dọn dẹp hệ thống số, mang lại sự bình an (Zen workspace).
-- Củng cố: Liên kết mạnh với khái niệm Thang Bloom (Đánh giá, Phân tích chính bản thân mình).
+### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
+
+- Bài học liên quan 1: Tham khảo [01-viva-women-buoi-1-tu-luc-canh-sinh.md](01-viva-women-buoi-1-tu-luc-canh-sinh.md) để nắm vững nền tảng tư duy Tự chịu trách nhiệm 100% trước khi thực hành Tĩnh an.
+- Bài học liên quan 2: Tham khảo [05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md](05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md) để nhận diện các phản ứng sinh tồn (Fight, Flight, Freeze, Fawn) khi tâm trí bị xáo động.
+- Bài học liên quan 3: Tham khảo [03-viva-women-buoi-3-hanh-trinh-tim-minh.md](03-viva-women-buoi-3-hanh-trinh-tim-minh.md) để đưa sự hiện diện vào xây dựng Ngôi nhà nội lực 5 trụ cột.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
 1. Tiếng nói nội tâm thường xuyên nói với bạn điều gì nhất khi bạn bắt đầu một việc mới?

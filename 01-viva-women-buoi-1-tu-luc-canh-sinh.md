@@ -209,10 +209,11 @@ Tạm kết: Hành trình thay đổi không bao giờ là dễ dàng, nhưng n�
 - So sánh với mainstream: Thay vì dạy các kỹ xảo "câu view" hay "hack thuật toán", cô tập trung vào nội lực, sự chân thật và xây dựng cộng đồng gắn kết sâu sắc. Dám nói thẳng sự khốc liệt của việc kiếm tiền thay vì những lời hứa hẹn "ngồi không cũng ra tiền".
 - Tension nội tại: Một mặt cô vô cùng khắt khe, thẳng thắn, loại bỏ những người không cùng năng lượng (cắt Zoom, kích khỏi nhóm); mặt khác cô lại rất khao khát xây dựng một cộng đồng đầy ắp tình yêu thương, biết ơn và bao dung. Tuy nhiên điều này không mâu thuẫn: phải có ranh giới rõ ràng mới bảo vệ được sự thuần khiết của cộng đồng.
 
-### 3.3. Phân Loại Và Lưu Trữ Tri Thức
-(Ghi chú: P.A.R.A là phương pháp quản lý kiến thức gồm 4 nhóm: Dự án - Lĩnh vực - Tài nguyên - Lưu trữ)
-- Củng cố: Tư tưởng tự chịu trách nhiệm hoàn toàn phù hợp với tinh thần làm chủ nội tâm. Việc sống trọn vẹn ở "hiện tại" (Giai đoạn chuyển hóa đầu tiên cô nhắc đến) tương thích hoàn toàn với "Quá khứ là cái bóng, tương lai là ảo ảnh".
-- Mở rộng: Thang Bloom có thể bổ sung vào quá trình "phát triển trọn vẹn với tiềm năng", biến việc "tự học" (lý thuyết) thành "thực hành" (kiếm tiền/xây mối quan hệ).
+### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
+
+- Bài học liên quan 1: Tham khảo [02-viva-women-buoi-2-suc-manh-hien-dien.md](02-viva-women-buoi-2-suc-manh-hien-dien.md) để nâng cấp từ "Tự lực cánh sinh" lên "Sức mạnh hiện diện & Đạo của nước".
+- Bài học liên quan 2: Tham khảo [04-perma-co-tho-buoi-1-ton-thuong-tuoi-tho.md](04-perma-co-tho-buoi-1-ton-thuong-tuoi-tho.md) để thấu hiểu gốc rễ tổn thương tuổi thơ ảnh hưởng đến cơ chế tự vệ trong công việc hiện tại.
+- Bài học liên quan 3: Tham khảo [07-hoc-tieng-anh-25-phut.md](07-hoc-tieng-anh-25-phut.md) để áp dụng tư duy "Nhớ quy trình, không nhớ việc" vào xây dựng thói quen tự học hàng ngày.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
 1. Bạn đang bám chấp vào "sự công bằng" nào trong cuộc sống mà khiến bạn tự giới hạn bản thân?

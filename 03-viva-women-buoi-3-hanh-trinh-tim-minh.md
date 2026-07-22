@@ -193,7 +193,7 @@ Khi Nền móng và Bức tường chưa có, đừng cố vẽ ra một phong c
 ## TÓM TẮT KHÓA HỌC & BẢNG ĐÚC KẾT HÀNH ĐỘNG
 
 | STT | Trích dẫn & Bài học chạm từ Giảng viên | Kế hoạch hành động áp dụng ngay (Cho Hằng Võ) |
-|: ---: |: ---|: ---|
+| :---: | :--- |: ---|
 | 1 | "Có hiểu thì mới có thương... Tình thương chính là sự kiên nhẫn." | Khi hỗ trợ khách hàng/học viên, chậm lại 3 giây, đặt sự bao dung của người mẹ vào từng bước hướng dẫn. |
 | 2 | "Vấn đề sẽ không còn khi bạn lớn hơn vấn đề." | Đứng trước sự cố công việc, tự hỏi: "Làm sao để tâm mình lớn như dòng sông chứ không phải cái cốc?" |
 | 3 | "Kênh chỉ phóng đại những gì bạn có sẵn bên trong." | Tập trung 80% lực vào việc vun bồi "Tài sản nội tâm" và dọn dẹp hệ thống số thật chuẩn trước khi đẩy mạnh truyền thông. |
@@ -239,10 +239,11 @@ Date: 2026-07-22
 - So sánh với mainstream: Trong khi số đông tìm kiếm "hạnh phúc ở bên ngoài" hay "chiến thuật xây kênh nhanh", góc nhìn này lại hướng vào "phát triển bên trong", coi nền tảng mạng xã hội chỉ là công cụ phóng đại giá trị tự thân.
 - Tension nội tại: Đôi khi việc quá bao dung và tập trung vào quá trình có thể làm chậm trễ tiến độ của những mục tiêu cần tính thực tế và tốc độ cao.
 
-### 3.3. Phân Loại Và Lưu Trữ Tri Thức
-(Ghi chú: P.A.R.A là phương pháp quản lý kiến thức gồm 4 nhóm: Dự án - Lĩnh vực - Tài nguyên - Lưu trữ)
-- Ghi nhận: Các khái niệm này hoàn toàn phù hợp với triết lý Học Sâu (Deep Learning) của hệ thống. Nhấn mạnh việc biến kiến thức thành tài sản nội tâm cá nhân thay vì lập tức mang ra làm content bề nổi.
-- Phân loại: Củng cố (Củng cố thêm tư tưởng về sự hiện diện, chú tâm, và năng lượng vững chãi từ bên trong).
+### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
+
+- Bài học liên quan 1: Tham khảo [02-viva-women-buoi-2-suc-manh-hien-dien.md](02-viva-women-buoi-2-suc-manh-hien-dien.md) để rèn luyện chất giọng an tĩnh xuất phát từ sự hiện diện nội tại.
+- Bài học liên quan 2: Tham khảo [06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md](06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md) để tháo gỡ các nghiện cảm xúc tiêu cực đang cản trở trụ cột Tâm an.
+- Bài học liên quan 3: Tham khảo [01-viva-women-buoi-1-tu-luc-canh-sinh.md](01-viva-women-buoi-1-tu-luc-canh-sinh.md) để củng cố tư tưởng xây dựng mối quan hệ là tài sản thực sự.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
 1. Bạn đang là "cốc nước" hay "dòng sông" trước những nắm muối của cuộc đời?
