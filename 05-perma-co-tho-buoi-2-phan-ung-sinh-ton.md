@@ -1,3 +1,11 @@
+---
+Tags: [#perma, #co-tho, #phan-ung-sinh-ton]
+Diễn giả: Cô Thơ
+Người học & Ghi chép: Võ Hằng
+Khóa học: Đồng Hành Perma - Buổi 2
+---
+
+
 # KHÓA HỌC: KIND LEARNING COMPANIONSHIP (Video 2)
 
 > *Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.*

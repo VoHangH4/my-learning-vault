@@ -1,3 +1,11 @@
+---
+Tags: [#perma, #co-tho, #sang-chan-nghien-cam-xuc]
+Diễn giả: Cô Thơ
+Người học & Ghi chép: Võ Hằng
+Khóa học: Đồng Hành Perma - Buổi 3
+---
+
+
 # KHÓA HỌC: PERMA BUỔI 5 (Video 3)
 
 > *Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.*

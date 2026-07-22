@@ -1,3 +1,11 @@
+---
+Tags: [#perma, #co-tho, #ton-thuong-tuoi-tho]
+Diễn giả: Cô Thơ
+Người học & Ghi chép: Võ Hằng
+Khóa học: Đồng Hành Perma - Buổi 1
+---
+
+
 # KHÓA HỌC: KIND LEARNING COMPANIONSHIP 2026
 
 > *Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.*
