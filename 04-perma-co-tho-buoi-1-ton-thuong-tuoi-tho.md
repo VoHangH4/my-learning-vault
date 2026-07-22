@@ -177,7 +177,7 @@ Nhiều người lầm tưởng làm chủ bản thân chỉ đơn thuần là k
 ### Cảm xúc không phải là khiếm khuyết tính cách
 Chúng ta thường dán nhãn ai đó là "người nóng tính" và mặc định đó là bản tính không thể thay đổi. Thực chất, nóng giận hay cáu gắt chỉ là một loại cảm xúc. Nó không đại diện cho toàn bộ con người bạn, và chắc chắn không phải là một khiếm khuyết về tính cách.
 
-Về bản chất khoa học, cảm xúc là một cơ chế sinh học đặc biệt, được kích hoạt bởi **hạch hạnh nhân (amygdala)** nhằm bảo vệ chúng ta và phục vụ mục đích sinh tồn. Từ thuở sơ khai, tổ tiên chúng ta sống trong hang đá và phải đối mặt với thú dữ. Bộ não đã hình thành cơ chế "chiến hay biến" (fight or flight) để phản ứng ngay lập tức trước nguy hiểm. 
+Về bản chất khoa học, cảm xúc là một cơ chế sinh học đặc biệt, được kích hoạt bởi **hạch hạnh nhân (amygdala)**nhằm bảo vệ chúng ta và phục vụ mục đích sinh tồn. Từ thuở sơ khai, tổ tiên chúng ta sống trong hang đá và phải đối mặt với thú dữ. Bộ não đã hình thành cơ chế "chiến hay biến" (fight or flight) để phản ứng ngay lập tức trước nguy hiểm. 
 
 Ngày nay, những tác nhân gây căng thẳng không còn là thú dữ khát máu, mà là áp lực công việc, sự bất định hay những hình ảnh tiêu cực. Thế nhưng, hạch hạnh nhân vẫn tiếp tục kích hoạt những cảm xúc mạnh mẽ để bảo vệ chúng ta như cách nó đã làm hàng triệu năm qua.
 
@@ -329,9 +329,9 @@ Việc chia sẻ và lắng nghe góc nhìn từ một người ngoài cuộc l�
 
 Để thực sự tháo gỡ những vướng mắc từ quá khứ, chúng ta cần một quy trình rõ ràng. Bản đồ bóc tách nội tâm gồm bốn bước cốt lõi giúp bạn làm việc với chính mình:
 
-1. **Tìm kiếm một sự kiện cụ thể:** Bắt đầu bằng việc chọn ra một ký ức và quan sát lại cảm xúc của bạn tại thời điểm đó.
-2. **Viết lại kịch bản:** Ghi nhận những "tiếng nói nhỏ" bên trong mà bạn vẫn luôn tự nhủ với bản thân bấy lâu nay.
-3. **Nhận diện thế giới quan:** Phân tích xem bạn đang nhìn nhận thế giới như thế nào dựa trên câu chuyện và niềm tin ấy.
+1. **Tìm kiếm một sự kiện cụ thể:**Bắt đầu bằng việc chọn ra một ký ức và quan sát lại cảm xúc của bạn tại thời điểm đó.
+2. **Viết lại kịch bản:**Ghi nhận những "tiếng nói nhỏ" bên trong mà bạn vẫn luôn tự nhủ với bản thân bấy lâu nay.
+3. **Nhận diện thế giới quan:**Phân tích xem bạn đang nhìn nhận thế giới như thế nào dựa trên câu chuyện và niềm tin ấy.
 4. **Bẻ gãy vòng lặp:** Sử dụng lý trí để quan sát cảm xúc, sau đó xây dựng lại một hệ thống niềm tin mới vững chắc hơn.
 
 > "Việc làm chủ bản thân không phải là một phép thuật. Đó là một quá trình giải phẫu hệ thống: dùng lý trí để tháo gỡ cảm xúc, quan sát nó, viết lại niềm tin và bẻ gãy những vòng lặp cũ."

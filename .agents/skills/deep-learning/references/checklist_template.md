@@ -1,6 +1,6 @@
 # BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (EXECUTION CHECKLIST)
-**Nguồn:** [Tên bài học/video/sách] 
-**Nguồn lưu trữ P.A.R.A:** [execution_checklist.md](file:///[abs_path]/execution_checklist.md)
+**Nguồn:**[Tên bài học/video/sách] 
+**Nguồn lưu trữ P.A.R.A:**[execution_checklist.md](file:///[abs_path]/execution_checklist.md)
 
 ---
 

@@ -12,8 +12,8 @@ repository: "my-learning-vault"
 Chào mừng bạn đến với **Tủ Sách Học Sâu Online**. 
 
 Tủ sách này được quy hoạch theo triết lý **Repository làm không gian làm việc chung cho Con Người & AI Agent**:
-- **Trình bày dạng Cây Thư Mục Phẳng (Flat Files):** Chọn tên file ở thanh **Files (Cây thư mục bên trái)**, toàn bộ nội dung cuốn sách cùng Khung Học Tập & Tự Khai Vấn Thực Hành sẽ hiển thị ngay tức thì ở khung bên phải.
-- **Tích hợp AI Agent & Skill:** Repo chứa sẵn file `AGENTS.md` và Skill `.agents/skills/deep-learning/` để mọi AI Agent có thể tự động bóc tách và viết sách trực tiếp trong này.
+- **Trình bày dạng Cây Thư Mục Phẳng (Flat Files):**Chọn tên file ở thanh **Files (Cây thư mục bên trái)**, toàn bộ nội dung cuốn sách cùng Khung Học Tập & Tự Khai Vấn Thực Hành sẽ hiển thị ngay tức thì ở khung bên phải.
+- **Tích hợp AI Agent & Skill:**Repo chứa sẵn file `AGENTS.md` và Skill `.agents/skills/deep-learning/` để mọi AI Agent có thể tự động bóc tách và viết sách trực tiếp trong này.
 
 ---
 

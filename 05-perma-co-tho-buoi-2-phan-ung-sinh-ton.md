@@ -236,10 +236,10 @@ Phương pháp "dừng lại" này không chỉ gói gọn trong việc nuôi d�
 ### Bước 2: Quan sát (Observe) - Tách rời để thấu hiểu
 Khi đã dừng lại được ở bước đầu tiên, chúng ta sẽ chuyển sang bước thứ hai: Quan sát. Việc quan sát không chỉ dừng lại ở việc gọi tên cảm xúc chung chung như "tôi đang giận" hay "tôi thấy buồn". Để thực sự tách rời khỏi cơn bão cảm xúc, bạn cần mổ xẻ nó qua bốn yếu tố:
 
-1. **Biểu hiện sinh lý:** Cơ thể vật lý của bạn đang phản ứng thế nào? (Ví dụ: tim đập nhanh, căng cơ, nóng mặt...)
-2. **Cảm xúc chi tiết:** Liệt kê và gọi tên chính xác từng trạng thái cảm xúc đang cuộn trào bên trong.
-3. **Dòng suy nghĩ:** Bạn đang nghĩ gì? Đó là sự thôi thúc muốn hành động ngay lập tức, một liên tưởng về quá khứ, hay những suy diễn vô căn cứ? (Tốt nhất hãy viết chúng ra).
-4. **Hành vi:** Hành động mà bạn đang muốn thực hiện là gì? Nếu sự việc đã qua, bạn đã thực sự làm gì?
+1. **Biểu hiện sinh lý:**Cơ thể vật lý của bạn đang phản ứng thế nào? (Ví dụ: tim đập nhanh, căng cơ, nóng mặt...)
+2. **Cảm xúc chi tiết:**Liệt kê và gọi tên chính xác từng trạng thái cảm xúc đang cuộn trào bên trong.
+3. **Dòng suy nghĩ:**Bạn đang nghĩ gì? Đó là sự thôi thúc muốn hành động ngay lập tức, một liên tưởng về quá khứ, hay những suy diễn vô căn cứ? (Tốt nhất hãy viết chúng ra).
+4. **Hành vi:**Hành động mà bạn đang muốn thực hiện là gì? Nếu sự việc đã qua, bạn đã thực sự làm gì?
 
 Nguyên tắc tối thượng ở bước này là **không phán xét, không nhận định**. Nhiệm vụ của bạn chỉ là ghi nhận mọi thứ chi tiết nhất có thể để làm dữ liệu khách quan.
 

@@ -30,10 +30,10 @@ Xây mình trước khi xây kênh. Sức mạnh của sự hiện diện chính
 ### 1. Năm Khát Khao Cốt Lõi Của Con Người
 Dù bạn là ai hay đang ở tầng lớp nào trong xã hội, sâu thẳm bên trong bạn luôn tồn tại 5 ước muốn lớn nhất:
 
-1. **Tự do tài chính và sự nghiệp:** Nền tảng vật chất để an tâm sinh sống.
-2. **Hạnh phúc gia đình và tình yêu thương:** Khi độc thân khao khát có tình yêu; khi có tình yêu khao khát gia đình ấm êm.
-3. **Sức khỏe và sự trường thọ:** Không chỉ muốn sống khỏe mà còn muốn sống lâu để trải nghiệm thế giới.
-4. **Mục đích sống và sự cống hiến:** Khao khát biết rõ "Tôi là ai?" và được đóng góp giá trị cho cộng đồng.
+1. **Tự do tài chính và sự nghiệp:**Nền tảng vật chất để an tâm sinh sống.
+2. **Hạnh phúc gia đình và tình yêu thương:**Khi độc thân khao khát có tình yêu; khi có tình yêu khao khát gia đình ấm êm.
+3. **Sức khỏe và sự trường thọ:**Không chỉ muốn sống khỏe mà còn muốn sống lâu để trải nghiệm thế giới.
+4. **Mục đích sống và sự cống hiến:**Khao khát biết rõ "Tôi là ai?" và được đóng góp giá trị cho cộng đồng.
 5. **Sự bình an trong tâm hồn:** Cái đích cuối cùng và cũng là điều khó chạm tới nhất.
 
 ### 2. Cạm Bẫy Của Việc "Đi Tắt"
@@ -83,8 +83,8 @@ Nước là thứ mềm yếu nhất trên đời, nhưng không có thứ cứn
 Phụ nữ mệt mỏi là vì luôn gồng mình lên để chèo thuyền ngược dòng, hơn thua đúng sai trong gia đình và công sở. Người bình lặng hơn từ bên trong sẽ nhận được nhiều hơn là mất.
 
 ### 2. Ba Bảo Vật Của Lão Tử Trong Ứng Xử
-1. **Từ ái (Lòng trắc ẩn):** Yêu thương và bao dung với chính mình và người khác.
-2. **Tiết kiệm:** Tiết kiệm năng lượng, lời nói, cảm xúc. Đừng lãng phí năng lượng vào những cuộc cãi vã vô bổ.
+1. **Từ ái (Lòng trắc ẩn):**Yêu thương và bao dung với chính mình và người khác.
+2. **Tiết kiệm:**Tiết kiệm năng lượng, lời nói, cảm xúc. Đừng lãng phí năng lượng vào những cuộc cãi vã vô bổ.
 3. **Không tranh giành:** Người thiện ta thiện, người không thiện ta vẫn thiện. Vì không tranh giành nên không bao giờ thất bại.
 
 > *"Một người có sự khiêm hạ, ăn nói từ tốn, nói chậm mà chắc, giữ lấy sự bình an thì sẽ được nhiều hơn là mất so me với việc gồng mình lên đấu tranh, phân bua."*
@@ -118,7 +118,7 @@ Nhiều người nói nhanh, nói vấp, tư duy hỗn loạn là do họ thở 
 ### 1. Cơn Giận Qua Đi - Đau Khổ Ở LẠI
 Khi bạn nóng giận, gương mặt bạn căng lên, cau có và biến dạng – đó không phải là con người thật của bạn. Sau mỗi cuộc cãi vã hay trút giận, người chịu đau khổ và tổn thương nhất lại chính là bản thân bạn.
 
-**Bí kíp:** Giữ nét mặt và ngưng lại **3 giây** trước khi phản ứng với bất kỳ sự cố nào.
+**Bí kíp:**Giữ nét mặt và ngưng lại **3 giây**trước khi phản ứng với bất kỳ sự cố nào.
 
 ### 2. Từ "Bạn Đời" Tiến Lên "Bạn Đạo"
 Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũng sẽ hạ nhiệt. Để ở bên nhau 50-60 năm bình an, hai người phải hướng tới việc trở thành **Bạn Đạo**:
@@ -137,8 +137,8 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 
 | Tuần | Chủ đề thực hành | Hành động chánh niệm cụ thể | Ứng dụng vào Notion & Công việc (Hằng Võ) |
 |:---:|:---|:---|:---|
-| **Tuần 1** | **Tách rời Trí năng & Đạo của nước** | - Mức 1: Khi cáu giận/lo lắng, nói thầm: *"Tôi đang quan sát nỗi sợ"*. <br>- Mức 2: Tự ngắt phản ứng 3 giây khi gặp ý kiến trái chiều. | Mở Notion, tạo bảng **Nhật Ký Khảo Cổ Cảm Xúc**. Ghi lại những lần bị trí năng lôi kéo và cách bạn đã tách rời thành công. |
-| **Tuần 2** | **Chú tâm bền bỉ & Hiện diện trọn vẹn** | - Mức 1: Tập trung 100% vào hơi thở 5 phút mỗi sáng.<br>- Mức 2: Tắt thông báo, làm đúng 1 việc quan trọng (MIT) trong 45 phút. | Thiết kế lại **Zen Workspace** trên Notion: Tối giản các tab gây xao nhãng, chỉ để lại 3 việc trọng tâm trong ngày. |
+| **Tuần 1**| **Tách rời Trí năng & Đạo của nước** | - Mức 1: Khi cáu giận/lo lắng, nói thầm: *"Tôi đang quan sát nỗi sợ"*. <br>- Mức 2: Tự ngắt phản ứng 3 giây khi gặp ý kiến trái chiều. | Mở Notion, tạo bảng **Nhật Ký Khảo Cổ Cảm Xúc**. Ghi lại những lần bị trí năng lôi kéo và cách bạn đã tách rời thành công. |
+| **Tuần 2**| **Chú tâm bền bỉ & Hiện diện trọn vẹn**| - Mức 1: Tập trung 100% vào hơi thở 5 phút mỗi sáng.<br>- Mức 2: Tắt thông báo, làm đúng 1 việc quan trọng (MIT) trong 45 phút. | Thiết kế lại **Zen Workspace** trên Notion: Tối giản các tab gây xao nhãng, chỉ để lại 3 việc trọng tâm trong ngày. |
 
 ---
 
@@ -155,7 +155,7 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 ---
 
 # Bản Khảo Cổ Niềm Tin — Sức Mạnh Của Sự Hiện Diện
-**Speaker:** Hằng Võ
+**Speaker:**Hằng Võ
 
 ## Giai Đoạn 3: Khảo Cổ Niềm Tin (3 Thế Giới Quan Cốt Lõi)
 
@@ -163,7 +163,7 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 | Mục | Nội dung |
 |-----|----------|
 | Hiện tượng | "Đâu là trở ngại lớn nhất... chính là việc các bạn tự đồng hóa mình với trí năng." |
-| Niềm tin ẩn | **Đừng nhận giặc làm con (tiếng ồn trong đầu không phải là bạn).** |
+| Niềm tin ẩn | **Đừng nhận giặc làm con (tiếng ồn trong đầu không phải là bạn).**|
 | Đúng khi | 1. Khi đang cáu gắt và nhận ra đó chỉ là cảm xúc nhất thời, không phải bản chất thật của mình.<br>2. Khi có suy nghĩ bỏ cuộc nhưng biết tách rời để quan sát suy nghĩ đó. |
 | Sai khi | Khi cần dùng trí óc logic để phân tích và giải quyết các bài toán kỹ thuật cụ thể. |
 | Áp dụng: | Lần tới khi nổi giận, hãy nói thầm: "Mình đang quan sát một cảm xúc nóng giận", thay vì "Mình đang giận". |
@@ -172,7 +172,7 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 | Mục | Nội dung |
 |-----|----------|
 | Hiện tượng | "Tại sao những người phụ nữ chúng ta càng gồng mình, càng hơn thua... thì lại càng không đạt được. Các bạn bình lặng hơn... sẽ được nhiều hơn là mất." |
-| Niềm tin ẩn | **Lùi một bước biển rộng trời cao, mềm như nước lại mòn cả đá.** |
+| Niềm tin ẩn | **Lùi một bước biển rộng trời cao, mềm như nước lại mòn cả đá.**|
 | Đúng khi | 1. Trong tranh luận vợ chồng, nhường nhịn một câu giúp hóa giải xung đột.<br>2. Thay vì gồng mình ép deadline, lùi lại nghỉ ngơi một chút lại tìm ra giải pháp tốt hơn. |
 | Sai khi | Trong tình huống cần bảo vệ ranh giới cá nhân cứng rắn trước sự lạm dụng. |
 | Áp dụng: | Khi gặp ý kiến trái chiều, ngừng phản ứng 3 giây trước khi nói, chọn cách trả lời từ tốn nhất. |
@@ -181,17 +181,18 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 | Mục | Nội dung |
 |-----|----------|
 | Hiện tượng | "Không có một cái gì có thể xảy ra trong quá khứ cả... Nó chỉ xảy ra ở trong giây phút này thôi." |
-| Niềm tin ẩn | **Quá khứ là cái bóng, tương lai là ảo ảnh, chỉ hiện tại mới là vàng.** |
+| Niềm tin ẩn | **Quá khứ là cái bóng, tương lai là ảo ảnh, chỉ hiện tại mới là vàng.**|
 | Đúng khi | 1. Đang làm việc mà nhớ chuyện buồn hôm qua, quay lại hít thở để kéo sự tập trung về màn hình.<br>2. Lo lắng không biết tháng sau có tiền không, nhưng quyết định làm tốt nhất bài tập ngày hôm nay. |
 | Sai khi | Cần lên kế hoạch chiến lược dài hạn đòi hỏi phải phân tích quá khứ và dự phóng tương lai. |
 | Áp dụng: | Mỗi ngày dành 5 phút chỉ ngồi thở và lắng nghe âm thanh xung quanh, không nghĩ gì khác. |
 
 ## Giai Đoạn 4: Tổng Hợp & Đối Chiếu
-- **Bảng 3 niềm tin:** Tách rời trí năng - Sống thuận tự nhiên - Tập trung hiện tại.
-- **So sánh với mainstream:** Trong khi số đông dạy xây thương hiệu bằng công thức, chạy ads, giật tít, speaker tin rằng nội lực và sự bình an bên trong mới tạo ra sự bền vững.
-- **Tension nội tại:** Phải vừa thuận theo tự nhiên (không gồng) lại vừa phải "cương quyết chú tâm bền bỉ" (cần một chút ý chí gò ép sự tập trung).
+- **Bảng 3 niềm tin:**Tách rời trí năng - Sống thuận tự nhiên - Tập trung hiện tại.
+- **So sánh với mainstream:**Trong khi số đông dạy xây thương hiệu bằng công thức, chạy ads, giật tít, speaker tin rằng nội lực và sự bình an bên trong mới tạo ra sự bền vững.
+- **Tension nội tại:**Phải vừa thuận theo tự nhiên (không gồng) lại vừa phải "cương quyết chú tâm bền bỉ" (cần một chút ý chí gò ép sự tập trung).
 
-## Giai Đoạn 5: Đối Chiếu Hệ Thống Tri Thức P.A.R.A
+## Giai Đoạn 5: Phân Loại & Lưu Vào Hệ Thống Tri Thức Cá Nhân
+*(Ghi chú: P.A.R.A là phương pháp quản lý kiến thức gồm 4 nhóm: Dự án - Lĩnh vực - Tài nguyên - Lưu trữ)*
 - 🟢 Củng cố: Tư duy "Sống một cuộc đời nở hoa" rất khớp với việc sử dụng Notion để dọn dẹp hệ thống số, mang lại sự bình an (Zen workspace).
 - 🟢 Củng cố: Liên kết mạnh với khái niệm Thang Bloom (Đánh giá, Phân tích chính bản thân mình).
 
@@ -205,17 +206,15 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 ---
 
 # BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA)
-**Nguồn:** Viva Women - Buổi 2: Sức Mạnh Của Sự Hiện Diện & Đạo Của Nước 
-**Giảng viên:** Hằng Võ 
-**Nguồn lưu trữ P.A.R.A:** [execution_checklist.md](file:///d:/Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_IzcHd5UGplU/execution_checklist.md)
+**Nguồn:**Viva Women - Buổi 2: Sức Mạnh Của Sự Hiện Diện & Đạo Của Nước 
+**Giảng viên:**Hằng Võ 
+**Nguồn lưu trữ P.A.R.A:**[execution_checklist.md](file:///d:/Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_IzcHd5UGplU/execution_checklist.md)
 
 ---
 
 ## PHA 0: NEO NHẬN THỨC BAN ĐẦU
-- **Suy nghĩ/Niềm tin ban đầu của bạn:** 
- `[Tôi từng nghĩ càng gồng mình chiến đấu và tranh luận thì mới đạt được kết quả]`
-- **Nhận thức sau khi học:** 
- `[Nhận giặc làm con là cái bẫy trí năng; lùi 1 bước tĩnh lặng như nước mới tích tụ được nội lực mạnh nhất]`
+- **Suy nghĩ/Niềm tin ban đầu của bạn:**`[Tôi từng nghĩ càng gồng mình chiến đấu và tranh luận thì mới đạt được kết quả]`
+- **Nhận thức sau khi học:**`[Nhận giặc làm con là cái bẫy trí năng; lùi 1 bước tĩnh lặng như nước mới tích tụ được nội lực mạnh nhất]`
 
 ---
 
@@ -223,9 +222,9 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 
 | STT | Việc cần làm | Tần suất & Thời lượng | Chu kỳ thực hành | Trạng thái |
 |:---:|:---|:---|:---|:---:|
-| 1 | **Tạm dừng 3 giây:** Tạm dừng 3 giây trước khi phản ứng mỗi khi nghe ý kiến trái chiều hoặc xung đột | Mỗi khi gặp tranh luận | 21 ngày liên tục | `[ ]` |
-| 2 | **Tách rời trí năng:** Nói thầm "Mình đang quan sát cảm xúc nóng giận/nỗi sợ" thay vì tự đồng hóa | Mỗi khi có cảm xúc tiêu cực | 14 ngày liên tục | `[ ]` |
-| 3 | **Ngồi hiện diện:** Tắt mọi thiết bị, chỉ ngồi hít thở và quan sát âm thanh xung quanh | 5 phút mỗi sáng | 7 ngày liên tục | `[ ]` |
+| 1 | **Tạm dừng 3 giây:**Tạm dừng 3 giây trước khi phản ứng mỗi khi nghe ý kiến trái chiều hoặc xung đột | Mỗi khi gặp tranh luận | 21 ngày liên tục | `[ ]` |
+| 2 | **Tách rời trí năng:**Nói thầm "Mình đang quan sát cảm xúc nóng giận/nỗi sợ" thay vì tự đồng hóa | Mỗi khi có cảm xúc tiêu cực | 14 ngày liên tục | `[ ]` |
+| 3 | **Ngồi hiện diện:**Tắt mọi thiết bị, chỉ ngồi hít thở và quan sát âm thanh xung quanh | 5 phút mỗi sáng | 7 ngày liên tục | `[ ]` |
 
 ---
 
@@ -255,5 +254,5 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 ## 4. VÒNG LẶP PHẢN HỒI THỰC TẾ (VÒNG LẶP PHẢN HỒI THỰC TẾ)
 *(Điền phần này sau khi bạn đã thực hành ngoài đời 7 ngày)*
 
-- **Kết quả thực tế khác lý thuyết như thế nào?** `[Điền kết quả thực tế]`
+- **Kết quả thực tế khác lý thuyết như thế nào?**`[Điền kết quả thực tế]`
 - **Nguyên tắc nào cần điều chỉnh vào bản Khảo cổ niềm tin?** `[Điền nguyên tắc điều chỉnh]`

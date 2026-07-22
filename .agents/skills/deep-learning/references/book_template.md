@@ -13,8 +13,8 @@
 
 ## PHẦN 1: [TÊN CHƯƠNG 1]
 ### 1. [Tên mục nhỏ]
-- **Nội dung phân tích sâu:** [Mô tả chi tiết, mạch lạc các luận điểm]
-- **Hình ảnh ngụ ngôn / Ví dụ thực tế:** [Giữ nguyên các câu chuyện ngụ ngôn, ví dụ gốc]
+- **Nội dung phân tích sâu:**[Mô tả chi tiết, mạch lạc các luận điểm]
+- **Hình ảnh ngụ ngôn / Ví dụ thực tế:**[Giữ nguyên các câu chuyện ngụ ngôn, ví dụ gốc]
 - **Quote chạm:**
  > *"[Quote gốc đắt giá]"*
 

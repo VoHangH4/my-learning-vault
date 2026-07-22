@@ -1,7 +1,6 @@
 # TỦ SÁCH HỌC SÂU (DIGITAL LEARNING & BOOK VAULT)
 
-> **Repository làm không gian làm việc chung cho Con Người & AI Agent** 
-> Dựa trên mô hình quản trị tri thức & viết sách bằng Markdown trên GitHub.
+> **Repository làm không gian làm việc chung cho Con Người & AI Agent**> Dựa trên mô hình quản trị tri thức & viết sách bằng Markdown trên GitHub.
 
 ---
 

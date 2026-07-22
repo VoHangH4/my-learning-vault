@@ -14,7 +14,7 @@ updated: 2026-07-22
 
 # Skill: Deep Learning OS (Hệ Điều Hành Học Sâu Khép Kín)
 
-> **Triết lý:** "Học không phải là tích trữ thông tin. Học là một vòng lặp tự tiến hóa: Neo nhận thức ban đầu Phân tích tinh hoa Thử nghiệm thực tế Cập nhật niềm tin mới."
+> **Triết lý:**"Học không phải là tích trữ thông tin. Học là một vòng lặp tự tiến hóa: Neo nhận thức ban đầu Phân tích tinh hoa Thử nghiệm thực tế Cập nhật niềm tin mới."
 > **Nguyên tắc vàng:** **HÀNH ĐỘNG TRƯỚC - NẠP MỚI SAU - KHÉP KÍN VÒNG LẶP PHẢN TƯ.**
 
 ---
@@ -89,6 +89,6 @@ graph TD
 ---
 
 ## CRITICAL RULES
-1. **P.A.R.A TRƯỚC, ARTIFACT SAU:** Ghi trực tiếp vào file local trước, tạo Artifact sau.
-2. **GHI NHẬN LỊCH SỬ:** Mọi thay đổi bắt buộc cập nhật vào `CHANGES.log`.
+1. **P.A.R.A TRƯỚC, ARTIFACT SAU:**Ghi trực tiếp vào file local trước, tạo Artifact sau.
+2. **GHI NHẬN LỊCH SỬ:**Mọi thay đổi bắt buộc cập nhật vào `CHANGES.log`.
 3. **ĐÓNG VÒNG LẶP NỘI TÂM:** Mọi thực hành thực tế phải được phản hồi lại để hoàn thiện hệ thống tư duy.

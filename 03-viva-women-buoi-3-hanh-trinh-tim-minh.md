@@ -38,7 +38,7 @@ Phụ nữ sở hữu một năng lực thiên bẩm tuyệt vời giống như 
 - Bạn biết đặt tình yêu vào cả quá trình trải nghiệm chứ không chỉ dồn mọi kỳ vọng vào kết quả cuối cùng.
 
 ### 2. "Tâm An Thì Giọng Mới An"
-Sự bình an không thể được giả tạo bằng các kỹ thuật bên ngoài. Nếu bên ngoài bạn cố tỏ ra điềm tĩnh nhưng bên trong nội tâm đang dậy sóng hoài nghi hay tức giận, hai trạng thái trái ngược đó sẽ lập tức xung đột. Sự mất cân bằng này sẽ bộc lộ ngay qua ánh mắt và đặc biệt là qua **giọng nói** của bạn.
+Sự bình an không thể được giả tạo bằng các kỹ thuật bên ngoài. Nếu bên ngoài bạn cố tỏ ra điềm tĩnh nhưng bên trong nội tâm đang dậy sóng hoài nghi hay tức giận, hai trạng thái trái ngược đó sẽ lập tức xung đột. Sự mất cân bằng này sẽ bộc lộ ngay qua ánh mắt và đặc biệt là qua **giọng nói**của bạn.
 
 Giọng nói là chiếc gương phản chiếu năng lượng nội tâm. Chỉ khi Thân - Tâm - Trí của bạn hợp nhất, khi lòng bạn thực sự an trú trong hiện tại, giọng nói của bạn mới toát ra sự ấm áp, truyền cảm và mang năng lượng chữa lành đến cho người nghe.
 
@@ -51,9 +51,9 @@ Những biến cố, lời chỉ trích hay áp lực trong cuộc sống giốn
 
 ### 4. Ba Lần Trưởng Thành Của Một Con Người
 Con người chúng ta thường đi qua 3 mốc trưởng thành quan trọng trong nhận thức:
-1. **Lần trưởng thành thứ nhất:** Khi nhận ra mình không phải là trung tâm của vũ trụ.
-2. **Lần trưởng thành thứ hai:** Khi nhận ra có những điều dù đã cố gắng hết sức nhưng vẫn nằm ngoài tầm kiểm soát của bản thân.
-3. **Lần trưởng thành thứ ba:** Khi nhận ra cuộc đời này ai cũng có cả mặt tốt lẫn mặt xấu, nhưng bạn vẫn chủ động lựa chọn đối xử với thế giới bằng **sự tử tế, chân thành và bao dung**.
+1. **Lần trưởng thành thứ nhất:**Khi nhận ra mình không phải là trung tâm của vũ trụ.
+2. **Lần trưởng thành thứ hai:**Khi nhận ra có những điều dù đã cố gắng hết sức nhưng vẫn nằm ngoài tầm kiểm soát của bản thân.
+3. **Lần trưởng thành thứ ba:**Khi nhận ra cuộc đời này ai cũng có cả mặt tốt lẫn mặt xấu, nhưng bạn vẫn chủ động lựa chọn đối xử với thế giới bằng **sự tử tế, chân thành và bao dung**.
 
 Nếu người khác cư xử không tốt với mình mà mình cũng đáp trả bằng sự hẹp hòi tương tự, thì mình không khác gì họ. Đẳng cấp của một người phụ nữ trí tuệ là biết đứng ở một tầng năng lượng cao hơn: Không tranh chấp, không hơn thua, không so bì.
 
@@ -69,8 +69,8 @@ Khi bạn lướt qua một bài viết, nếu chỉ âm thầm đọc rồi lư
 ### 2. Kỹ Xảo Tương Tác Tạo Rung Cảm (Actionable Practice)
 Để tương tác không bị khô cứng và dạt dào ngôn từ, bạn có thể áp dụng ngay các kỹ xảo thực chiến:
 - **Kỹ xảo Tag tên gieo giá trị:** Thay vì comment vô thưởng vô phạt, hãy tag tên một người bạn thân thiết vào bài viết kèm lời nhắn: *"Này, đúng chủ đề hôm trước chúng mình đang bàn dở này, đọc ngay nhé!"* hoặc *"Tớ nghĩ cậu sẽ rất thích góc nhìn này đấy, đọc xong cho tớ xin ý kiến nhé!"*
-- **Kỹ xảo chia sẻ cảm xúc chân thật:** Đọc kỹ một điểm chạm trong bài viết và chia sẻ lại trải nghiệm tương đồng của bản thân.
-- **Thực hành hiện diện cộng đồng:** Chụp một bức ảnh không gian học tập/làm việc chỉnchu, viết một cảm nhận ngắn và hiện diện trên các cộng đồng chuyên môn với tinh thần trao giá trị.
+- **Kỹ xảo chia sẻ cảm xúc chân thật:**Đọc kỹ một điểm chạm trong bài viết và chia sẻ lại trải nghiệm tương đồng của bản thân.
+- **Thực hành hiện diện cộng đồng:**Chụp một bức ảnh không gian học tập/làm việc chỉnchu, viết một cảm nhận ngắn và hiện diện trên các cộng đồng chuyên môn với tinh thần trao giá trị.
 
 ---
 
@@ -89,12 +89,12 @@ Tất cả yêu tinh đều đồng ý. Và từ đó, con người cứ mải m
 
 ### 2. Ba Giai Đoạn Về "Chính Mình"
 Muốn sống một cuộc đời ý nghĩa, bạn phải đi qua đủ 3 giai đoạn:
-1. **Tìm ra chính mình (Self-Discovery):** Biết rõ mình là ai, giá trị cốt lõi là gì, điểm mạnh và giới hạn ở đâu.
-2. **Làm ra chính mình (Self-Creation):** Trau dồi kỹ năng, kiến tạo tư duy và xây dựng bản thân thành phiên bản giá trị.
-3. **Giữ được chính mình (Self-Preservation):** Không bị danh lợi, sự gièm pha hay biến cố cuộc đời làm biến chất hay đánh mất sự tử tế ban đầu.
+1. **Tìm ra chính mình (Self-Discovery):**Biết rõ mình là ai, giá trị cốt lõi là gì, điểm mạnh và giới hạn ở đâu.
+2. **Làm ra chính mình (Self-Creation):**Trau dồi kỹ năng, kiến tạo tư duy và xây dựng bản thân thành phiên bản giá trị.
+3. **Giữ được chính mình (Self-Preservation):**Không bị danh lợi, sự gièm pha hay biến cố cuộc đời làm biến chất hay đánh mất sự tử tế ban đầu.
 
 ### 3. Quy Trình 3 Bước Tự Khai Vấn (Self-Coaching Protocol)
-Cái tôi hiện tại của bạn là kết quả của 20-30 năm định hình từ môi trường, giáo dục và cả những tổn thương quá khứ. Để không bị cái tôi tiêu cực điều khiển, bạn cần rèn luyện năng lực **Tự Khai Vấn** qua 3 bước:
+Cái tôi hiện tại của bạn là kết quả của 20-30 năm định hình từ môi trường, giáo dục và cả những tổn thương quá khứ. Để không bị cái tôi tiêu cực điều khiển, bạn cần rèn luyện năng lực **Tự Khai Vấn**qua 3 bước:
 
 ```mermaid
 graph TD
@@ -104,7 +104,7 @@ graph TD
 
 - **Bước 1: Gọi tên cảm xúc (Identify):** Dừng lại và quan sát chính xác cảm xúc đang diễn ra bên trong. *(Tôi đang tức giận, đố kỵ, tổn thương hay tự ti?)*
 - **Bước 2: Truy tìm nguyên nhân gốc rễ (Trace the root):** Đặt câu hỏi *"Tại sao tôi lại có phản ứng này? Kỳ vọng hay tổn thương nào trong quá khứ của tôi đang bị chạm tới?"*
-- **Bước 3: Tự giải quyết (Self-resolve):** Dũng cảm nhìn thẳng vào sự thật, tự điều chỉnh góc nhìn mà không chạy ra ngoài tìm kiếm sự xoa dịu giả tạo hay tìm người đồng tình để thỏa mãn cái tôi cố chấp.
+- **Bước 3: Tự giải quyết (Self-resolve):**Dũng cảm nhìn thẳng vào sự thật, tự điều chỉnh góc nhìn mà không chạy ra ngoài tìm kiếm sự xoa dịu giả tạo hay tìm người đồng tình để thỏa mãn cái tôi cố chấp.
 
 > Năng lực tự đặt câu hỏi tỷ lệ thuận với năng lực ra quyết định. Khi bạn hiểu rõ chính mình, bạn không cần phải phụ thuộc vào sự xác nhận (validation) từ đám đông.
 
@@ -114,10 +114,10 @@ graph TD
 
 ### 1. Sự Khác Biệt Giữa Thành Công Và Hạnh Húc (Bài Học Nhà Sư & Tù Nhân)
 Chúng ta thường đánh đồng thành công với hạnh phúc, nhưng đây là hai khái niệm hoàn toàn tách biệt:
-- **Thành công:** Là việc đạt được các mục tiêu đo lường được bên ngoài (hoàn thành dự án, mốc thu nhập, danh vọng).
-- **Hạnh phúc:** Là trạng thái bình an và thỏa mãn nội tâm từ bên trong, không phụ thuộc vào hoàn cảnh bên ngoài.
+- **Thành công:**Là việc đạt được các mục tiêu đo lường được bên ngoài (hoàn thành dự án, mốc thu nhập, danh vọng).
+- **Hạnh phúc:**Là trạng thái bình an và thỏa mãn nội tâm từ bên trong, không phụ thuộc vào hoàn cảnh bên ngoài.
 
-Hãy so sánh một **nhà sư già** sống kham khổ trong tu viện và một **tù nhân** sống trong phòng giam có đầy đủ tiện nghi vật chất. Nhà sư luôn mỉm cười bình an, còn tù nhân thì phẫn uất, đau khổ. Điểm khác biệt duy nhất ở đây chính là chữ **"MUỐN"**: Nhà sư tự nguyện chọn cuộc sống đó, còn tù nhân bị ép buộc.
+Hãy so sánh một **nhà sư già**sống kham khổ trong tu viện và một **tù nhân**sống trong phòng giam có đầy đủ tiện nghi vật chất. Nhà sư luôn mỉm cười bình an, còn tù nhân thì phẫn uất, đau khổ. Điểm khác biệt duy nhất ở đây chính là chữ **"MUỐN"**: Nhà sư tự nguyện chọn cuộc sống đó, còn tù nhân bị ép buộc.
 
 > *"Hạnh phúc xuất hiện khi tâm bạn hoàn toàn an trú và tự nguyện với những gì đang diễn ra ở hiện tại."*
 
@@ -135,16 +135,16 @@ Thời đại số định nghĩa lại sự giàu có không chỉ dừng lại
  tự nhiên) chính) vật chất) kết nối chân thành)
 ```
 
-1. **Giàu Sức Khỏe:** Khỏe mạnh, tràn đầy năng lượng, đẹp tự nhiên và tự tin.
-2. **Giàu Tiền Bạc:** Làm chủ tài chính để có quyền lựa chọn sự tự do.
+1. **Giàu Sức Khỏe:**Khỏe mạnh, tràn đầy năng lượng, đẹp tự nhiên và tự tin.
+2. **Giàu Tiền Bạc:**Làm chủ tài chính để có quyền lựa chọn sự tự do.
 3. **Giàu Sự Hào Phong:** Có tiềm lực vật chất để giúp đỡ người khác *(Bạn không thể trả hóa đơn hay nuôi con chỉ bằng một cái ôm)*.
-4. **Giàu Tâm Trí:** Sống có lý tưởng, có ý nghĩa và tạo ra giá trị thực cho xã hội.
+4. **Giàu Tâm Trí:**Sống có lý tưởng, có ý nghĩa và tạo ra giá trị thực cho xã hội.
 5. **Giàu Mối Quan Hệ:** Xây dựng mạng lưới kết nối chất lượng dựa trên sự chân thành và văn hóa ứng xử cao đẹp.
 
 ### 3. Quy Luật Giá Trị Trên Thị Trường
 > *"Chúng ta không được thị trường trả tiền cho thời gian chúng ta bỏ ra. Chúng ta được trả tiền cho GIÁ TRỊ mà chúng ta mang lại cho thị trường."*
 
-Nếu muốn tăng thu nhập từ 10 triệu lên 100 triệu, bạn không thể đòi hỏi làm việc gấp 10 lần thời gian (vì ai cũng chỉ có 24h). Con đường duy nhất là **nâng cấp giá trị bản thân gấp 10 lần** thông qua việc mở khóa các kỹ năng mới: Quản trị hệ thống, ứng dụng AI, tư duy chiến lược và năng lực giao tiếp.
+Nếu muốn tăng thu nhập từ 10 triệu lên 100 triệu, bạn không thể đòi hỏi làm việc gấp 10 lần thời gian (vì ai cũng chỉ có 24h). Con đường duy nhất là **nâng cấp giá trị bản thân gấp 10 lần**thông qua việc mở khóa các kỹ năng mới: Quản trị hệ thống, ứng dụng AI, tư duy chiến lược và năng lực giao tiếp.
 
 ---
 
@@ -175,19 +175,19 @@ Nhiều người vội vã xây dựng "phong cách sống" sang chảnh trên m
  └──────────────────────────────┘
 ```
 
-- **Nền móng:** Thân - Tâm - Trí khỏe mạnh, nội lực bình an.
-- **Hai bức tường:** Sự nghiệp tài chính vững vàng và Mối quan hệ chân thành.
-- **Mái nhà:** Phong cách sống và Thương hiệu cá nhân.
+- **Nền móng:**Thân - Tâm - Trí khỏe mạnh, nội lực bình an.
+- **Hai bức tường:**Sự nghiệp tài chính vững vàng và Mối quan hệ chân thành.
+- **Mái nhà:**Phong cách sống và Thương hiệu cá nhân.
 
 Khi Nền móng và Bức tường chưa có, đừng cố vẽ ra một phong cách sống sáo rỗng. Hãy đi từ gốc rễ.
 
 ### 2. Kế Hoạch 5 Hành Động Nhỏ Mỗi Ngày (Micro-Habits)
 Đừng vội đặt ra những sứ mệnh quá vĩ đại khi những việc nhỏ nhất chưa làm tròn. Hãy bắt đầu ngay hôm nay:
-1. **Đọc sách 30 phút/ngày:** Nạp tri thức chất lượng vào tâm trí.
-2. **Vận động thể chất 30 phút/ngày:** Đi dạo, tập yoga để giải phóng cortisol và tăng cường sức khỏe.
-3. **Viết 3 điều biết ơn mỗi ngày:** Neo giữ sự chú tâm vào những điều tích cực đang có.
-4. **Rèn luyện 1 kỹ năng chuyên sâu 30 phút/ngày:** Học Notion, AI, luyện giọng nói hoặc chuyên môn kế toán/xây hệ thống.
-5. **Lập kế hoạch công việc ngày hôm sau:** Chọn ra 3 việc quan trọng nhất (MITs) để tập trung giải quyết.
+1. **Đọc sách 30 phút/ngày:**Nạp tri thức chất lượng vào tâm trí.
+2. **Vận động thể chất 30 phút/ngày:**Đi dạo, tập yoga để giải phóng cortisol và tăng cường sức khỏe.
+3. **Viết 3 điều biết ơn mỗi ngày:**Neo giữ sự chú tâm vào những điều tích cực đang có.
+4. **Rèn luyện 1 kỹ năng chuyên sâu 30 phút/ngày:**Học Notion, AI, luyện giọng nói hoặc chuyên môn kế toán/xây hệ thống.
+5. **Lập kế hoạch công việc ngày hôm sau:**Chọn ra 3 việc quan trọng nhất (MITs) để tập trung giải quyết.
 
 ---
 
@@ -207,68 +207,65 @@ Khi Nền móng và Bức tường chưa có, đừng cố vẽ ra một phong c
 ---
 
 # Phân tích Video: Hành trình tìm ra chính mình và sự hiện diện
-**Speaker:** Hằng Võ
-**Date:** 2026-07-22
+**Speaker:**Hằng Võ
+**Date:**2026-07-22
 
 ## Giai Đoạn 3: Khảo Cổ Niềm Tin (3 Thế Giới Quan Cốt Lõi)
 
 ### Thế Giới Quan 1: Tình thương và sự kiên nhẫn
-- **Hiện tượng:** "Bởi vì có hiểu thì mới có thương. Mà cái tình thương ở đây đó chính là sự kiên nhẫn... đặt cái tình yêu của mình trong từng quá trình."
-- **Niềm tin ẩn:** Kiên nhẫn là biểu hiện cao nhất của tình yêu.
-- **Đúng khi:** Bạn đồng hành cùng một người mới học việc, hoặc khi xây dựng một mối quan hệ dài hạn cần sự thấu hiểu.
-- **Sai khi:** Đối mặt với những vấn đề cần ra quyết định cắt lỗ ngay lập tức (như kinh doanh thất bại liên tục, toxic relationship).
-- **Áp dụng cho Hằng:** Lần tới khi bực bội vì một công việc trì trệ hay một ai đó chậm chạp, hãy hít thở và rèn luyện sự chú tâm vào từng bước nhỏ, đặt tình yêu vào cả quá trình thay vì chỉ nhìn vào kết quả.
+- **Hiện tượng:**"Bởi vì có hiểu thì mới có thương. Mà cái tình thương ở đây đó chính là sự kiên nhẫn... đặt cái tình yêu của mình trong từng quá trình."
+- **Niềm tin ẩn:**Kiên nhẫn là biểu hiện cao nhất của tình yêu.
+- **Đúng khi:**Bạn đồng hành cùng một người mới học việc, hoặc khi xây dựng một mối quan hệ dài hạn cần sự thấu hiểu.
+- **Sai khi:**Đối mặt với những vấn đề cần ra quyết định cắt lỗ ngay lập tức (như kinh doanh thất bại liên tục, toxic relationship).
+- **Áp dụng cho Hằng:**Lần tới khi bực bội vì một công việc trì trệ hay một ai đó chậm chạp, hãy hít thở và rèn luyện sự chú tâm vào từng bước nhỏ, đặt tình yêu vào cả quá trình thay vì chỉ nhìn vào kết quả.
 
 ### Thế Giới Quan 2: Bản lĩnh đối mặt với vấn đề
-- **Hiện tượng:** "Ném một cái nắm muối vào trong một cái cốc ấy thì nó mặn chát. Mà nếu như mình ném một cái nắm muối vào sông vào biển ấy thì nó rất là bình thường... Vấn đề sẽ không còn khi mà bạn lớn hơn vấn đề."
-- **Niềm tin ẩn:** Vấn đề teo lại khi lòng người rộng ra.
-- **Đúng khi:** Đứng trước những lời chỉ trích, khó khăn thường nhật; nếu nội lực vững chãi thì tổn thương sẽ không đáng kể.
-- **Sai khi:** Vấn đề là những rủi ro mang tính hệ thống (pháp lý, tài chính lớn) cần giải quyết bằng kỹ năng thực tế chứ không chỉ bằng thái độ.
-- **Áp dụng cho Hằng:** Khi gặp khủng hoảng nhỏ trong công việc kế toán hoặc làm nội dung, hãy đặt câu hỏi: "Làm sao để tâm mình lớn hơn chuyện này?" thay vì bám chấp vào lỗi lầm.
+- **Hiện tượng:**"Ném một cái nắm muối vào trong một cái cốc ấy thì nó mặn chát. Mà nếu như mình ném một cái nắm muối vào sông vào biển ấy thì nó rất là bình thường... Vấn đề sẽ không còn khi mà bạn lớn hơn vấn đề."
+- **Niềm tin ẩn:**Vấn đề teo lại khi lòng người rộng ra.
+- **Đúng khi:**Đứng trước những lời chỉ trích, khó khăn thường nhật; nếu nội lực vững chãi thì tổn thương sẽ không đáng kể.
+- **Sai khi:**Vấn đề là những rủi ro mang tính hệ thống (pháp lý, tài chính lớn) cần giải quyết bằng kỹ năng thực tế chứ không chỉ bằng thái độ.
+- **Áp dụng cho Hằng:**Khi gặp khủng hoảng nhỏ trong công việc kế toán hoặc làm nội dung, hãy đặt câu hỏi: "Làm sao để tâm mình lớn hơn chuyện này?" thay vì bám chấp vào lỗi lầm.
 
 ### Thế Giới Quan 3: Bản chất của mạng xã hội
-- **Hiện tượng:** "Kênh nó chỉ phóng đại những gì bạn có thôi. Bạn có những điều này thì kênh của các bạn nó sẽ phóng đại những cái điều tốt... Còn không có gì sao phóng đại được."
-- **Niềm tin ẩn:** Có chất thật bên trong mới phóng đại được ra bên ngoài.
-- **Đúng khi:** Xây dựng thương hiệu cá nhân bền vững dựa trên chuyên môn thật và giá trị thật.
-- **Sai khi:** Một số người dùng thủ thuật truyền thông để bóp méo sự thật, tạo ra "giá trị ảo" trong ngắn hạn và vẫn có thể viral.
-- **Áp dụng cho Hằng:** Trọng tâm vào việc vun bồi "tài sản nội tâm", dọn dẹp hệ thống số cá nhân thật vững chắc trước khi tìm kiếm sự bùng nổ trên các kênh truyền thông.
+- **Hiện tượng:**"Kênh nó chỉ phóng đại những gì bạn có thôi. Bạn có những điều này thì kênh của các bạn nó sẽ phóng đại những cái điều tốt... Còn không có gì sao phóng đại được."
+- **Niềm tin ẩn:**Có chất thật bên trong mới phóng đại được ra bên ngoài.
+- **Đúng khi:**Xây dựng thương hiệu cá nhân bền vững dựa trên chuyên môn thật và giá trị thật.
+- **Sai khi:**Một số người dùng thủ thuật truyền thông để bóp méo sự thật, tạo ra "giá trị ảo" trong ngắn hạn và vẫn có thể viral.
+- **Áp dụng cho Hằng:**Trọng tâm vào việc vun bồi "tài sản nội tâm", dọn dẹp hệ thống số cá nhân thật vững chắc trước khi tìm kiếm sự bùng nổ trên các kênh truyền thông.
 
 ## Giai Đoạn 4: Tổng Hợp & Đối Chiếu
-- **3 niềm tin cốt lõi:**
- 1. Trân trọng hành trình bằng sự kiên nhẫn.
+- **3 niềm tin cốt lõi:**1. Trân trọng hành trình bằng sự kiên nhẫn.
  2. Phát triển bản thân để bao trùm vấn đề.
  3. Giá trị nội tại là nền tảng của mọi hình thức lan tỏa.
-- **So sánh với mainstream:** Trong khi số đông tìm kiếm "hạnh phúc ở bên ngoài" hay "chiến thuật xây kênh nhanh", góc nhìn này lại hướng vào "phát triển bên trong", coi nền tảng mạng xã hội chỉ là công cụ phóng đại giá trị tự thân.
-- **Tension nội tại:** Đôi khi việc quá bao dung và tập trung vào quá trình có thể làm chậm trễ tiến độ của những mục tiêu cần tính thực tế và tốc độ cao.
+- **So sánh với mainstream:**Trong khi số đông tìm kiếm "hạnh phúc ở bên ngoài" hay "chiến thuật xây kênh nhanh", góc nhìn này lại hướng vào "phát triển bên trong", coi nền tảng mạng xã hội chỉ là công cụ phóng đại giá trị tự thân.
+- **Tension nội tại:**Đôi khi việc quá bao dung và tập trung vào quá trình có thể làm chậm trễ tiến độ của những mục tiêu cần tính thực tế và tốc độ cao.
 
-## Giai Đoạn 5: Đối Chiếu Hệ Thống Tri Thức P.A.R.A
-- **Ghi nhận:** Các khái niệm này hoàn toàn phù hợp với triết lý Học Sâu (Deep Learning) của hệ thống. Nhấn mạnh việc biến kiến thức thành tài sản nội tâm cá nhân thay vì lập tức mang ra làm content bề nổi.
-- **Phân loại:** 🟢 Củng cố (Củng cố thêm tư tưởng về sự hiện diện, chú tâm, và năng lượng vững chãi từ bên trong).
+## Giai Đoạn 5: Phân Loại & Lưu Vào Hệ Thống Tri Thức Cá Nhân
+*(Ghi chú: P.A.R.A là phương pháp quản lý kiến thức gồm 4 nhóm: Dự án - Lĩnh vực - Tài nguyên - Lưu trữ)*
+- **Ghi nhận:**Các khái niệm này hoàn toàn phù hợp với triết lý Học Sâu (Deep Learning) của hệ thống. Nhấn mạnh việc biến kiến thức thành tài sản nội tâm cá nhân thay vì lập tức mang ra làm content bề nổi.
+- **Phân loại:**🟢 Củng cố (Củng cố thêm tư tưởng về sự hiện diện, chú tâm, và năng lượng vững chãi từ bên trong).
 
 ## Giai Đoạn 6: Câu Hỏi Phản Tư Nội Tâm
 1. Bạn đang là "cốc nước" hay "dòng sông" trước những nắm muối của cuộc đời?
 2. Kênh truyền thông của bạn đang phóng đại điều gì ẩn giấu bên trong bạn?
 3. Bạn đã thực sự kiên nhẫn với hành trình của chính mình chưa?
 
-**Câu hỏi cho User:**
-Worldview nào bạn tâm đắc nhất? Bạn muốn lưu worldview nào vào Worldview Library (Phase 7B)?
+**Câu hỏi cho User:**Worldview nào bạn tâm đắc nhất? Bạn muốn lưu worldview nào vào Worldview Library (Phase 7B)?
 
 
 
 ---
 
 # BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA)
-**Nguồn:** Viva Women - Buổi 3: Hành Trình Tìm Ra Chính Mình & Ngôi Nhà Nội Lực 
-**Giảng viên:** Hằng Võ 
-**Nguồn lưu trữ P.A.R.A:** [execution_checklist.md](file:///d:/Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_JDSWDJ6OO3M/execution_checklist.md)
+**Nguồn:**Viva Women - Buổi 3: Hành Trình Tìm Ra Chính Mình & Ngôi Nhà Nội Lực 
+**Giảng viên:**Hằng Võ 
+**Nguồn lưu trữ P.A.R.A:**[execution_checklist.md](file:///d:/Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_JDSWDJ6OO3M/execution_checklist.md)
 
 ---
 
 ## PHA 0: NEO NHẬN THỨC BAN ĐẦU
-- **Suy nghĩ/Niềm tin ban đầu của bạn:** 
- `[Tôi từng nghĩ thành công là tài chính dồi dào mà chưa nhìn nhận bức tranh tổng thể 5 trụ cột Người Giàu Mới]`
-- **Nhận thức sau khi học:** 
- `[Sức khỏe, Tĩnh an, Thời gian, Mối quan hệ và Tài chính mới là Ngôi nhà nội lực vững chắc]`
+- **Suy nghĩ/Niềm tin ban đầu của bạn:**`[Tôi từng nghĩ thành công là tài chính dồi dào mà chưa nhìn nhận bức tranh tổng thể 5 trụ cột Người Giàu Mới]`
+- **Nhận thức sau khi học:**`[Sức khỏe, Tĩnh an, Thời gian, Mối quan hệ và Tài chính mới là Ngôi nhà nội lực vững chắc]`
 
 ---
 
@@ -276,9 +273,9 @@ Worldview nào bạn tâm đắc nhất? Bạn muốn lưu worldview nào vào W
 
 | STT | Việc cần làm | Tần suất & Thời lượng | Chu kỳ thực hành | Trạng thái |
 |:---:|:---|:---|:---|:---:|
-| 1 | **Tự khai vấn 3 bước:** Thực hành 3 câu hỏi tự hỏi bản thân mỗi khi đối mặt với một lựa chọn khó khăn | 10 phút / lần | Mỗi khi ra quyết định | `[ ]` |
-| 2 | **Dọn dẹp hệ thống số:** Chọn 1 khu vực Notion hoặc file thừa để dọn dẹp, tạo khoảng thở cho tâm trí | 15 phút / ngày | 7 ngày liên tục | `[ ]` |
-| 3 | **Giọng nói an tĩnh:** Luyện nói chậm lại, giữ âm thế tĩnh an khi giao tiếp với con cái và đồng nghiệp | Trong mọi cuộc hội thoại | 14 ngày liên tục | `[ ]` |
+| 1 | **Tự khai vấn 3 bước:**Thực hành 3 câu hỏi tự hỏi bản thân mỗi khi đối mặt với một lựa chọn khó khăn | 10 phút / lần | Mỗi khi ra quyết định | `[ ]` |
+| 2 | **Dọn dẹp hệ thống số:**Chọn 1 khu vực Notion hoặc file thừa để dọn dẹp, tạo khoảng thở cho tâm trí | 15 phút / ngày | 7 ngày liên tục | `[ ]` |
+| 3 | **Giọng nói an tĩnh:**Luyện nói chậm lại, giữ âm thế tĩnh an khi giao tiếp với con cái và đồng nghiệp | Trong mọi cuộc hội thoại | 14 ngày liên tục | `[ ]` |
 
 ---
 
@@ -308,5 +305,5 @@ Worldview nào bạn tâm đắc nhất? Bạn muốn lưu worldview nào vào W
 ## 4. VÒNG LẶP PHẢN HỒI THỰC TẾ (VÒNG LẶP PHẢN HỒI THỰC TẾ)
 *(Điền phần này sau khi bạn đã thực hành ngoài đời 7 ngày)*
 
-- **Kết quả thực tế khác lý thuyết như thế nào?** `[Điền kết quả thực tế]`
+- **Kết quả thực tế khác lý thuyết như thế nào?**`[Điền kết quả thực tế]`
 - **Nguyên tắc nào cần điều chỉnh vào bản Khảo cổ niềm tin?** `[Điền nguyên tắc điều chỉnh]`
