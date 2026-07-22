@@ -1,7 +1,9 @@
 ---
-Tags: [#tieng-anh, #routine-25p]
-Người học & Ghi chép: Võ Hằng
-Khóa học: Tiếng Anh 25 Phút
+tags:
+  - tieng-anh
+  - routine-25p
+tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
+khoa_hoc: "Tiếng Anh 25 Phút"
 ---
 
 

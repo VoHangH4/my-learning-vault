@@ -1,7 +1,10 @@
 ---
-Tags: [#viva-women, #suc-manh-hien-dien, #dao-cua-nuoc]
-Người học & Ghi chép: Võ Hằng
-Khóa học: Viva Women - Buổi 2
+tags:
+  - viva-women
+  - suc-manh-hien-dien
+  - dao-cua-nuoc
+tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
+khoa_hoc: "Viva Women - Buổi 2"
 ---
 
 
@@ -151,48 +154,48 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 
 ---
 
-# Analysis: Sức mạnh của sự hiện diện
+# Bản Khảo Cổ Niềm Tin — Sức Mạnh Của Sự Hiện Diện
 **Speaker:** Hằng Võ
 
-## Phase 3 - Belief Archaeology (3 Worldviews)
+## Giai Đoạn 3: Khảo Cổ Niềm Tin (3 Thế Giới Quan Cốt Lõi)
 
-### Worldview 1: Kẻ thù nội tâm
+### Thế Giới Quan 1: Kẻ thù nội tâm
 | Mục | Nội dung |
 |-----|----------|
 | 📍 Hiện tượng | "Đâu là trở ngại lớn nhất... chính là việc các bạn tự đồng hóa mình với trí năng." |
 | 💡 Niềm tin ẩn | **Đừng nhận giặc làm con (tiếng ồn trong đầu không phải là bạn).** |
 | ✅ Đúng khi | 1. Khi đang cáu gắt và nhận ra đó chỉ là cảm xúc nhất thời, không phải bản chất thật của mình.<br>2. Khi có suy nghĩ bỏ cuộc nhưng biết tách rời để quan sát suy nghĩ đó. |
 | ❌ Sai khi | Khi cần dùng trí óc logic để phân tích và giải quyết các bài toán kỹ thuật cụ thể. |
-| 🎯 Áp dụng cho Minh | Lần tới khi nổi giận, hãy nói thầm: "Mình đang quan sát một cảm xúc nóng giận", thay vì "Mình đang giận". |
+| 🎯 Áp dụng cho Võ Hằng | Lần tới khi nổi giận, hãy nói thầm: "Mình đang quan sát một cảm xúc nóng giận", thay vì "Mình đang giận". |
 
-### Worldview 2: Đạo của nước
+### Thế Giới Quan 2: Đạo của nước
 | Mục | Nội dung |
 |-----|----------|
 | 📍 Hiện tượng | "Tại sao những người phụ nữ chúng ta càng gồng mình, càng hơn thua... thì lại càng không đạt được. Các bạn bình lặng hơn... sẽ được nhiều hơn là mất." |
 | 💡 Niềm tin ẩn | **Lùi một bước biển rộng trời cao, mềm như nước lại mòn cả đá.** |
 | ✅ Đúng khi | 1. Trong tranh luận vợ chồng, nhường nhịn một câu giúp hóa giải xung đột.<br>2. Thay vì gồng mình ép deadline, lùi lại nghỉ ngơi một chút lại tìm ra giải pháp tốt hơn. |
 | ❌ Sai khi | Trong tình huống cần bảo vệ ranh giới cá nhân cứng rắn trước sự lạm dụng. |
-| 🎯 Áp dụng cho Minh | Khi gặp ý kiến trái chiều, ngừng phản ứng 3 giây trước khi nói, chọn cách trả lời từ tốn nhất. |
+| 🎯 Áp dụng cho Võ Hằng | Khi gặp ý kiến trái chiều, ngừng phản ứng 3 giây trước khi nói, chọn cách trả lời từ tốn nhất. |
 
-### Worldview 3: Khoảnh khắc hiện tại
+### Thế Giới Quan 3: Khoảnh khắc hiện tại
 | Mục | Nội dung |
 |-----|----------|
 | 📍 Hiện tượng | "Không có một cái gì có thể xảy ra trong quá khứ cả... Nó chỉ xảy ra ở trong giây phút này thôi." |
 | 💡 Niềm tin ẩn | **Quá khứ là cái bóng, tương lai là ảo ảnh, chỉ hiện tại mới là vàng.** |
 | ✅ Đúng khi | 1. Đang làm việc mà nhớ chuyện buồn hôm qua, quay lại hít thở để kéo sự tập trung về màn hình.<br>2. Lo lắng không biết tháng sau có tiền không, nhưng quyết định làm tốt nhất bài tập ngày hôm nay. |
 | ❌ Sai khi | Cần lên kế hoạch chiến lược dài hạn đòi hỏi phải phân tích quá khứ và dự phóng tương lai. |
-| 🎯 Áp dụng cho Minh | Mỗi ngày dành 5 phút chỉ ngồi thở và lắng nghe âm thanh xung quanh, không nghĩ gì khác. |
+| 🎯 Áp dụng cho Võ Hằng | Mỗi ngày dành 5 phút chỉ ngồi thở và lắng nghe âm thanh xung quanh, không nghĩ gì khác. |
 
-## Phase 4 - Synthesis (Tổng hợp)
+## Giai Đoạn 4: Tổng Hợp & Đối Chiếu
 - **Bảng 3 niềm tin:** Tách rời trí năng - Sống thuận tự nhiên - Tập trung hiện tại.
 - **So sánh với mainstream:** Trong khi số đông dạy xây thương hiệu bằng công thức, chạy ads, giật tít, speaker tin rằng nội lực và sự bình an bên trong mới tạo ra sự bền vững.
 - **Tension nội tại:** Phải vừa thuận theo tự nhiên (không gồng) lại vừa phải "cương quyết chú tâm bền bỉ" (cần một chút ý chí gò ép sự tập trung).
 
-## Phase 5 - Vault Check (Đối chiếu Knowledge Base)
+## Giai Đoạn 5: Đối Chiếu Hệ Thống Tri Thức P.A.R.A
 - 🟢 Củng cố: Tư duy "Sống một cuộc đời nở hoa" rất khớp với việc sử dụng Notion để dọn dẹp hệ thống số, mang lại sự bình an (Zen workspace).
 - 🟢 Củng cố: Liên kết mạnh với khái niệm Thang Bloom (Đánh giá, Phân tích chính bản thân mình).
 
-## Phase 6 - Câu hỏi suy ngẫm
+## Giai Đoạn 6: Câu Hỏi Phản Tư Nội Tâm
 1. Tiếng nói nội tâm thường xuyên nói với bạn điều gì nhất khi bạn bắt đầu một việc mới?
 2. Bạn đang gồng mình (ngược dòng) ở khía cạnh nào trong công việc hiện tại?
 3. Worldview nào trong 3 worldview trên bạn thấy tâm đắc nhất và muốn lưu vào Worldview Library?
@@ -201,14 +204,14 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 
 ---
 
-# 🎯 BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (EXECUTION CHECKLIST)
+# 🎯 BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA)
 **Nguồn:** Viva Women - Buổi 2: Sức Mạnh Của Sự Hiện Diện & Đạo Của Nước  
 **Giảng viên:** Hằng Võ  
 **Nguồn lưu trữ P.A.R.A:** [execution_checklist.md](file:///d:/Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_IzcHd5UGplU/execution_checklist.md)
 
 ---
 
-## 🔒 PHASE 0: NEO NHẬN THỨC BAN ĐẦU (PRE-ASSESSMENT & ANCHORING)
+## 🔒 PHA 0: NEO NHẬN THỨC BAN ĐẦU
 - **Suy nghĩ/Niềm tin ban đầu của bạn:**  
   `[Tôi từng nghĩ càng gồng mình chiến đấu và tranh luận thì mới đạt được kết quả]`
 - **Nhận thức sau khi học:**  
@@ -216,7 +219,7 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 
 ---
 
-## ⏱️ 1. CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG (TIMEBOXED ACTIONS)
+## ⏱️ 1. CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG (CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG)
 
 | STT | Việc cần làm | Tần suất & Thời lượng | Chu kỳ thực hành | Trạng thái |
 |:---:|:---|:---|:---|:---:|
@@ -226,7 +229,7 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 
 ---
 
-## ❓ 2. BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU (DEEP SELF-INQUIRY)
+## ❓ 2. BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU (BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU)
 
 1. **Nhận diện điểm mù (Blind Spot):**  
    *Câu hỏi:* Tiếng nói nội tâm (Monkey Mind) thường xuyên thì thầm điều gì nhất khiến bạn lo âu?  
@@ -249,7 +252,7 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 
 ---
 
-## 🔁 4. VÒNG LẶP PHẢN HỒI THỰC TẾ (REALITY TESTING FEEDBACK LOOP)
+## 🔁 4. VÒNG LẶP PHẢN HỒI THỰC TẾ (VÒNG LẶP PHẢN HỒI THỰC TẾ)
 *(Điền phần này sau khi bạn đã thực hành ngoài đời 7 ngày)*
 
 - **Kết quả thực tế khác lý thuyết như thế nào?** `[Điền kết quả thực tế]`

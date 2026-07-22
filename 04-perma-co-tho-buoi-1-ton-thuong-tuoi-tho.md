@@ -1,8 +1,11 @@
 ---
-Tags: [#perma, #co-tho, #ton-thuong-tuoi-tho]
-Diễn giả: Cô Thơ
-Người học & Ghi chép: Võ Hằng
-Khóa học: Đồng Hành Perma - Buổi 1
+tags:
+  - perma
+  - co-tho
+  - ton-thuong-tuoi-tho
+dien_gia: "Cô Thơ"
+tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
+khoa_hoc: "Đồng Hành Perma - Buổi 1"
 ---
 
 

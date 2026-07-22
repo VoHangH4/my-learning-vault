@@ -1,8 +1,11 @@
 ---
-Tags: [#perma, #co-tho, #sang-chan-nghien-cam-xuc]
-Diễn giả: Cô Thơ
-Người học & Ghi chép: Võ Hằng
-Khóa học: Đồng Hành Perma - Buổi 3
+tags:
+  - perma
+  - co-tho
+  - sang-chan-nghien-cam-xuc
+dien_gia: "Cô Thơ"
+tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
+khoa_hoc: "Đồng Hành Perma - Buổi 3"
 ---
 
 
