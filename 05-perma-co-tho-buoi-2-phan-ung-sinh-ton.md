@@ -11,7 +11,7 @@ khoa_hoc: "Đồng Hành Perma - Buổi 2"
 
 # KHÓA HỌC: KIND LEARNING COMPANIONSHIP (Video 2)
 
-> *Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.*
+> Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.
 
 ---
 
@@ -50,7 +50,7 @@ Sự nóng tính thực chất không phải là bản chất cốt lõi của t
 
 Trong quá trình đồng hành cùng các học viên, tôi nhận ra một khuôn mẫu chung mà rất nhiều người gặp phải: sự kìm nén cảm xúc từ gốc rễ. Một học viên từng chia sẻ câu chuyện tuổi thơ đầy tổn thương: cô vốn là một đứa trẻ nhạy cảm và dễ rơi nước mắt, nhưng người lớn lại thường xuyên quở trách.
 
-> *"Khóc thì giải quyết được vấn đề gì, hãy cứng rắn lên!"*
+> "Khóc thì giải quyết được vấn đề gì, hãy cứng rắn lên!"
 
 Lời răn dạy tưởng chừng để rèn luyện sự mạnh mẽ ấy lại trở thành sợi dây trói buộc. Từ đó, cô không dám khóc, luôn cố kiềm chế mọi nỗi niềm đang chực trào. Kết quả là theo thời gian, cô tự đẩy mình vào trạng thái chai sạn. Giờ đây, ngay cả khi khao khát được giải tỏa, cô cũng rất khó để bộc lộ những gì mình thực sự cảm nhận.
 
@@ -126,7 +126,7 @@ Sự bùng nổ thường không tự nhiên xuất hiện, mà là kết quả 
 
 Giữa lúc bạn đang bận rộn đối phó với công việc, đứa con nhỏ lại làm đổ hồ dán lanh tanh bành ra bàn. Cảm giác kiệt sức ập đến như bị hắt thêm một muôi dầu sôi. Mọi thứ rối tung lên và bạn lại phải gồng mình dọn dẹp sự lộn xộn đó.
 
-Đỉnh điểm là khi nghe cô con gái lớn dọa nạt em: *"Có muốn ăn tát không?"*. Câu nói ấy như một mũi dao đâm vào tâm trí người mẹ, bởi nó phản chiếu chính xác cách hành xử thiếu kiềm chế mà cô từng thể hiện. Nỗi sợ hãi con cái sẽ bị tổn thương giống mình, sự tự trách, cùng cảm giác bất công khiến người mẹ hoàn toàn bùng nổ. Cô lớn tiếng quát con, cãi vã với chồng và kết thúc một ngày dài trong sự tồi tệ.
+Đỉnh điểm là khi nghe cô con gái lớn dọa nạt em: "Có muốn ăn tát không?". Câu nói ấy như một mũi dao đâm vào tâm trí người mẹ, bởi nó phản chiếu chính xác cách hành xử thiếu kiềm chế mà cô từng thể hiện. Nỗi sợ hãi con cái sẽ bị tổn thương giống mình, sự tự trách, cùng cảm giác bất công khiến người mẹ hoàn toàn bùng nổ. Cô lớn tiếng quát con, cãi vã với chồng và kết thúc một ngày dài trong sự tồi tệ.
 
 ### Phản ứng sinh tồn mặc định
 Khi rơi vào trạng thái quá tải hoặc đối mặt với các kích hoạt tâm lý mạnh, não bộ sẽ tự động bật chế độ sinh tồn. Một trong những biểu hiện phổ biến là "đông cứng" (freeze). Chẳng hạn, một người tận mắt nhìn thấy kẻ trộm lấy cắp xe đạp nhưng lại đứng đờ người ra, không thể la hét hay hành động. Đó không phải là sự yếu kém, mà là lúc hệ thần kinh bị tê liệt tạm thời trước một cú sốc vượt quá ngưỡng chịu đựng.
@@ -212,7 +212,7 @@ Ví dụ, bản thân bạn từng bị ám ảnh vì phải đeo kính hằng n
 
 Để cải thiện việc này và sống có chủ đích, chúng ta cần một công cụ ngắt mạch tâm trí. Bài tập này có thể không xa lạ, nhưng nó đòi hỏi bạn phải thực hành gắt gao. Hãy thử áp dụng liên tục mỗi ngày trong vòng một tuần để bắt đầu hình thành thói quen nhận diện cảm xúc. 
 
-Công cụ ngắt mạch này mang tên SOS, bao gồm ba bước giúp bạn giành lại quyền làm chủ. Trong phần này, chúng ta sẽ đi sâu vào chữ cái đầu tiên: **Stop (Dừng lại)**.
+Công cụ ngắt mạch này mang tên SOS, bao gồm ba bước giúp bạn giành lại quyền làm chủ. Trong phần này, chúng ta sẽ đi sâu vào chữ cái đầu tiên: Stop (Dừng lại).
 
 Khái niệm về quyền tự chủ và sự tự do không hẳn là được làm mọi điều mình muốn. Đôi khi, tự do chỉ đơn giản là khả năng cho phép mình được dừng lại để lựa chọn. Bạn chủ động tạo ra một khoảng không tĩnh tại trước khi đưa ra bất kỳ quyết định hay phản ứng nào. 
 
@@ -224,7 +224,7 @@ Giống như chiếc đèn đỏ ở ngã tư đường, "Stop" yêu cầu bạn
 
 Tuyệt đối tránh việc dung túng cho tâm trí tiếp tục suy diễn. Bởi càng nghĩ, bạn sẽ càng vẽ ra những viễn cảnh tiêu cực, nhân cấp số nhân sự tồi tệ của vấn đề và dẫn đến những hành động bột phát thiếu kiểm soát.
 
-Hãy tìm ra một phương án "nhấn phanh" hiệu quả nhất với cá nhân bạn. Đó có thể là đứng lên đi uống một cốc nước, tự vỗ nhẹ vào tay mình, hoặc dứt khoát lên tiếng: *"Hiện tại mẹ đang không bình tĩnh, mẹ cần ra ngoài một lát"*. 
+Hãy tìm ra một phương án "nhấn phanh" hiệu quả nhất với cá nhân bạn. Đó có thể là đứng lên đi uống một cốc nước, tự vỗ nhẹ vào tay mình, hoặc dứt khoát lên tiếng: "Hiện tại mẹ đang không bình tĩnh, mẹ cần ra ngoài một lát". 
 
 Phương pháp "dừng lại" này không chỉ gói gọn trong việc nuôi dạy con, mà có thể áp dụng linh hoạt cho bất kỳ tình huống hay mối quan hệ nào trong cuộc sống. Nó giúp bạn luôn giữ được sự làm chủ bản thân trong mọi khoảnh khắc.
 
@@ -236,12 +236,12 @@ Phương pháp "dừng lại" này không chỉ gói gọn trong việc nuôi d�
 ### Bước 2: Quan sát (Observe) - Tách rời để thấu hiểu
 Khi đã dừng lại được ở bước đầu tiên, chúng ta sẽ chuyển sang bước thứ hai: Quan sát. Việc quan sát không chỉ dừng lại ở việc gọi tên cảm xúc chung chung như "tôi đang giận" hay "tôi thấy buồn". Để thực sự tách rời khỏi cơn bão cảm xúc, bạn cần mổ xẻ nó qua bốn yếu tố:
 
-1. **Biểu hiện sinh lý:**Cơ thể vật lý của bạn đang phản ứng thế nào? (Ví dụ: tim đập nhanh, căng cơ, nóng mặt...)
-2. **Cảm xúc chi tiết:**Liệt kê và gọi tên chính xác từng trạng thái cảm xúc đang cuộn trào bên trong.
-3. **Dòng suy nghĩ:**Bạn đang nghĩ gì? Đó là sự thôi thúc muốn hành động ngay lập tức, một liên tưởng về quá khứ, hay những suy diễn vô căn cứ? (Tốt nhất hãy viết chúng ra).
-4. **Hành vi:**Hành động mà bạn đang muốn thực hiện là gì? Nếu sự việc đã qua, bạn đã thực sự làm gì?
+1. Biểu hiện sinh lý: Cơ thể vật lý của bạn đang phản ứng thế nào? (Ví dụ: tim đập nhanh, căng cơ, nóng mặt...)
+2. Cảm xúc chi tiết: Liệt kê và gọi tên chính xác từng trạng thái cảm xúc đang cuộn trào bên trong.
+3. Dòng suy nghĩ: Bạn đang nghĩ gì? Đó là sự thôi thúc muốn hành động ngay lập tức, một liên tưởng về quá khứ, hay những suy diễn vô căn cứ? (Tốt nhất hãy viết chúng ra).
+4. Hành vi: Hành động mà bạn đang muốn thực hiện là gì? Nếu sự việc đã qua, bạn đã thực sự làm gì?
 
-Nguyên tắc tối thượng ở bước này là **không phán xét, không nhận định**. Nhiệm vụ của bạn chỉ là ghi nhận mọi thứ chi tiết nhất có thể để làm dữ liệu khách quan.
+Nguyên tắc tối thượng ở bước này là không phán xét, không nhận định. Nhiệm vụ của bạn chỉ là ghi nhận mọi thứ chi tiết nhất có thể để làm dữ liệu khách quan.
 
 ### Bước 3: Bẻ lái (Steer) - Xác định ưu tiên cốt lõi
 Sau khi đã có đầy đủ dữ liệu từ việc quan sát, chúng ta dùng bước tiếp theo để "bẻ lái" tư duy. Hãy đặt cho mình một câu hỏi mỏ neo trong mọi tình huống:
@@ -256,7 +256,7 @@ Trong cuộc sống có vô vàn tình huống đòi hỏi sự bẻ lái này:
 - Khi bị phê bình trong cuộc họp: Thay vì tự ái hay tủi thân, điều quan trọng nhất là cùng nhau chốt được phương án làm việc hiệu quả nhất.
 
 ### Kiến tạo lộ trình thần kinh mới
-Mỗi khi bạn thực hành thành công việc quan sát và bẻ lái trước một yếu tố kích hoạt, bạn đang kiến tạo cho mình một **lộ trình thần kinh mới**.
+Mỗi khi bạn thực hành thành công việc quan sát và bẻ lái trước một yếu tố kích hoạt, bạn đang kiến tạo cho mình một lộ trình thần kinh mới.
 
 Nếu cứ phó mặc cho thói quen vô thức, một yếu tố kích hoạt sẽ luôn dẫn đến cảm xúc bùng nổ, kéo theo những hành vi ngoài ý muốn và để lại hậu quả dai dẳng. Vòng lặp ấy sẽ mãi lặp lại. Nhưng khi bạn chủ động ngắt quãng được não cảm xúc, bạn sẽ đánh thức tư duy logic. Bạn tự tạo ra cho mình một "khoảng không" quyền lực. Trong khoảng không ấy, bạn có toàn quyền lựa chọn cách phản ứng thông suốt và hiệu quả nhất để làm chủ cục diện.
 
@@ -294,7 +294,7 @@ Ví dụ, nếu hôm qua bạn đã kịp dừng lại để không lớn tiến
 
 ### Bẻ lái để xây dựng nhân dạng tương lai
 
-Khi đã nhận diện được thói quen cũ, bước quan trọng tiếp theo là "bẻ lái". Bất cứ khi nào cảm xúc chực trào, hoặc khi bạn lại rơi vào một vòng lặp hành vi quen thuộc, hãy dừng lại một nhịp và tự hỏi: **"Điều gì thực sự quan trọng vào lúc này?"**. 
+Khi đã nhận diện được thói quen cũ, bước quan trọng tiếp theo là "bẻ lái". Bất cứ khi nào cảm xúc chực trào, hoặc khi bạn lại rơi vào một vòng lặp hành vi quen thuộc, hãy dừng lại một nhịp và tự hỏi: "Điều gì thực sự quan trọng vào lúc này?". 
 
 Sự dịch chuyển từ việc bị kích động sang việc làm chủ phản ứng chính là nền tảng để bạn xây dựng "nhân dạng tương lai". Khi bạn kiên trì quan sát và bẻ lái mỗi ngày, bạn không chỉ đang chữa lành chính mình mà còn đang thiết lập một hành trình sống trọn vẹn và đầy chủ đích.
 
@@ -313,7 +313,7 @@ Tiếp đó, Nhung đưa ra hai lựa chọn cho con: làm nhanh thì đi ăn s�
 
 > "Để bẻ lái cảm xúc thành công, hãy luôn tự hỏi: 'Điều gì thực sự quan trọng nhất lúc này?'. Khi tìm về giá trị cốt lõi mình muốn xây dựng cho con, bạn sẽ tự động biết cách hành xử đúng đắn."
 
-Trong tình huống này, mục đích thực sự của quy trình buổi sáng không phải là việc ép con gấp chăn cho nhanh để kịp giờ, mà là xây dựng **sự tự chủ** cá nhân cho trẻ. Việc gọi tên được giá trị cốt lõi này đã giúp chuyển hướng dòng cảm xúc, đưa chúng ta từ trạng thái phản ứng bực tức sang hành động có chủ đích, thấu hiểu và yêu thương.
+Trong tình huống này, mục đích thực sự của quy trình buổi sáng không phải là việc ép con gấp chăn cho nhanh để kịp giờ, mà là xây dựng sự tự chủ cá nhân cho trẻ. Việc gọi tên được giá trị cốt lõi này đã giúp chuyển hướng dòng cảm xúc, đưa chúng ta từ trạng thái phản ứng bực tức sang hành động có chủ đích, thấu hiểu và yêu thương.
 
 ### Bài tập thực hành
 Để biến lý thuyết thành kỹ năng, chúng ta cần liên tục thực hành việc quan sát và phân tích chính mình. 

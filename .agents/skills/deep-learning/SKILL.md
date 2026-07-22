@@ -14,8 +14,8 @@ updated: 2026-07-22
 
 # Skill: Deep Learning OS (Hệ Điều Hành Học Sâu Khép Kín)
 
-> **Triết lý:**"Học không phải là tích trữ thông tin. Học là một vòng lặp tự tiến hóa: Neo nhận thức ban đầu Phân tích tinh hoa Thử nghiệm thực tế Cập nhật niềm tin mới."
-> **Nguyên tắc vàng:** **HÀNH ĐỘNG TRƯỚC - NẠP MỚI SAU - KHÉP KÍN VÒNG LẶP PHẢN TƯ.**
+> Triết lý: "Học không phải là tích trữ thông tin. Học là một vòng lặp tự tiến hóa: Neo nhận thức ban đầu Phân tích tinh hoa Thử nghiệm thực tế Cập nhật niềm tin mới."
+> Nguyên tắc vàng: HÀNH ĐỘNG TRƯỚC - NẠP MỚI SAU - KHÉP KÍN VÒNG LẶP PHẢN TƯ.
 
 ---
 
@@ -31,19 +31,19 @@ Skill được kích hoạt khi:
 
 ### 1. Khảo Bài Cũ 60s & Lặp Lại Ngắt Quãng (Spaced Repetition Checkpoint)
 Trước khi nhận tài liệu mới:
-- AI ngẫu nhiên chọn 1 Worldview/Tục ngữ cũ trong `_INDEX.md` và hỏi: *"Nhắc nhớ ngẫu nhiên: Bạn còn nhớ bài học '[Tên Worldview]' hôm trước không?"*
+- AI ngẫu nhiên chọn 1 Worldview/Tục ngữ cũ trong `_INDEX.md` và hỏi: "Nhắc nhớ ngẫu nhiên: Bạn còn nhớ bài học '[Tên Worldview]' hôm trước không?"
 - User trả lời ngắn 1-2 câu theo ngôn ngữ cá nhân HOẶC xác nhận trạng thái thực hành.
 
 ### 2. Phase 0: Neo Nhận Thức Ban Đầu (Anchoring & Pre-Assessment)
 Trước khi lập Sổ Tay Tinh Hoa, AI đặt 1 câu hỏi định hình:
-- *"Trước khi tìm hiểu nội dung này, bạn đang có suy nghĩ/niềm tin ban đầu gì về chủ đề này?"*
+- "Trước khi tìm hiểu nội dung này, bạn đang có suy nghĩ/niềm tin ban đầu gì về chủ đề này?"
 - Mục đích: Tạo điểm đối chiếu (Before vs After) để đo lường chính xác mức độ chuyển hóa nhận thức.
 
 ---
 
 ## BỘ 3 TÀI SẢN P.A.R.A CHUẨN HÓA
 
-Mỗi bài học lưu tại `d:\Antigravity\love myself\Hoc-Sau\[Nguon-Du-Lieu]\YYYY-MM-DD_ten-chu-de\`:
+Mỗi bài học lưu tại `d: \Antigravity\love myself\Hoc-Sau\[Nguon-Du-Lieu]\YYYY-MM-DD_ten-chu-de\`:
 
 ```
 YYYY-MM-DD_ten-chu-de/
@@ -80,7 +80,7 @@ graph TD
 
 ### Phase 4: Creative Feynman & Reality Feedback Loop (Đóng Vòng Lặp Kolb)
 - Thử thách Feynman: Tự diễn giải lại trong 2 câu ngắn.
-- **Vòng lặp Phản hồi Thực tế (Reality Testing Prompt):** Sau khi thực hành, cập nhật ngược lại file `analysis.md`: *"Kết quả thực tế khác với lý thuyết như thế nào? Cần điều chỉnh nguyên tắc nào?"*
+- Vòng lặp Phản hồi Thực tế (Reality Testing Prompt): Sau khi thực hành, cập nhật ngược lại file `analysis.md`: "Kết quả thực tế khác với lý thuyết như thế nào? Cần điều chỉnh nguyên tắc nào?"
 
 ### Phase 5: Indexing & Spaced Repetition
 - Cập nhật `_INDEX.md` tổng.
@@ -89,6 +89,6 @@ graph TD
 ---
 
 ## CRITICAL RULES
-1. **P.A.R.A TRƯỚC, ARTIFACT SAU:**Ghi trực tiếp vào file local trước, tạo Artifact sau.
-2. **GHI NHẬN LỊCH SỬ:**Mọi thay đổi bắt buộc cập nhật vào `CHANGES.log`.
-3. **ĐÓNG VÒNG LẶP NỘI TÂM:** Mọi thực hành thực tế phải được phản hồi lại để hoàn thiện hệ thống tư duy.
+1. P.A.R.A TRƯỚC, ARTIFACT SAU: Ghi trực tiếp vào file local trước, tạo Artifact sau.
+2. GHI NHẬN LỊCH SỬ: Mọi thay đổi bắt buộc cập nhật vào `CHANGES.log`.
+3. ĐÓNG VÒNG LẶP NỘI TÂM: Mọi thực hành thực tế phải được phản hồi lại để hoàn thiện hệ thống tư duy.

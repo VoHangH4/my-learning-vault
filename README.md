@@ -1,13 +1,13 @@
 # TỦ SÁCH HỌC SÂU (DIGITAL LEARNING & BOOK VAULT)
 
-> **Repository làm không gian làm việc chung cho Con Người & AI Agent**> Dựa trên mô hình quản trị tri thức & viết sách bằng Markdown trên GitHub.
+> Repository làm không gian làm việc chung cho Con Người & AI Agent> Dựa trên mô hình quản trị tri thức & viết sách bằng Markdown trên GitHub.
 
 ---
 
 ## ️ DANH MỤC CÁC CHƯƠNG SÁCH (BẤM VÀO TÊN FILE BÊN TRÁI ĐỂ ĐỌC SEAMLESS)
 
 | Tên File (Bên trái) | Tên Chương Sách | Thẻ Phân Loại (Tag) | Diễn giả / Tác giả |
-|:---|:---|:---:|:---|
+|: ---|: ---|: ---: |: ---|
 | `00-loi-noi-dau.md` | Lời nói đầu & Bản đồ kho sách | `#tong-quan` | Võ Hằng |
 | `01-viva-women-buoi-1-tu-luc-canh-sinh.md` | Viva Women - Buổi 1: Kick-off & Tự Lực Cánh Sinh | `#viva-women` | Hằng Võ |
 | `02-viva-women-buoi-2-suc-manh-hien-dien.md` | Viva Women - Buổi 2: Sức Mạnh Hiện Diện | `#viva-women` | Hằng Võ |
@@ -26,4 +26,4 @@
 ---
 
 ## HƯỚNG DẪN ĐỌC & ĐỌC ĐỊNH NGHĨA TRÊN BROWSER
-- Khi đang mở Repo này trên trình duyệt, bấm phím `.` (dấu chấm) hoặc đổi `.com` thành `.dev` để mở giao diện đọc sách & chỉnh sửa dạng **github.dev / VS Code Web** tuyệt đẹp!
+- Khi đang mở Repo này trên trình duyệt, bấm phím `.` (dấu chấm) hoặc đổi `.com` thành `.dev` để mở giao diện đọc sách & chỉnh sửa dạng github.dev / VS Code Web tuyệt đẹp!

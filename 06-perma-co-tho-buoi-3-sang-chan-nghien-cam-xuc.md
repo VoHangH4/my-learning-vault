@@ -11,7 +11,7 @@ khoa_hoc: "Đồng Hành Perma - Buổi 3"
 
 # KHÓA HỌC: PERMA BUỔI 5 (Video 3)
 
-> *Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.*
+> Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.
 
 ---
 
@@ -249,9 +249,9 @@ Bước thứ ba là xác định ba trụ cột chiến lược. Đừng chỉ 
 Để biến tầm nhìn thành hiện thực, bạn cần chia nhỏ mục tiêu thành các chiến lược với những thói quen siêu nhỏ (micro-habits). Điều này giúp bạn vượt qua sức ì nội môi của cơ thể, từng bước một đi đến mục tiêu. Sự thay đổi bền vững không bao giờ diễn ra chỉ sau một đêm mà là kết quả của sự rèn luyện bền bỉ.
 
 Bên cạnh đó, hãy thực hành viết "Nhật ký tương lai" mỗi ngày. Việc viết lách sẽ tạo ra những dẫn truyền thần kinh mới trong não bộ. Bạn có thể sử dụng ba câu hỏi gợi ý sau để định hướng tâm trí:
-- *Hôm nay tôi sẽ thực hành có ý thức với việc...* (Giúp xác định thói quen muốn phá vỡ hoặc hình thành).
-- *Tôi biết ơn điều gì...* (Đưa hệ thần kinh về trạng thái an toàn, bớt bất an hay trì hoãn).
-- *Tôi thay đổi khía cạnh này sẽ cho phép tôi...* (Kết nối với cảm xúc và duy trì niềm tin, nạp thêm cảm hứng cho bộ não).
+- Hôm nay tôi sẽ thực hành có ý thức với việc... (Giúp xác định thói quen muốn phá vỡ hoặc hình thành).
+- Tôi biết ơn điều gì... (Đưa hệ thần kinh về trạng thái an toàn, bớt bất an hay trì hoãn).
+- Tôi thay đổi khía cạnh này sẽ cho phép tôi... (Kết nối với cảm xúc và duy trì niềm tin, nạp thêm cảm hứng cho bộ não).
 
 > "Chữa lành không phải là tập trung vào đau khổ để giải tỏa. Chữa lành chính là quá trình tái cấu trúc lại não bộ."
 
@@ -267,18 +267,18 @@ Cuối cùng, hãy trở thành người tự chữa lành cho chính mình. Hã
 Chúng ta thường bị mắc kẹt trong những niềm tin giới hạn, tự dán nhãn cho chính mình bằng những cụm từ như "Tôi không thể..." hoặc "Tôi không xứng đáng...". Để phá vỡ những rào cản này và bước ra khỏi tâm thế nạn nhân, "đảo ngữ ba lần" là một bài tập thực hành nhỏ nhưng mang lại hiệu quả lớn. Phương pháp này giúp bạn định hình lại cách giao tiếp với chính mình thông qua ba bước đơn giản.
 
 ### Bước 1: Gọi tên niềm tin giới hạn
-Hãy viết xuống một niềm tin tiêu cực mà bạn từng có về bản thân theo cấu trúc: *Tôi không xứng đáng...* hoặc *Tôi không thể...* 
-Ví dụ: *"Tôi không xứng đáng có một gia đình hạnh phúc"*, *"Tôi không thể trở thành một quản lý giỏi"* hay *"Tôi không xứng đáng với một công việc nhẹ nhàng"*.
+Hãy viết xuống một niềm tin tiêu cực mà bạn từng có về bản thân theo cấu trúc: Tôi không xứng đáng... hoặc Tôi không thể... 
+Ví dụ: "Tôi không xứng đáng có một gia đình hạnh phúc", "Tôi không thể trở thành một quản lý giỏi" hay "Tôi không xứng đáng với một công việc nhẹ nhàng".
 Việc viết ra một cách cụ thể giúp bạn đối diện trực tiếp với những rào cản tâm lý đang giới hạn khả năng của mình.
 
 ### Bước 2: Đảo ngược vai trò
 Ở bước này, bạn giữ nguyên các từ ngữ trong câu nhưng đảo ngược vị trí giữa chủ thể và sự vật.
-Ví dụ: Từ câu *"Tôi không xứng đáng có một gia đình hạnh phúc"*, hãy đổi thành *"Một gia đình hạnh phúc không xứng đáng có được tôi"*.
+Ví dụ: Từ câu "Tôi không xứng đáng có một gia đình hạnh phúc", hãy đổi thành "Một gia đình hạnh phúc không xứng đáng có được tôi".
 Sự hoán đổi này là một "thủ thuật" dành cho não bộ. Nó ngay lập tức kéo bạn ra khỏi vị trí của một nạn nhân yếu thế. Khi bạn không còn đặt mình làm trung tâm của sự thiếu thốn hay kém cỏi, tư duy của bạn sẽ bắt đầu thay đổi.
 
 ### Bước 3: Khẳng định niềm tin mới
 Cuối cùng, hãy loại bỏ các từ phủ định (như "không") trong câu vừa đảo và củng cố lại một niềm tin mới tích cực hơn.
-Ví dụ: Từ *"Một người hài hước không thể là tôi"*, khi bỏ từ "không", câu sẽ thành *"Một người hài hước là tôi"*. Sau đó, bạn có thể đảo lại chủ thể một lần nữa để tạo thành lời khẳng định mạnh mẽ: *"Tôi là một người hài hước"* hay *"Tôi xứng đáng có những công việc nhẹ nhàng"*.
+Ví dụ: Từ "Một người hài hước không thể là tôi", khi bỏ từ "không", câu sẽ thành "Một người hài hước là tôi". Sau đó, bạn có thể đảo lại chủ thể một lần nữa để tạo thành lời khẳng định mạnh mẽ: "Tôi là một người hài hước" hay "Tôi xứng đáng có những công việc nhẹ nhàng".
 
 Khi thực hiện đến bước cuối cùng này, bạn sẽ nhận ra những niềm tin tiêu cực ban đầu đã lung lay và không còn đáng sợ nữa. Cứ mỗi lần thực hành đảo ngữ, trong não bộ của bạn sẽ xuất hiện một tiếng "tách" - một khoảnh khắc bừng tỉnh. Bạn sẽ nhận ra rằng mình hoàn toàn có quyền lựa chọn nghĩ khác đi, thay vì mãi bám víu vào những định kiến cũ.
 
@@ -289,10 +289,10 @@ Khi thực hiện đến bước cuối cùng này, bạn sẽ nhận ra những
 
 Để củng cố lại những gì đã học, chúng ta hãy cùng thực hành bài tập "đảo ngữ ba lần". Đây là phương pháp hiệu quả giúp bạn thay đổi góc nhìn và phá vỡ những niềm tin cũ đang giới hạn bản thân.
 
-Ví dụ, nếu bạn đang có suy nghĩ: *"Tôi thấy không đáng tin lắm về việc mình là người hài hước."* 
-Lần đảo thứ nhất, hãy đổi vị trí của các vế câu: *"Việc tôi là người hài hước, tôi không thấy đáng tin lắm."* Sự thay đổi này buộc não bộ phải chủ động xử lý và làm quen với một cấu trúc thông tin mới. 
+Ví dụ, nếu bạn đang có suy nghĩ: "Tôi thấy không đáng tin lắm về việc mình là người hài hước." 
+Lần đảo thứ nhất, hãy đổi vị trí của các vế câu: "Việc tôi là người hài hước, tôi không thấy đáng tin lắm." Sự thay đổi này buộc não bộ phải chủ động xử lý và làm quen với một cấu trúc thông tin mới. 
 Lần đảo thứ hai, hãy dũng cảm bỏ đi từ phủ định (như từ "không"), cho dù sâu thẳm bên trong bạn vẫn chưa hoàn toàn tin tưởng. 
-Cuối cùng, hãy chuyển câu nói về lại thể chủ động để khẳng định mạnh mẽ: *"Tôi tin rằng tôi là một người hài hước."*
+Cuối cùng, hãy chuyển câu nói về lại thể chủ động để khẳng định mạnh mẽ: "Tôi tin rằng tôi là một người hài hước."
 
 ### Kiến tạo "rãnh thông tin" mới trong tâm trí
 
@@ -300,7 +300,7 @@ Hãy tự mình viết những câu khẳng định này xuống giấy và dàn
 
 > "Mọi suy nghĩ đều có thể được nắm bắt, lật ngược lại và kể bằng một câu chuyện hoàn toàn khác."
 
-Khi bạn đã xây dựng được những suy nghĩ tích cực và biến chúng thành các hành động có ý thức, bạn sẽ tạo ra được những trải nghiệm sống tuyệt vời. Hãy bắt đầu từ việc gieo những niềm tin vững chắc vào tâm trí như: *"Tôi xứng đáng có cuộc sống sung sướng,"* hay *"Tôi xứng đáng có một công việc nhẹ nhàng."*
+Khi bạn đã xây dựng được những suy nghĩ tích cực và biến chúng thành các hành động có ý thức, bạn sẽ tạo ra được những trải nghiệm sống tuyệt vời. Hãy bắt đầu từ việc gieo những niềm tin vững chắc vào tâm trí như: "Tôi xứng đáng có cuộc sống sung sướng," hay "Tôi xứng đáng có một công việc nhẹ nhàng."
 
 ### Vượt qua sự trì hoãn để duy trì niềm tin mới
 

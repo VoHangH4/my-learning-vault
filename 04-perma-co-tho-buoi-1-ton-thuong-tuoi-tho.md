@@ -11,7 +11,7 @@ khoa_hoc: "Đồng Hành Perma - Buổi 1"
 
 # KHÓA HỌC: KIND LEARNING COMPANIONSHIP 2026
 
-> *Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.*
+> Bản ghi chép đã được biên tập, chắt lọc tinh hoa và loại bỏ từ thừa bằng AI.
 
 ---
 
@@ -140,7 +140,7 @@ Hai câu chuyện có chung một bối cảnh và chuỗi sự kiện, nhưng m
 
 Cuộc sống của chúng ta thường bị định hình bởi chính những câu chuyện mà ta tự kể cho bản thân. Trong quá trình trưởng thành, việc đối mặt với những biến cố không mong muốn là điều tất yếu. Tuy nhiên, bản năng con người luôn tìm cách bảo vệ và giữ chúng ta ở vùng an toàn cao nhất. Đôi khi, chính nỗ lực trốn tránh nỗi sợ hãi lại đẩy ta vào những vòng lặp tiêu cực không hồi kết.
 
-Chúng ta rất ít khi gắn giá trị cốt lõi vào các mục tiêu, nhưng lại rất dễ dàng "dán nhãn" những niềm tin tệ hại cho bản thân. Ví dụ, khi bạn hào hứng đặt ra một kế hoạch mới nhưng không sắp xếp được thời gian để thực hiện, bạn sẽ dễ rơi vào cảm giác tội lỗi và tự trách: *"Mình là người không kiên trì"*. Những niềm tin sai lệch này không chỉ áp đặt lên chính bạn mà đôi khi còn truyền sang cả con cái. Để phá vỡ vòng lặp kịch bản tiêu cực, bạn cần thấu hiểu cấu trúc của nó.
+Chúng ta rất ít khi gắn giá trị cốt lõi vào các mục tiêu, nhưng lại rất dễ dàng "dán nhãn" những niềm tin tệ hại cho bản thân. Ví dụ, khi bạn hào hứng đặt ra một kế hoạch mới nhưng không sắp xếp được thời gian để thực hiện, bạn sẽ dễ rơi vào cảm giác tội lỗi và tự trách: "Mình là người không kiên trì". Những niềm tin sai lệch này không chỉ áp đặt lên chính bạn mà đôi khi còn truyền sang cả con cái. Để phá vỡ vòng lặp kịch bản tiêu cực, bạn cần thấu hiểu cấu trúc của nó.
 
 Dưới đây là 3 yếu tố cốt lõi giúp bạn thực sự làm chủ bản thân:
 
@@ -151,7 +151,7 @@ Yếu tố đầu tiên là cách chúng ta góc nhìn cuộc sống và nhận 
 Bạn cần hiểu cách bộ não hoạt động và tại sao cảm xúc lại dễ dàng bộc phát. Khi thấu hiểu gốc rễ sinh học của cảm xúc, bạn sẽ dần học được cách bao dung hơn và chấp nhận một sự thật: chúng ta không thể kiểm soát cảm xúc của người khác. Cuối cùng, không ai có thể chịu trách nhiệm cho cảm xúc của bạn ngoài chính bạn.
 
 ### 3. Trách nhiệm với suy nghĩ và hành động
-Mỗi ngày, có hàng chục ngàn suy nghĩ lướt qua tâm trí. Suy nghĩ đầu tiên thường chỉ là phản xạ cảm xúc ngẫu nhiên (ví dụ: *"Tôi tức giận quá!"*). Nhưng nếu bạn giữ lại và tiếp tục suy nghĩ về nó lần thứ hai, đó đã trở thành chủ đích. 
+Mỗi ngày, có hàng chục ngàn suy nghĩ lướt qua tâm trí. Suy nghĩ đầu tiên thường chỉ là phản xạ cảm xúc ngẫu nhiên (ví dụ: "Tôi tức giận quá!"). Nhưng nếu bạn giữ lại và tiếp tục suy nghĩ về nó lần thứ hai, đó đã trở thành chủ đích. 
 
 > "Chúng ta chịu trách nhiệm cho suy nghĩ thứ hai và hành động đầu tiên của mình."
 
@@ -172,12 +172,12 @@ Câu chuyện này là một minh chứng đắt giá cho ranh giới giữa c�
 ### Phản biện nội tâm – Chìa khóa làm chủ bản thân
 Nhiều người lầm tưởng làm chủ bản thân chỉ đơn thuần là kiểm soát tâm trí và sống theo các giá trị cốt lõi. Tuy nhiên, theo các nghiên cứu tâm lý học, tâm trí thường được xây dựng dựa trên những niềm tin cũ. 
 
-Để thực sự làm chủ chính mình, bạn cần một công cụ sắc bén hơn: **Sự phản biện bằng lý trí**. Hãy tập cách tách bản thân ra khỏi vấn đề, quan sát cảm xúc của mình như một dạng "dữ liệu thông tin" và nhìn nhận sự kiện một cách khách quan. Ngay cả những giá trị cốt lõi bạn đang theo đuổi cũng có thể thay đổi theo thời gian. Việc liên tục tự vấn và đặt câu hỏi sẽ giúp bạn duy trì được sự trung tính, sáng suốt trước mọi biến cố.
+Để thực sự làm chủ chính mình, bạn cần một công cụ sắc bén hơn: Sự phản biện bằng lý trí. Hãy tập cách tách bản thân ra khỏi vấn đề, quan sát cảm xúc của mình như một dạng "dữ liệu thông tin" và nhìn nhận sự kiện một cách khách quan. Ngay cả những giá trị cốt lõi bạn đang theo đuổi cũng có thể thay đổi theo thời gian. Việc liên tục tự vấn và đặt câu hỏi sẽ giúp bạn duy trì được sự trung tính, sáng suốt trước mọi biến cố.
 
 ### Cảm xúc không phải là khiếm khuyết tính cách
 Chúng ta thường dán nhãn ai đó là "người nóng tính" và mặc định đó là bản tính không thể thay đổi. Thực chất, nóng giận hay cáu gắt chỉ là một loại cảm xúc. Nó không đại diện cho toàn bộ con người bạn, và chắc chắn không phải là một khiếm khuyết về tính cách.
 
-Về bản chất khoa học, cảm xúc là một cơ chế sinh học đặc biệt, được kích hoạt bởi **hạch hạnh nhân (amygdala)**nhằm bảo vệ chúng ta và phục vụ mục đích sinh tồn. Từ thuở sơ khai, tổ tiên chúng ta sống trong hang đá và phải đối mặt với thú dữ. Bộ não đã hình thành cơ chế "chiến hay biến" (fight or flight) để phản ứng ngay lập tức trước nguy hiểm. 
+Về bản chất khoa học, cảm xúc là một cơ chế sinh học đặc biệt, được kích hoạt bởi hạch hạnh nhân (amygdala)nhằm bảo vệ chúng ta và phục vụ mục đích sinh tồn. Từ thuở sơ khai, tổ tiên chúng ta sống trong hang đá và phải đối mặt với thú dữ. Bộ não đã hình thành cơ chế "chiến hay biến" (fight or flight) để phản ứng ngay lập tức trước nguy hiểm. 
 
 Ngày nay, những tác nhân gây căng thẳng không còn là thú dữ khát máu, mà là áp lực công việc, sự bất định hay những hình ảnh tiêu cực. Thế nhưng, hạch hạnh nhân vẫn tiếp tục kích hoạt những cảm xúc mạnh mẽ để bảo vệ chúng ta như cách nó đã làm hàng triệu năm qua.
 
@@ -191,7 +191,7 @@ Quản trị cảm xúc không phải là đè nén hay chối bỏ. Nó là vi�
 Ngay cả cơn giận cũng không hoàn toàn xấu xa. Các nghiên cứu tâm lý học đã chỉ ra rằng, tức giận đôi khi mang lại lợi ích tiềm ẩn, giúp chúng ta thiết lập ranh giới và bảo vệ bản thân khỏi sự xâm phạm. Một người hay cáu giận không phải là người xấu, họ chỉ đang thiếu đi kỹ năng quản trị cơn giận của chính mình.
 
 ### Cỗ máy "kịch bản cuộc đời" và ký ức cốt lõi
-Mọi sự kiện diễn ra đều được não bộ ghi nhận. Khi một cảm xúc bùng nổ – dù là niềm vui tột độ, sự hãnh diện hay một nỗi đau sâu sắc – nó sẽ khắc sâu vào tâm trí và tạo thành một **"ký ức cốt lõi"**. Từ những ký ức này, hệ thống niềm tin của chúng ta dần được hình thành, tạo nên một "cỗ máy kịch bản" chi phối toàn bộ cuộc đời.
+Mọi sự kiện diễn ra đều được não bộ ghi nhận. Khi một cảm xúc bùng nổ – dù là niềm vui tột độ, sự hãnh diện hay một nỗi đau sâu sắc – nó sẽ khắc sâu vào tâm trí và tạo thành một "ký ức cốt lõi". Từ những ký ức này, hệ thống niềm tin của chúng ta dần được hình thành, tạo nên một "cỗ máy kịch bản" chi phối toàn bộ cuộc đời.
 
 Để nhận diện và gỡ rối những kịch bản này, khi đối diện với một cảm xúc mạnh, hãy tự đặt cho mình 4 câu hỏi:
 1. Cơ thể mình đang cảm thấy thế nào?
@@ -219,7 +219,7 @@ Mọi suy nghĩ, cảm xúc và niềm tin cuối cùng đều sẽ phản chi�
 
 > "Chiếc xe đã đưa bạn đến đây sẽ không thể đưa bạn đến bến bờ tiếp theo."
 
-Để thực sự thay đổi, bạn phải quay ngược thời gian, lần tìm về cội nguồn nơi những niềm tin ấy bắt đầu bám rễ. Việc đào sâu vào một nỗi đau hay tổn thương trong quá khứ thường giúp chúng ta thấu hiểu bản thân sâu sắc hơn. Hãy thử nhớ lại và viết ra một ký ức bất kỳ đang hiện lên trong đầu bạn, ví dụ: *"Năm 3 tuổi, tôi bị mẹ bắt đi học dù đang đau bụng dữ dội, vì mẹ không tin tôi và cho rằng tôi đang nói dối..."*. Việc gọi tên và đối diện với những ký ức như thế chính là bước đầu tiên để bạn giải mã niềm tin hiện tại và viết lại kịch bản cuộc đời mình.
+Để thực sự thay đổi, bạn phải quay ngược thời gian, lần tìm về cội nguồn nơi những niềm tin ấy bắt đầu bám rễ. Việc đào sâu vào một nỗi đau hay tổn thương trong quá khứ thường giúp chúng ta thấu hiểu bản thân sâu sắc hơn. Hãy thử nhớ lại và viết ra một ký ức bất kỳ đang hiện lên trong đầu bạn, ví dụ: "Năm 3 tuổi, tôi bị mẹ bắt đi học dù đang đau bụng dữ dội, vì mẹ không tin tôi và cho rằng tôi đang nói dối...". Việc gọi tên và đối diện với những ký ức như thế chính là bước đầu tiên để bạn giải mã niềm tin hiện tại và viết lại kịch bản cuộc đời mình.
 
 
 ---
@@ -329,10 +329,10 @@ Việc chia sẻ và lắng nghe góc nhìn từ một người ngoài cuộc l�
 
 Để thực sự tháo gỡ những vướng mắc từ quá khứ, chúng ta cần một quy trình rõ ràng. Bản đồ bóc tách nội tâm gồm bốn bước cốt lõi giúp bạn làm việc với chính mình:
 
-1. **Tìm kiếm một sự kiện cụ thể:**Bắt đầu bằng việc chọn ra một ký ức và quan sát lại cảm xúc của bạn tại thời điểm đó.
-2. **Viết lại kịch bản:**Ghi nhận những "tiếng nói nhỏ" bên trong mà bạn vẫn luôn tự nhủ với bản thân bấy lâu nay.
-3. **Nhận diện thế giới quan:**Phân tích xem bạn đang nhìn nhận thế giới như thế nào dựa trên câu chuyện và niềm tin ấy.
-4. **Bẻ gãy vòng lặp:** Sử dụng lý trí để quan sát cảm xúc, sau đó xây dựng lại một hệ thống niềm tin mới vững chắc hơn.
+1. Tìm kiếm một sự kiện cụ thể: Bắt đầu bằng việc chọn ra một ký ức và quan sát lại cảm xúc của bạn tại thời điểm đó.
+2. Viết lại kịch bản: Ghi nhận những "tiếng nói nhỏ" bên trong mà bạn vẫn luôn tự nhủ với bản thân bấy lâu nay.
+3. Nhận diện thế giới quan: Phân tích xem bạn đang nhìn nhận thế giới như thế nào dựa trên câu chuyện và niềm tin ấy.
+4. Bẻ gãy vòng lặp: Sử dụng lý trí để quan sát cảm xúc, sau đó xây dựng lại một hệ thống niềm tin mới vững chắc hơn.
 
 > "Việc làm chủ bản thân không phải là một phép thuật. Đó là một quá trình giải phẫu hệ thống: dùng lý trí để tháo gỡ cảm xúc, quan sát nó, viết lại niềm tin và bẻ gãy những vòng lặp cũ."
 

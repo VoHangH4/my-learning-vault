@@ -57,8 +57,8 @@ Chúng ta không đi tìm hạnh phúc; chúng ta mang theo hạnh phúc trong m
 Phụ nữ Việt Nam từ ngàn xưa đã nổi tiếng với vẻ đẹp dịu dàng, đằm thắm. Nhưng ẩn sâu bên trong sự mềm mại đó là một sức mạnh phi thường.
 Chương trình Viva Women được thiết kế để đánh thức cả hai phần này trong bạn: Nàng Thơ và Chiến Binh.
 
-- **Chiến Binh:**Sự quyết đoán, mạnh mẽ, bản lĩnh trên thương trường. Khả năng giải quyết vấn đề, vượt qua nghịch cảnh và bảo vệ những giá trị cốt lõi.
-- **Nàng Thơ:**Sự mềm mại, ấm áp, sâu sắc trong các mối quan hệ. Khả năng lắng nghe, thấu cảm và nuôi dưỡng tình yêu thương.
+- Chiến Binh: Sự quyết đoán, mạnh mẽ, bản lĩnh trên thương trường. Khả năng giải quyết vấn đề, vượt qua nghịch cảnh và bảo vệ những giá trị cốt lõi.
+- Nàng Thơ: Sự mềm mại, ấm áp, sâu sắc trong các mối quan hệ. Khả năng lắng nghe, thấu cảm và nuôi dưỡng tình yêu thương.
 
 Một người phụ nữ rực rỡ nhất là khi cô ấy biết cách linh hoạt giữa hai vai trò này. Bạn không cần phải luôn tỏ ra mạnh mẽ để chứng minh giá trị của mình, cũng không cần phải luôn yếu đuối để nhận được sự che chở. Hãy là chính mình, trọn vẹn và chân thật nhất.
 
@@ -70,9 +70,9 @@ Hiện tại, chúng ta đang sống trong một thế giới VUCA: Volatility (
 ### 3.1 Những Làn Sóng Đã Đi Qua
 
 Hãy nhìn lại một chút về những "đại vận" trong 10 năm qua:
-1. **Năm 2016:**Làn sóng thương mại điện tử bùng nổ (ví dụ: Shopee vào Việt Nam). Những người nắm bắt cơ hội kinh doanh online, chạy quảng cáo thời kỳ đầu đã tạo ra khối tài sản khổng lồ.
-2. **Năm 2021:**Đại dịch Covid-19 thay đổi toàn bộ hành vi của xã hội. Các mô hình kinh doanh online, đào tạo qua Zoom, làm việc từ xa lên ngôi.
-3. **Năm 2023 - 2024:**Sự bùng nổ của Trí tuệ nhân tạo (AI). Những người biết ứng dụng AI đã bỏ xa những người cố chấp bảo vệ cách làm cũ.
+1. Năm 2016: Làn sóng thương mại điện tử bùng nổ (ví dụ: Shopee vào Việt Nam). Những người nắm bắt cơ hội kinh doanh online, chạy quảng cáo thời kỳ đầu đã tạo ra khối tài sản khổng lồ.
+2. Năm 2021: Đại dịch Covid-19 thay đổi toàn bộ hành vi của xã hội. Các mô hình kinh doanh online, đào tạo qua Zoom, làm việc từ xa lên ngôi.
+3. Năm 2023 - 2024: Sự bùng nổ của Trí tuệ nhân tạo (AI). Những người biết ứng dụng AI đã bỏ xa những người cố chấp bảo vệ cách làm cũ.
 
 Mỗi khi một làn sóng đi qua, sẽ có những người trở nên giàu có, và cũng có những người bị bỏ lại phía sau. 
 Nếu công việc của bạn trong 3 năm qua không có bất kỳ kỹ năng mới nào được cập nhật, bạn không phải đang đứng im, mà bạn đang tụt lùi.
@@ -87,24 +87,24 @@ Vì vậy, hãy ngừng việc chờ đợi một "quý nhân" xuất hiện. Qu
 
 ## Phần 4: Xu Hướng 2026 - 2027 - Sức Mạnh Của Mối Quan Hệ
 
-Chúng ta đang tiến sâu vào kỷ nguyên số, nơi máy móc và AI có thể làm thay con người rất nhiều việc. Nhưng điều gì máy móc không thể thay thế? Đó chính là **Sự Kết Nối Giữa Con Người Với Con Người**.
+Chúng ta đang tiến sâu vào kỷ nguyên số, nơi máy móc và AI có thể làm thay con người rất nhiều việc. Nhưng điều gì máy móc không thể thay thế? Đó chính là Sự Kết Nối Giữa Con Người Với Con Người.
 
 Trong năm 2026 và 2027, khi mọi thứ trở nên quá tự động hóa, con người sẽ khao khát sự chân thật, những mối quan hệ sâu sắc và những cộng đồng mang tính kết nối cao.
 
 ### 4.1 Mối Quan Hệ Là Tài Sản Lớn Nhất
 
 Bạn nghĩ rằng xây dựng thương hiệu cá nhân là để có nhiều lượt view?
-Sai lầm! Lượt view không trực tiếp tạo ra tài sản lớn. **Mối quan hệ mới tạo ra tài sản.**Một kênh TikTok hay Facebook có triệu view nhưng không có tính kết nối sâu sắc sẽ dễ dàng sụp đổ. Trong khi đó, một cộng đồng chỉ gồm vài ngàn người (như Elite Member) nhưng chất lượng, gắn kết và thấu hiểu nhau lại là một di sản bền vững.
+Sai lầm! Lượt view không trực tiếp tạo ra tài sản lớn. Mối quan hệ mới tạo ra tài sản.Một kênh TikTok hay Facebook có triệu view nhưng không có tính kết nối sâu sắc sẽ dễ dàng sụp đổ. Trong khi đó, một cộng đồng chỉ gồm vài ngàn người (như Elite Member) nhưng chất lượng, gắn kết và thấu hiểu nhau lại là một di sản bền vững.
 
 Khi bạn xây dựng được uy tín và có những mối quan hệ chất lượng, bạn sẽ tiết kiệm được rất nhiều nguồn lực (như chi phí quảng cáo, chi phí tìm kiếm khách hàng). Sự giàu có thực sự đến từ vị thế của bạn trong mạng lưới các mối quan hệ đó.
 
 ### 4.2 Lộ Trình 8 Buổi Để Lột Xác
 
 Chương trình Viva Women cung cấp một lộ trình rõ ràng để bạn xây dựng lại nền tảng của chính mình:
-- **Buổi 1:**Kick-off & Đánh thức nội lực.
-- **Buổi 2:**Sức mạnh của sự hiện diện. Trở về bên trong để tìm ra bạn thực sự là ai.
-- **Buổi 4:**Thiết kế mục tiêu. Xây dựng bản vẽ cho cuộc đời tương lai.
-- **Những buổi tiếp theo:**Kỹ năng giao tiếp, truyền cảm hứng, và xây dựng thương hiệu cá nhân chuyển đổi.
+- Buổi 1: Kick-off & Đánh thức nội lực.
+- Buổi 2: Sức mạnh của sự hiện diện. Trở về bên trong để tìm ra bạn thực sự là ai.
+- Buổi 4: Thiết kế mục tiêu. Xây dựng bản vẽ cho cuộc đời tương lai.
+- Những buổi tiếp theo: Kỹ năng giao tiếp, truyền cảm hứng, và xây dựng thương hiệu cá nhân chuyển đổi.
 
 Đây không phải là thời kỳ để vội vã chạy theo đám đông nữa. Đã nửa năm trôi qua, chúng ta đã chạy quá nhanh. Bây giờ là khoảng lặng cần thiết để quay về củng cố gốc rễ. Một cái cây muốn vươn cao thì rễ phải đâm sâu.
 
@@ -115,10 +115,10 @@ Năng lượng của một nhóm sẽ bị kéo xuống nếu có những thành
 
 ### 5.1 Loại Bỏ Tư Duy Nạn Nhân
 
-- **Ngưng đổ lỗi:**Không đổ lỗi cho hoàn cảnh, cho người khác hay cho số phận. Khi bạn đặt mình cao hơn vấn đề, vấn đề sẽ trở nên nhỏ bé. Những người mạnh mẽ không bao giờ than vãn về môi trường xung quanh.
-- **Chịu trách nhiệm 100%:**Thế giới không nợ bạn điều gì. Thành công hay thất bại hoàn toàn do bạn quyết định.
-- **Ngưng lười biếng:**Đừng mong chờ người khác đến để tạo động lực cho bạn. Kỷ luật là chiếc cầu nối giữa mục tiêu và thành tựu.
-- **Không suy diễn (Overthinking):**Đừng tự vẽ ra những kịch bản tiêu cực trong đầu để tự làm tổn thương chính mình.
+- Ngưng đổ lỗi: Không đổ lỗi cho hoàn cảnh, cho người khác hay cho số phận. Khi bạn đặt mình cao hơn vấn đề, vấn đề sẽ trở nên nhỏ bé. Những người mạnh mẽ không bao giờ than vãn về môi trường xung quanh.
+- Chịu trách nhiệm 100%: Thế giới không nợ bạn điều gì. Thành công hay thất bại hoàn toàn do bạn quyết định.
+- Ngưng lười biếng: Đừng mong chờ người khác đến để tạo động lực cho bạn. Kỷ luật là chiếc cầu nối giữa mục tiêu và thành tựu.
+- Không suy diễn (Overthinking): Đừng tự vẽ ra những kịch bản tiêu cực trong đầu để tự làm tổn thương chính mình.
 
 ### 5.2 Nghệ Thuật Giao Tiếp Của Người Trưởng Thành
 
@@ -163,115 +163,119 @@ Sự cạnh tranh ở đây không phải là dẫm đạp lên nhau để đi l
 Dưới đây là bảng tổng hợp các hành động cụ thể bạn cần thực hiện ngay sau khi đọc xong cuốn cẩm nang này:
 
 | Hạng mục | Vấn đề thường gặp | Hành động giải quyết (Actionable Steps) | Kết quả kỳ vọng |
-| :--- | :--- | :--- | :--- |
-| **Quản trị Cảm xúc & Nội lực**| Dễ rơi vào trạng thái overthinking, hay than vãn và đóng vai nạn nhân. | 1. Ngừng hoàn toàn việc than vãn trong 7 ngày tới.<br>2. Thực hành mỉm cười chủ đích ít nhất 10 lần/ngày.<br>3. Thay thế câu "Tại sao lại là tôi?" bằng "Tôi học được gì từ việc này?" | Nội lực vững vàng, năng lượng tích cực lan tỏa đến gia đình và đồng nghiệp. |
-| **Sự Hiện Diện (Mindfulness)**| Làm nhiều việc cùng lúc nhưng không việc nào trọn vẹn; mất kết nối với hiện tại. | 1. Áp dụng quy tắc "Ở đâu, trọn vẹn ở đó".<br>2. Tắt thông báo điện thoại khi đang chơi với con hoặc dùng bữa cùng gia đình.<br>3. Dành 10 phút tĩnh lặng mỗi sáng để "quay về bên trong". | Cải thiện chất lượng mối quan hệ, giảm stress và tăng hiệu suất làm việc. |
-| **Xây dựng Mối Quan Hệ**| Quan tâm quá nhiều đến lượt view, like ảo; bỏ bê những kết nối sâu sắc. | 1. Lọc lại danh sách mối quan hệ; ưu tiên chất lượng hơn số lượng.<br>2. Đặt lịch gặp gỡ (trực tiếp/online) với 2-3 người có cùng tần số năng lượng mỗi tuần.<br>3. Thay đổi cách đặt câu hỏi khi nhờ tư vấn (tập trung vào giải pháp). | Tạo ra mạng lưới (network) vững chắc, có thể chuyển hóa thành tài sản trong năm 2026-2027. |
-| **Thích Nghi & Đổi Mới**| Kỹ năng dậm chân tại chỗ; e ngại công nghệ hoặc cách làm mới. | 1. Chủ động cập nhật thông tin về lịch học, tự tìm hiểu tài liệu trên Notion.<br>2. Dành 30 phút mỗi ngày học một công cụ mới (AI, phần mềm chỉnh sửa...).<br>3. Loại bỏ suy nghĩ "tôi không hợp với công nghệ". | Trở thành người phụ nữ 5.0 nhạy bén, không bị bỏ lại phía sau trong các "đại vận" mới. |
-| **Xác định Mục Tiêu Cuộc Đời**| Hành động theo bản năng, thiếu định hướng dài hạn, "xây nhà không có bản vẽ". | 1. Tự khai vấn bản thân bằng 3 câu hỏi: Tôi là ai? Tôi muốn trở thành người thế nào? Sứ mệnh của tôi là gì?<br>2. Viết ra mục tiêu 1 năm và 5 năm tới một cách chi tiết.<br>3. Vẽ "bản thiết kế cuộc đời" trước khi hành động. | Có kim chỉ nam rõ ràng, tránh đi chệch hướng và không bị kiệt sức vô ích. |
+| : --- | : --- | : --- | : --- |
+| Quản trị Cảm xúc & Nội lực| Dễ rơi vào trạng thái overthinking, hay than vãn và đóng vai nạn nhân. | 1. Ngừng hoàn toàn việc than vãn trong 7 ngày tới.<br>2. Thực hành mỉm cười chủ đích ít nhất 10 lần/ngày.<br>3. Thay thế câu "Tại sao lại là tôi?" bằng "Tôi học được gì từ việc này?" | Nội lực vững vàng, năng lượng tích cực lan tỏa đến gia đình và đồng nghiệp. |
+| Sự Hiện Diện (Mindfulness)| Làm nhiều việc cùng lúc nhưng không việc nào trọn vẹn; mất kết nối với hiện tại. | 1. Áp dụng quy tắc "Ở đâu, trọn vẹn ở đó".<br>2. Tắt thông báo điện thoại khi đang chơi với con hoặc dùng bữa cùng gia đình.<br>3. Dành 10 phút tĩnh lặng mỗi sáng để "quay về bên trong". | Cải thiện chất lượng mối quan hệ, giảm stress và tăng hiệu suất làm việc. |
+| Xây dựng Mối Quan Hệ| Quan tâm quá nhiều đến lượt view, like ảo; bỏ bê những kết nối sâu sắc. | 1. Lọc lại danh sách mối quan hệ; ưu tiên chất lượng hơn số lượng.<br>2. Đặt lịch gặp gỡ (trực tiếp/online) với 2-3 người có cùng tần số năng lượng mỗi tuần.<br>3. Thay đổi cách đặt câu hỏi khi nhờ tư vấn (tập trung vào giải pháp). | Tạo ra mạng lưới (network) vững chắc, có thể chuyển hóa thành tài sản trong năm 2026-2027. |
+| Thích Nghi & Đổi Mới| Kỹ năng dậm chân tại chỗ; e ngại công nghệ hoặc cách làm mới. | 1. Chủ động cập nhật thông tin về lịch học, tự tìm hiểu tài liệu trên Notion.<br>2. Dành 30 phút mỗi ngày học một công cụ mới (AI, phần mềm chỉnh sửa...).<br>3. Loại bỏ suy nghĩ "tôi không hợp với công nghệ". | Trở thành người phụ nữ 5.0 nhạy bén, không bị bỏ lại phía sau trong các "đại vận" mới. |
+| Xác định Mục Tiêu Cuộc Đời| Hành động theo bản năng, thiếu định hướng dài hạn, "xây nhà không có bản vẽ". | 1. Tự khai vấn bản thân bằng 3 câu hỏi: Tôi là ai? Tôi muốn trở thành người thế nào? Sứ mệnh của tôi là gì?<br>2. Viết ra mục tiêu 1 năm và 5 năm tới một cách chi tiết.<br>3. Vẽ "bản thiết kế cuộc đời" trước khi hành động. | Có kim chỉ nam rõ ràng, tránh đi chệch hướng và không bị kiệt sức vô ích. |
 
 ---
-**Tạm kết:**Hành trình thay đổi không bao giờ là dễ dàng, nhưng nó xứng đáng. Hãy biến những kiến thức này thành tài sản của riêng bạn, ứng dụng chúng vào từng hơi thở, từng quyết định trong cuộc sống. Hãy dũng cảm bước ra khỏi vùng an toàn, bỏ lại sau lưng tư duy nạn nhân để chính thức nhận lấy chiếc vương miện mà bạn xứng đáng được đội. Chúc bạn trở thành phiên bản rực rỡ nhất của chính mình!
+Tạm kết: Hành trình thay đổi không bao giờ là dễ dàng, nhưng nó xứng đáng. Hãy biến những kiến thức này thành tài sản của riêng bạn, ứng dụng chúng vào từng hơi thở, từng quyết định trong cuộc sống. Hãy dũng cảm bước ra khỏi vùng an toàn, bỏ lại sau lưng tư duy nạn nhân để chính thức nhận lấy chiếc vương miện mà bạn xứng đáng được đội. Chúc bạn trở thành phiên bản rực rỡ nhất của chính mình!
 
 
 
 ---
 
-# Bản Khảo Cổ Niềm Tin — Viva Women Buổi 1
+# Khung Tự Chiêm Nghiệm & Ứng Dụng Thực Hành — Viva Women Buổi 1
 
-## Giai Đoạn 3: Khảo Cổ Niềm Tin (3 Thế Giới Quan Cốt Lõi)
+## Giai Đoạn 3: Phân Tích Góc Nhìn & Niềm Tin Ẩn (Thang Bloom)
 
-### Thế Giới Quan 1
-- **Hiện tượng:**"Xã hội này là một xã hội của sự cạnh tranh và không có bất cứ một cơ hội nào đến với cuộc sống của các bạn khi mà các bạn cần cái sự giúp đỡ của ai đó... Đừng tìm kiếm sự công bằng bởi vì công bằng không tồn tại."
-- **Niềm tin ẩn:** *Đợi công bằng là chờ chết, tự bơi mới sống.*
-- **Đúng khi:**1. Khi đi xin việc hay thăng tiến, năng lực và giá trị bản thân quyết định chứ không phải sự kể khổ.
+> Lưu ý đặc biệt: Đây là phần Tự chiêm nghiệm & Chuyển hóa nội tâm được tách biệt rõ ràng khỏi bài học chính. Hệ thống được thiết kế theo Thang nhận thức Bloom (Phân tích - Đánh giá - Sáng tạo) nhằm giúp người học nhận diện Niềm tin ẩn, soi chiếu điểm mù và đưa vào thực hành thực tế.
+
+
+
+### Góc Nhìn & Niềm Tin Ẩn 1
+- Hiện tượng: "Xã hội này là một xã hội của sự cạnh tranh và không có bất cứ một cơ hội nào đến với cuộc sống của các bạn khi mà các bạn cần cái sự giúp đỡ của ai đó... Đừng tìm kiếm sự công bằng bởi vì công bằng không tồn tại."
+- Niềm tin ẩn: Đợi công bằng là chờ chết, tự bơi mới sống.
+- Đúng khi: 1. Khi đi xin việc hay thăng tiến, năng lực và giá trị bản thân quyết định chứ không phải sự kể khổ.
  2. Khi làm kinh doanh/xây kênh, thuật toán và thị trường đào thải những ai không chịu học hỏi và thích nghi.
-- **Sai khi:**Trong các môi trường phúc lợi xã hội tối thiểu hoặc gia đình, nơi tình thương và sự đùm bọc được ưu tiên hơn sự cạnh tranh.
-- **Áp dụng:**Ngừng than vãn "tại sao mình xui xẻo" mỗi khi gặp khó khăn. Lập tức tự hỏi: "Mình có thể học thêm kỹ năng gì để vượt qua chuyện này?"
+- Sai khi: Trong các môi trường phúc lợi xã hội tối thiểu hoặc gia đình, nơi tình thương và sự đùm bọc được ưu tiên hơn sự cạnh tranh.
+- Áp dụng: Ngừng than vãn "tại sao mình xui xẻo" mỗi khi gặp khó khăn. Lập tức tự hỏi: "Mình có thể học thêm kỹ năng gì để vượt qua chuyện này?"
 
-### Thế Giới Quan 2
-- **Hiện tượng:**"Đồng tiền là khởi xướng cho rất nhiều những cái điều tốt đẹp... Bạn về quê bạn vay tiền, so với việc bạn về quê bạn cho tiền ấy cái gì nó tuyệt vời hơn... Phú quý sinh lễ nghĩa."
-- **Niềm tin ẩn:** *Có thực mới vực được đạo, có tiền mới sang được người.*
-- **Đúng khi:**1. Khi muốn báo hiếu gia đình, chăm lo sức khỏe cho bố mẹ bằng những dịch vụ y tế tốt.
+### Góc Nhìn & Niềm Tin Ẩn 2
+- Hiện tượng: "Đồng tiền là khởi xướng cho rất nhiều những cái điều tốt đẹp... Bạn về quê bạn vay tiền, so với việc bạn về quê bạn cho tiền ấy cái gì nó tuyệt vời hơn... Phú quý sinh lễ nghĩa."
+- Niềm tin ẩn: Có thực mới vực được đạo, có tiền mới sang được người.
+- Đúng khi: 1. Khi muốn báo hiếu gia đình, chăm lo sức khỏe cho bố mẹ bằng những dịch vụ y tế tốt.
  2. Khi cần đầu tư vào giáo dục, phát triển bản thân (tham gia khóa học, mua công cụ làm việc).
-- **Sai khi:**Tiền bạc bị đặt lên trên đạo đức, làm giàu bằng cách bất chấp pháp luật, hoặc khi tiền phá vỡ tình cảm gia đình.
-- **Áp dụng:**Gạt bỏ suy nghĩ "tiền là thứ xấu xa". Tập trung xây dựng một nguồn thu nhập ổn định và tự hào về việc kiếm tiền chân chính.
+- Sai khi: Tiền bạc bị đặt lên trên đạo đức, làm giàu bằng cách bất chấp pháp luật, hoặc khi tiền phá vỡ tình cảm gia đình.
+- Áp dụng: Gạt bỏ suy nghĩ "tiền là thứ xấu xa". Tập trung xây dựng một nguồn thu nhập ổn định và tự hào về việc kiếm tiền chân chính.
 
-### Thế Giới Quan 3
-- **Hiện tượng:**"Thương hiệu cá nhân của các bạn nó chỉ là nơi xây dựng mối quan hệ thôi. Còn để biến nó thành tiền... nó phải là sự kết nối. Bạn sẽ trở nên giàu có hơn nhờ vị thế và mối quan hệ chứ không phải lượt view."
-- **Niềm tin ẩn:** *Lượt view là phù du, mối quan hệ mới là tài sản.*
-- **Đúng khi:**1. Khi có 100 khách hàng trung thành sẵn sàng mua mọi sản phẩm mình bán thay vì 1 triệu view nhưng không ai mua.
+### Góc Nhìn & Niềm Tin Ẩn 3
+- Hiện tượng: "Thương hiệu cá nhân của các bạn nó chỉ là nơi xây dựng mối quan hệ thôi. Còn để biến nó thành tiền... nó phải là sự kết nối. Bạn sẽ trở nên giàu có hơn nhờ vị thế và mối quan hệ chứ không phải lượt view."
+- Niềm tin ẩn: Lượt view là phù du, mối quan hệ mới là tài sản.
+- Đúng khi: 1. Khi có 100 khách hàng trung thành sẵn sàng mua mọi sản phẩm mình bán thay vì 1 triệu view nhưng không ai mua.
  2. Khi gặp biến cố kinh doanh, chính những đối tác, bạn bè chân thành (network) mới là người chìa tay ra giúp.
-- **Sai khi:**Ở giai đoạn mới bắt đầu (brand awareness), cần mượn lượt view (traffic) để nhiều người biết đến trước khi có thể chọn lọc để kết nối sâu.
-- **Áp dụng:**Bớt ám ảnh về lượt like/share. Dành thời gian trả lời chân thành từng comment và chủ động inbox hỏi thăm những người thường xuyên tương tác.
+- Sai khi: Ở giai đoạn mới bắt đầu (brand awareness), cần mượn lượt view (traffic) để nhiều người biết đến trước khi có thể chọn lọc để kết nối sâu.
+- Áp dụng: Bớt ám ảnh về lượt like/share. Dành thời gian trả lời chân thành từng comment và chủ động inbox hỏi thăm những người thường xuyên tương tác.
 
 ## Giai Đoạn 4: Tổng Hợp & Đối Chiếu
-- **3 niềm tin cốt lõi:**Tự lực cánh sinh không chờ công bằng, Tiền tạo nền tảng cho sự sang trọng, Mối quan hệ là tài sản thực sự.
-- **So sánh với mainstream:**Thay vì dạy các kỹ xảo "câu view" hay "hack thuật toán", cô tập trung vào nội lực, sự chân thật và xây dựng cộng đồng gắn kết sâu sắc. Dám nói thẳng sự khốc liệt của việc kiếm tiền thay vì những lời hứa hẹn "ngồi không cũng ra tiền".
-- **Tension nội tại:**Một mặt cô vô cùng khắt khe, thẳng thắn, loại bỏ những người không cùng năng lượng (cắt Zoom, kích khỏi nhóm); mặt khác cô lại rất khao khát xây dựng một cộng đồng đầy ắp tình yêu thương, biết ơn và bao dung. Tuy nhiên điều này không mâu thuẫn: phải có ranh giới rõ ràng mới bảo vệ được sự thuần khiết của cộng đồng.
+- 3 niềm tin cốt lõi: Tự lực cánh sinh không chờ công bằng, Tiền tạo nền tảng cho sự sang trọng, Mối quan hệ là tài sản thực sự.
+- So sánh với mainstream: Thay vì dạy các kỹ xảo "câu view" hay "hack thuật toán", cô tập trung vào nội lực, sự chân thật và xây dựng cộng đồng gắn kết sâu sắc. Dám nói thẳng sự khốc liệt của việc kiếm tiền thay vì những lời hứa hẹn "ngồi không cũng ra tiền".
+- Tension nội tại: Một mặt cô vô cùng khắt khe, thẳng thắn, loại bỏ những người không cùng năng lượng (cắt Zoom, kích khỏi nhóm); mặt khác cô lại rất khao khát xây dựng một cộng đồng đầy ắp tình yêu thương, biết ơn và bao dung. Tuy nhiên điều này không mâu thuẫn: phải có ranh giới rõ ràng mới bảo vệ được sự thuần khiết của cộng đồng.
 
 ## Giai Đoạn 5: Phân Loại & Lưu Vào Hệ Thống Tri Thức Cá Nhân
-*(Ghi chú: P.A.R.A là phương pháp quản lý kiến thức gồm 4 nhóm: Dự án - Lĩnh vực - Tài nguyên - Lưu trữ)*
-- 🟢 **Củng cố:**Tư tưởng tự chịu trách nhiệm hoàn toàn phù hợp với tinh thần làm chủ nội tâm. Việc sống trọn vẹn ở "hiện tại" (Giai đoạn chuyển hóa đầu tiên cô nhắc đến) tương thích hoàn toàn với "Quá khứ là cái bóng, tương lai là ảo ảnh".
-- 🟡 **Mở rộng:** Thang Bloom có thể bổ sung vào quá trình "phát triển trọn vẹn với tiềm năng", biến việc "tự học" (lý thuyết) thành "thực hành" (kiếm tiền/xây mối quan hệ).
+(Ghi chú: P.A.R.A là phương pháp quản lý kiến thức gồm 4 nhóm: Dự án - Lĩnh vực - Tài nguyên - Lưu trữ)
+- Củng cố: Tư tưởng tự chịu trách nhiệm hoàn toàn phù hợp với tinh thần làm chủ nội tâm. Việc sống trọn vẹn ở "hiện tại" (Giai đoạn chuyển hóa đầu tiên cô nhắc đến) tương thích hoàn toàn với "Quá khứ là cái bóng, tương lai là ảo ảnh".
+- Mở rộng: Thang Bloom có thể bổ sung vào quá trình "phát triển trọn vẹn với tiềm năng", biến việc "tự học" (lý thuyết) thành "thực hành" (kiếm tiền/xây mối quan hệ).
 
 ## Giai Đoạn 6: Câu Hỏi Phản Tư Nội Tâm
 1. Bạn đang bám chấp vào "sự công bằng" nào trong cuộc sống mà khiến bạn tự giới hạn bản thân?
 2. Mối quan hệ nào hiện tại đang là "tài sản" lớn nhất của bạn, và bạn đã nuôi dưỡng nó ra sao trong tuần qua?
-3. Bạn chọn lưu worldview nào vào thư viện niềm tin của mình? (Khuyến nghị: *Lượt view là phù du, mối quan hệ mới là tài sản* hoặc *Đợi công bằng là chờ chết, tự bơi mới sống*)
+3. Bạn chọn lưu worldview nào vào thư viện niềm tin của mình? (Khuyến nghị: Lượt view là phù du, mối quan hệ mới là tài sản hoặc Đợi công bằng là chờ chết, tự bơi mới sống)
 
 
 
 ---
 
 # BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA)
-**Nguồn:**Viva Women - Buổi 1: Đánh Thức Nội Lực & Tự Lực Cánh Sinh 
-**Giảng viên:**Hằng Võ 
-**Nguồn lưu trữ P.A.R.A:**[execution_checklist.md](file:///d:/Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_WUpci6EihAk/execution_checklist.md)
+Nguồn: Viva Women - Buổi 1: Đánh Thức Nội Lực & Tự Lực Cánh Sinh 
+Giảng viên: Hằng Võ 
+Nguồn lưu trữ P.A.R.A: [execution_checklist.md](file: ///d: /Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_WUpci6EihAk/execution_checklist.md)
 
 ---
 
 ## PHA 0: NEO NHẬN THỨC BAN ĐẦU
-- **Suy nghĩ/Niềm tin ban đầu của bạn:**`[Tôi từng nghĩ sự công bằng là điều mặc nhiên xã hội phải dành cho mình và lượt view/like trên MXH quyết định giá trị thương hiệu cá nhân]`
-- **Nhận thức sau khi học:**`[Chờ công bằng là tự làm khó mình; mối quan hệ chân thành và năng lực thực chiến mới là tài sản bền vững]`
+- Suy nghĩ/Niềm tin ban đầu của bạn: `[Tôi từng nghĩ sự công bằng là điều mặc nhiên xã hội phải dành cho mình và lượt view/like trên MXH quyết định giá trị thương hiệu cá nhân]`
+- Nhận thức sau khi học: `[Chờ công bằng là tự làm khó mình; mối quan hệ chân thành và năng lực thực chiến mới là tài sản bền vững]`
 
 ---
 
 ## ️ 1. CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG (CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG)
 
 | STT | Việc cần làm | Tần suất & Thời lượng | Chu kỳ thực hành | Trạng thái |
-|:---:|:---|:---|:---|:---:|
-| 1 | **Dừng than vãn:**Ngừng đổ lỗi cho bối cảnh khi gặp khó khăn, hỏi ngay: "Mình cần học thêm kỹ năng gì?" | Tức thì khi có sự cố | 21 ngày liên tục | `[ ]` |
-| 2 | **Kết nối chất lượng:**Nhắn tin chăm sóc chân thành 1 khách hàng / đối tác trung thành thay vì săn lùng lượt view | 15 phút / ngày | 7 ngày liên tục | `[ ]` |
-| 3 | **Ghi nhận thu nhập:**Đổi thái độ trân trọng với đồng tiền kiếm được chân chính | 3 phút trước khi ngủ | Mỗi ngày | `[ ]` |
+|: ---: |: ---|: ---|: ---|: ---: |
+| 1 | Dừng than vãn: Ngừng đổ lỗi cho bối cảnh khi gặp khó khăn, hỏi ngay: "Mình cần học thêm kỹ năng gì?" | Tức thì khi có sự cố | 21 ngày liên tục | `[ ]` |
+| 2 | Kết nối chất lượng: Nhắn tin chăm sóc chân thành 1 khách hàng / đối tác trung thành thay vì săn lùng lượt view | 15 phút / ngày | 7 ngày liên tục | `[ ]` |
+| 3 | Ghi nhận thu nhập: Đổi thái độ trân trọng với đồng tiền kiếm được chân chính | 3 phút trước khi ngủ | Mỗi ngày | `[ ]` |
 
 ---
 
 ## 2. BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU (BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU)
 
-1. **Nhận diện điểm mù (Blind Spot):** 
- *Câu hỏi:* Bạn đang bám chấp vào "sự công bằng" nào trong công việc hoặc cuộc sống khiến bạn tự giới hạn bản thân? 
- *Trả lời của bạn:* `[Điền phản tư tại đây]`
+1. Nhận diện điểm mù (Blind Spot): 
+ Câu hỏi: Bạn đang bám chấp vào "sự công bằng" nào trong công việc hoặc cuộc sống khiến bạn tự giới hạn bản thân? 
+ Trả lời của bạn: `[Điền phản tư tại đây]`
 
-2. **Xác định rào cản trí năng (Monkey Mind):** 
- *Câu hỏi:* Nỗi sợ nào khiến bạn chưa dũng cảm đặt giá trị thực cho sản phẩm/dịch vụ của mình? 
- *Trả lời của bạn:* `[Điền phản tư tại đây]`
+2. Xác định rào cản trí năng (Monkey Mind): 
+ Câu hỏi: Nỗi sợ nào khiến bạn chưa dũng cảm đặt giá trị thực cho sản phẩm/dịch vụ của mình? 
+ Trả lời của bạn: `[Điền phản tư tại đây]`
 
-3. **Mối quan hệ tài sản:** 
- *Câu hỏi:* Ai là 3 người trong mạng lưới mối quan hệ mà bạn cần dành thời gian nuôi dưỡng sâu sắc nhất tuần này? 
- *Trả lời của bạn:* `[Điền phản tư tại đây]`
+3. Mối quan hệ tài sản: 
+ Câu hỏi: Ai là 3 người trong mạng lưới mối quan hệ mà bạn cần dành thời gian nuôi dưỡng sâu sắc nhất tuần này? 
+ Trả lời của bạn: `[Điền phản tư tại đây]`
 
 ---
 
 ## 3. THỬ THÁCH KỸ THUẬT FEYNMAN (TẦNG SÁNG TẠO)
 
-- **Bài tập 2 câu:** Hãy giải thích lại triết lý "Mối quan hệ là tài sản" bằng ngôn ngữ bình dân nhất:
+- Bài tập 2 câu: Hãy giải thích lại triết lý "Mối quan hệ là tài sản" bằng ngôn ngữ bình dân nhất:
  > `[Điền 2 câu diễn giải của bạn tại đây]`
 
 ---
 
 ## 4. VÒNG LẶP PHẢN HỒI THỰC TẾ (VÒNG LẶP PHẢN HỒI THỰC TẾ)
-*(Điền phần này sau khi bạn đã thực hành ngoài đời 7 ngày)*
+(Điền phần này sau khi bạn đã thực hành ngoài đời 7 ngày)
 
-- **Kết quả thực tế khác lý thuyết như thế nào?**`[Điền kết quả thực tế]`
-- **Nguyên tắc nào cần điều chỉnh vào bản Khảo cổ niềm tin?** `[Điền nguyên tắc điều chỉnh]`
+- Kết quả thực tế khác lý thuyết như thế nào?`[Điền kết quả thực tế]`
+- Nguyên tắc nào cần điều chỉnh vào bản Khảo cổ niềm tin? `[Điền nguyên tắc điều chỉnh]`
