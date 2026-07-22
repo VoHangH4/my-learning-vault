@@ -34,7 +34,7 @@ Trước khi nhận tài liệu mới:
 - AI ngẫu nhiên chọn 1 Worldview/Tục ngữ cũ trong `_INDEX.md` và hỏi: "Nhắc nhớ ngẫu nhiên: Bạn còn nhớ bài học '[Tên Worldview]' hôm trước không?"
 - User trả lời ngắn 1-2 câu theo ngôn ngữ cá nhân HOẶC xác nhận trạng thái thực hành.
 
-### 2. Phase 0: Neo Nhận Thức Ban Đầu (Anchoring & Pre-Assessment)
+### 2. Phần Chuẩn Bị: Neo Nhận Thức Ban Đầu (Anchoring & Pre-Assessment)
 Trước khi lập Sổ Tay Tinh Hoa, AI đặt 1 câu hỏi định hình:
 - "Trước khi tìm hiểu nội dung này, bạn đang có suy nghĩ/niềm tin ban đầu gì về chủ đề này?"
 - Mục đích: Tạo điểm đối chiếu (Before vs After) để đo lường chính xác mức độ chuyển hóa nhận thức.

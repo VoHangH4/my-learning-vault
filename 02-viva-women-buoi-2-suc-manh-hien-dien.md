@@ -151,14 +151,14 @@ Trong mối quan hệ gia đình, cảm xúc yêu đương ban đầu rồi cũn
 
 ---
 
-# Khung Tự Chiêm Nghiệm & Ứng Dụng Thực Hành — Sức Mạnh Hiện Diện
+## PHẦN 3: KHUNG TỰ CHIÊM NGHIỆM VÀ ỨNG DỤNG THỰC HÀNH (THANG BLOOM) — Sức Mạnh Hiện Diện
 Speaker: Hằng Võ
 
-## Giai Đoạn 3: Phân Tích Góc Nhìn & Niềm Tin Ẩn (Thang Bloom)
+### 3.1. Phân Tích Góc Nhìn Và Niềm Tin Ẩn
 
 > Lưu ý đặc biệt: Đây là phần Tự chiêm nghiệm & Chuyển hóa nội tâm được tách biệt rõ ràng khỏi bài học chính. Hệ thống được thiết kế theo Thang nhận thức Bloom (Phân tích - Đánh giá - Sáng tạo) nhằm giúp người học nhận diện Niềm tin ẩn, soi chiếu điểm mù và đưa vào thực hành thực tế.
 
-### Góc Nhìn & Niềm Tin Ẩn 1: Kẻ thù nội tâm
+#### Mục 3.1.1. Phân tích Góc nhìn 1: Kẻ thù nội tâm
 | Mục | Nội dung |
 |-----|----------|
 | Hiện tượng | "Đâu là trở ngại lớn nhất... chính là việc các bạn tự đồng hóa mình với trí năng." |
@@ -167,7 +167,7 @@ Speaker: Hằng Võ
 | Sai khi | Khi cần dùng trí óc logic để phân tích và giải quyết các bài toán kỹ thuật cụ thể. |
 | Áp dụng: | Lần tới khi nổi giận, hãy nói thầm: "Mình đang quan sát một cảm xúc nóng giận", thay vì "Mình đang giận". |
 
-### Góc Nhìn & Niềm Tin Ẩn 2: Đạo của nước
+#### Mục 3.1.2. Phân tích Góc nhìn 2: Đạo của nước
 | Mục | Nội dung |
 |-----|----------|
 | Hiện tượng | "Tại sao những người phụ nữ chúng ta càng gồng mình, càng hơn thua... thì lại càng không đạt được. Các bạn bình lặng hơn... sẽ được nhiều hơn là mất." |
@@ -176,7 +176,7 @@ Speaker: Hằng Võ
 | Sai khi | Trong tình huống cần bảo vệ ranh giới cá nhân cứng rắn trước sự lạm dụng. |
 | Áp dụng: | Khi gặp ý kiến trái chiều, ngừng phản ứng 3 giây trước khi nói, chọn cách trả lời từ tốn nhất. |
 
-### Góc Nhìn & Niềm Tin Ẩn 3: Khoảnh khắc hiện tại
+#### Mục 3.1.3. Phân tích Góc nhìn 3: Khoảnh khắc hiện tại
 | Mục | Nội dung |
 |-----|----------|
 | Hiện tượng | "Không có một cái gì có thể xảy ra trong quá khứ cả... Nó chỉ xảy ra ở trong giây phút này thôi." |
@@ -185,71 +185,19 @@ Speaker: Hằng Võ
 | Sai khi | Cần lên kế hoạch chiến lược dài hạn đòi hỏi phải phân tích quá khứ và dự phóng tương lai. |
 | Áp dụng: | Mỗi ngày dành 5 phút chỉ ngồi thở và lắng nghe âm thanh xung quanh, không nghĩ gì khác. |
 
-## Giai Đoạn 4: Tổng Hợp & Đối Chiếu
+### 3.2. Tổng Hợp Và So Sánh Góc Nhìn
 - Bảng 3 niềm tin: Tách rời trí năng - Sống thuận tự nhiên - Tập trung hiện tại.
 - So sánh với mainstream: Trong khi số đông dạy xây thương hiệu bằng công thức, chạy ads, giật tít, speaker tin rằng nội lực và sự bình an bên trong mới tạo ra sự bền vững.
 - Tension nội tại: Phải vừa thuận theo tự nhiên (không gồng) lại vừa phải "cương quyết chú tâm bền bỉ" (cần một chút ý chí gò ép sự tập trung).
 
-## Giai Đoạn 5: Phân Loại & Lưu Vào Hệ Thống Tri Thức Cá Nhân
+### 3.3. Phân Loại Và Lưu Trữ Tri Thức
 (Ghi chú: P.A.R.A là phương pháp quản lý kiến thức gồm 4 nhóm: Dự án - Lĩnh vực - Tài nguyên - Lưu trữ)
 - Củng cố: Tư duy "Sống một cuộc đời nở hoa" rất khớp với việc sử dụng Notion để dọn dẹp hệ thống số, mang lại sự bình an (Zen workspace).
 - Củng cố: Liên kết mạnh với khái niệm Thang Bloom (Đánh giá, Phân tích chính bản thân mình).
 
-## Giai Đoạn 6: Câu Hỏi Phản Tư Nội Tâm
+### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
 1. Tiếng nói nội tâm thường xuyên nói với bạn điều gì nhất khi bạn bắt đầu một việc mới?
 2. Bạn đang gồng mình (ngược dòng) ở khía cạnh nào trong công việc hiện tại?
 3. Worldview nào trong 3 worldview trên bạn thấy tâm đắc nhất và muốn lưu vào Worldview Library?
 
 ---
-
-# BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA)
-Nguồn: Viva Women - Buổi 2: Sức Mạnh Của Sự Hiện Diện & Đạo Của Nước 
-Giảng viên: Hằng Võ 
-Nguồn lưu trữ P.A.R.A: [execution_checklist.md](file: ///d: /Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_IzcHd5UGplU/execution_checklist.md)
-
----
-
-## PHA 0: NEO NHẬN THỨC BAN ĐẦU
-- Suy nghĩ/Niềm tin ban đầu của bạn: `[Tôi từng nghĩ càng gồng mình chiến đấu và tranh luận thì mới đạt được kết quả]`
-- Nhận thức sau khi học: `[Nhận giặc làm con là cái bẫy trí năng; lùi 1 bước tĩnh lặng như nước mới tích tụ được nội lực mạnh nhất]`
-
----
-
-## ️ 1. CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG (CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG)
-
-| STT | Việc cần làm | Tần suất & Thời lượng | Chu kỳ thực hành | Trạng thái |
-|: ---: |: ---|: ---|: ---|: ---: |
-| 1 | Tạm dừng 3 giây: Tạm dừng 3 giây trước khi phản ứng mỗi khi nghe ý kiến trái chiều hoặc xung đột | Mỗi khi gặp tranh luận | 21 ngày liên tục | `[ ]` |
-| 2 | Tách rời trí năng: Nói thầm "Mình đang quan sát cảm xúc nóng giận/nỗi sợ" thay vì tự đồng hóa | Mỗi khi có cảm xúc tiêu cực | 14 ngày liên tục | `[ ]` |
-| 3 | Ngồi hiện diện: Tắt mọi thiết bị, chỉ ngồi hít thở và quan sát âm thanh xung quanh | 5 phút mỗi sáng | 7 ngày liên tục | `[ ]` |
-
----
-
-## 2. BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU (BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU)
-
-1. Nhận diện điểm mù (Blind Spot): 
- Câu hỏi: Tiếng nói nội tâm (Monkey Mind) thường xuyên thì thầm điều gì nhất khiến bạn lo âu? 
- Trả lời của bạn: `[Điền phản tư tại đây]`
-
-2. Khảo cổ sự gồng mình: 
- Câu hỏi: Bạn đang gồng mình (ngược dòng) ở khía cạnh nào trong công việc hoặc mối quan hệ gia đình? 
- Trả lời của bạn: `[Điền phản tư tại đây]`
-
-3. Quyết định tĩnh an: 
- Câu hỏi: Việc gì bạn chọn "lùi một bước" ngay trong hôm nay để lấy lại sự bình an nội tâm? 
- Trả lời của bạn: `[Điền phản tư tại đây]`
-
----
-
-## 3. THỬ THÁCH KỸ THUẬT FEYNMAN (TẦNG SÁNG TẠO)
-
-- Bài tập 2 câu: Hãy giải thích lại triết lý "Đạo của nước" cho một người bạn hiểu chỉ trong đúng 2 câu:
- > `[Điền 2 câu diễn giải của bạn tại đây]`
-
----
-
-## 4. VÒNG LẶP PHẢN HỒI THỰC TẾ (VÒNG LẶP PHẢN HỒI THỰC TẾ)
-(Điền phần này sau khi bạn đã thực hành ngoài đời 7 ngày)
-
-- Kết quả thực tế khác lý thuyết như thế nào?`[Điền kết quả thực tế]`
-- Nguyên tắc nào cần điều chỉnh vào bản Khảo cổ niềm tin? `[Điền nguyên tắc điều chỉnh]`

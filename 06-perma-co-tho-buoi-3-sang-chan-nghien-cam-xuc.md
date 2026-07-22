@@ -298,4 +298,3 @@ Bất cứ kiến thức hay thói quen nào cũng cần được lặp lại nh
 Cuối cùng, điều quan trọng nhất là bạn phải chiến thắng chính những niềm tin cũ kỹ và sự trì hoãn bên trong mình. Sẽ không còn lý do gì để chúng ta chần chừ hay e ngại thêm nữa. Hãy nuôi dưỡng cảm xúc hạnh phúc với những niềm tin mới và vững bước trên hành trình phát triển bản thân.
 
 ---
-

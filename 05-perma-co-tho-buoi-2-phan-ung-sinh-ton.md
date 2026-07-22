@@ -312,4 +312,3 @@ Mỗi ngày, hãy ghi chép lại ngắn gọn một sự kiện thực tế. Qu
 Sự chuyển hóa bắt đầu từ những ghi nhận nhỏ bé đó. Việc thực hành đều đặn, cộng với sự chia sẻ, đồng hành từ những người bạn chung chí hướng, sẽ giúp bạn dần làm chủ cảm xúc và kiên định với những giá trị giáo dục mình theo đuổi.
 
 ---
-

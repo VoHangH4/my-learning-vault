@@ -355,4 +355,3 @@ Ký ức tích cực ấy sẽ trở thành một mỏ neo niềm tin cho nhữn
 Hãy dành thời gian mỗi tuần để chọn ra một ký ức – có thể là một nỗi đau cần tháo gỡ hoặc một niềm tự hào cần neo giữ. Khi bạn gỡ bỏ được những niềm tin giới hạn, bạn sẽ thấy đôi cánh của mình rộng mở và tràn đầy sức mạnh để tự do bay cao.
 
 ---
-

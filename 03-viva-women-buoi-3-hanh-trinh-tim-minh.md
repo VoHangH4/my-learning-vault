@@ -207,44 +207,44 @@ Khi Nền móng và Bức tường chưa có, đừng cố vẽ ra một phong c
 Speaker: Hằng Võ
 Date: 2026-07-22
 
-## Giai Đoạn 3: Phân Tích Góc Nhìn & Niềm Tin Ẩn (Thang Bloom)
+### 3.1. Phân Tích Góc Nhìn Và Niềm Tin Ẩn
 
 > Lưu ý đặc biệt: Đây là phần Tự chiêm nghiệm & Chuyển hóa nội tâm được tách biệt rõ ràng khỏi bài học chính. Hệ thống được thiết kế theo Thang nhận thức Bloom (Phân tích - Đánh giá - Sáng tạo) nhằm giúp người học nhận diện Niềm tin ẩn, soi chiếu điểm mù và đưa vào thực hành thực tế.
 
-### Góc Nhìn & Niềm Tin Ẩn 1: Tình thương và sự kiên nhẫn
+#### Mục 3.1.1. Phân tích Góc nhìn 1: Tình thương và sự kiên nhẫn
 - Hiện tượng: "Bởi vì có hiểu thì mới có thương. Mà cái tình thương ở đây đó chính là sự kiên nhẫn... đặt cái tình yêu của mình trong từng quá trình."
 - Niềm tin ẩn: Kiên nhẫn là biểu hiện cao nhất của tình yêu.
 - Đúng khi: Bạn đồng hành cùng một người mới học việc, hoặc khi xây dựng một mối quan hệ dài hạn cần sự thấu hiểu.
 - Sai khi: Đối mặt với những vấn đề cần ra quyết định cắt lỗ ngay lập tức (như kinh doanh thất bại liên tục, toxic relationship).
 - Áp dụng cho Hằng: Lần tới khi bực bội vì một công việc trì trệ hay một ai đó chậm chạp, hãy hít thở và rèn luyện sự chú tâm vào từng bước nhỏ, đặt tình yêu vào cả quá trình thay vì chỉ nhìn vào kết quả.
 
-### Góc Nhìn & Niềm Tin Ẩn 2: Bản lĩnh đối mặt với vấn đề
+#### Mục 3.1.2. Phân tích Góc nhìn 2: Bản lĩnh đối mặt với vấn đề
 - Hiện tượng: "Ném một cái nắm muối vào trong một cái cốc ấy thì nó mặn chát. Mà nếu như mình ném một cái nắm muối vào sông vào biển ấy thì nó rất là bình thường... Vấn đề sẽ không còn khi mà bạn lớn hơn vấn đề."
 - Niềm tin ẩn: Vấn đề teo lại khi lòng người rộng ra.
 - Đúng khi: Đứng trước những lời chỉ trích, khó khăn thường nhật; nếu nội lực vững chãi thì tổn thương sẽ không đáng kể.
 - Sai khi: Vấn đề là những rủi ro mang tính hệ thống (pháp lý, tài chính lớn) cần giải quyết bằng kỹ năng thực tế chứ không chỉ bằng thái độ.
 - Áp dụng cho Hằng: Khi gặp khủng hoảng nhỏ trong công việc kế toán hoặc làm nội dung, hãy đặt câu hỏi: "Làm sao để tâm mình lớn hơn chuyện này?" thay vì bám chấp vào lỗi lầm.
 
-### Góc Nhìn & Niềm Tin Ẩn 3: Bản chất của mạng xã hội
+#### Mục 3.1.3. Phân tích Góc nhìn 3: Bản chất của mạng xã hội
 - Hiện tượng: "Kênh nó chỉ phóng đại những gì bạn có thôi. Bạn có những điều này thì kênh của các bạn nó sẽ phóng đại những cái điều tốt... Còn không có gì sao phóng đại được."
 - Niềm tin ẩn: Có chất thật bên trong mới phóng đại được ra bên ngoài.
 - Đúng khi: Xây dựng thương hiệu cá nhân bền vững dựa trên chuyên môn thật và giá trị thật.
 - Sai khi: Một số người dùng thủ thuật truyền thông để bóp méo sự thật, tạo ra "giá trị ảo" trong ngắn hạn và vẫn có thể viral.
 - Áp dụng cho Hằng: Trọng tâm vào việc vun bồi "tài sản nội tâm", dọn dẹp hệ thống số cá nhân thật vững chắc trước khi tìm kiếm sự bùng nổ trên các kênh truyền thông.
 
-## Giai Đoạn 4: Tổng Hợp & Đối Chiếu
+### 3.2. Tổng Hợp Và So Sánh Góc Nhìn
 - 3 niềm tin cốt lõi: 1. Trân trọng hành trình bằng sự kiên nhẫn.
  2. Phát triển bản thân để bao trùm vấn đề.
  3. Giá trị nội tại là nền tảng của mọi hình thức lan tỏa.
 - So sánh với mainstream: Trong khi số đông tìm kiếm "hạnh phúc ở bên ngoài" hay "chiến thuật xây kênh nhanh", góc nhìn này lại hướng vào "phát triển bên trong", coi nền tảng mạng xã hội chỉ là công cụ phóng đại giá trị tự thân.
 - Tension nội tại: Đôi khi việc quá bao dung và tập trung vào quá trình có thể làm chậm trễ tiến độ của những mục tiêu cần tính thực tế và tốc độ cao.
 
-## Giai Đoạn 5: Phân Loại & Lưu Vào Hệ Thống Tri Thức Cá Nhân
+### 3.3. Phân Loại Và Lưu Trữ Tri Thức
 (Ghi chú: P.A.R.A là phương pháp quản lý kiến thức gồm 4 nhóm: Dự án - Lĩnh vực - Tài nguyên - Lưu trữ)
 - Ghi nhận: Các khái niệm này hoàn toàn phù hợp với triết lý Học Sâu (Deep Learning) của hệ thống. Nhấn mạnh việc biến kiến thức thành tài sản nội tâm cá nhân thay vì lập tức mang ra làm content bề nổi.
 - Phân loại: Củng cố (Củng cố thêm tư tưởng về sự hiện diện, chú tâm, và năng lượng vững chãi từ bên trong).
 
-## Giai Đoạn 6: Câu Hỏi Phản Tư Nội Tâm
+### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
 1. Bạn đang là "cốc nước" hay "dòng sông" trước những nắm muối của cuộc đời?
 2. Kênh truyền thông của bạn đang phóng đại điều gì ẩn giấu bên trong bạn?
 3. Bạn đã thực sự kiên nhẫn với hành trình của chính mình chưa?
@@ -252,55 +252,3 @@ Date: 2026-07-22
 Câu hỏi cho User: Worldview nào bạn tâm đắc nhất? Bạn muốn lưu worldview nào vào Worldview Library (Phase 7B)?
 
 ---
-
-# BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA)
-Nguồn: Viva Women - Buổi 3: Hành Trình Tìm Ra Chính Mình & Ngôi Nhà Nội Lực 
-Giảng viên: Hằng Võ 
-Nguồn lưu trữ P.A.R.A: [execution_checklist.md](file: ///d: /Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_JDSWDJ6OO3M/execution_checklist.md)
-
----
-
-## PHA 0: NEO NHẬN THỨC BAN ĐẦU
-- Suy nghĩ/Niềm tin ban đầu của bạn: `[Tôi từng nghĩ thành công là tài chính dồi dào mà chưa nhìn nhận bức tranh tổng thể 5 trụ cột Người Giàu Mới]`
-- Nhận thức sau khi học: `[Sức khỏe, Tĩnh an, Thời gian, Mối quan hệ và Tài chính mới là Ngôi nhà nội lực vững chắc]`
-
----
-
-## ️ 1. CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG (CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG)
-
-| STT | Việc cần làm | Tần suất & Thời lượng | Chu kỳ thực hành | Trạng thái |
-|: ---: |: ---|: ---|: ---|: ---: |
-| 1 | Tự khai vấn 3 bước: Thực hành 3 câu hỏi tự hỏi bản thân mỗi khi đối mặt với một lựa chọn khó khăn | 10 phút / lần | Mỗi khi ra quyết định | `[ ]` |
-| 2 | Dọn dẹp hệ thống số: Chọn 1 khu vực Notion hoặc file thừa để dọn dẹp, tạo khoảng thở cho tâm trí | 15 phút / ngày | 7 ngày liên tục | `[ ]` |
-| 3 | Giọng nói an tĩnh: Luyện nói chậm lại, giữ âm thế tĩnh an khi giao tiếp với con cái và đồng nghiệp | Trong mọi cuộc hội thoại | 14 ngày liên tục | `[ ]` |
-
----
-
-## 2. BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU (BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU)
-
-1. Đánh giá 5 Trụ cột Người Giàu Mới: 
- Câu hỏi: Trong 5 trụ cột (Sức khỏe, Tâm an, Thời gian, Mối quan hệ, Tài chính), trụ cột nào của bạn đang cần được gia cố nhất? 
- Trả lời của bạn: `[Điền phản tư tại đây]`
-
-2. Truy vết nỗi sợ rào cản: 
- Câu hỏi: Tiếng nói ngụ ngôn "yêu tinh giấu hạnh phúc" đang giấu điều gì của bạn ở nơi bạn ít ngờ tới nhất? 
- Trả lời của bạn: `[Điền phản tư tại đây]`
-
-3. Ghi nhận sự thay đổi: 
- Câu hỏi: Hành động nhỏ nào hôm nay giúp bạn cảm thấy mình thực sự làm chủ Ngôi nhà nội lực? 
- Trả lời của bạn: `[Điền phản tư tại đây]`
-
----
-
-## 3. THỬ THÁCH KỸ THUẬT FEYNMAN (TẦNG SÁNG TẠO)
-
-- Bài tập 2 câu: Hãy giải thích triết lý "Tâm an giọng mới an" bằng ngôn ngữ của riêng bạn trong 2 câu:
- > `[Điền 2 câu diễn giải của bạn tại đây]`
-
----
-
-## 4. VÒNG LẶP PHẢN HỒI THỰC TẾ (VÒNG LẶP PHẢN HỒI THỰC TẾ)
-(Điền phần này sau khi bạn đã thực hành ngoài đời 7 ngày)
-
-- Kết quả thực tế khác lý thuyết như thế nào?`[Điền kết quả thực tế]`
-- Nguyên tắc nào cần điều chỉnh vào bản Khảo cổ niềm tin? `[Điền nguyên tắc điều chỉnh]`

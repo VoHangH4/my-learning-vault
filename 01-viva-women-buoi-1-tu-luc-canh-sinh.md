@@ -157,7 +157,7 @@ Sự cạnh tranh ở đây không phải là dẫm đạp lên nhau để đi l
 
 ---
 
-## Actionable Insights (Kế Hoạch Hành Động Thực Chiến)
+## PHẦN 2: BẢNG KẾ HOẠCH HÀNH ĐỘNG THỰC CHUYỂN
 
 Dưới đây là bảng tổng hợp các hành động cụ thể bạn cần thực hiện ngay sau khi đọc xong cuốn cẩm nang này:
 
@@ -174,13 +174,13 @@ Tạm kết: Hành trình thay đổi không bao giờ là dễ dàng, nhưng n�
 
 ---
 
-# Khung Tự Chiêm Nghiệm & Ứng Dụng Thực Hành — Viva Women Buổi 1
+## PHẦN 3: KHUNG TỰ CHIÊM NGHIỆM VÀ ỨNG DỤNG THỰC HÀNH (THANG BLOOM)
 
-## Giai Đoạn 3: Phân Tích Góc Nhìn & Niềm Tin Ẩn (Thang Bloom)
+### 3.1. Phân Tích Góc Nhìn Và Niềm Tin Ẩn
 
 > Lưu ý đặc biệt: Đây là phần Tự chiêm nghiệm & Chuyển hóa nội tâm được tách biệt rõ ràng khỏi bài học chính. Hệ thống được thiết kế theo Thang nhận thức Bloom (Phân tích - Đánh giá - Sáng tạo) nhằm giúp người học nhận diện Niềm tin ẩn, soi chiếu điểm mù và đưa vào thực hành thực tế.
 
-### Góc Nhìn & Niềm Tin Ẩn 1
+#### Mục 3.1.1. Phân tích Góc nhìn 1
 - Hiện tượng: "Xã hội này là một xã hội của sự cạnh tranh và không có bất cứ một cơ hội nào đến với cuộc sống của các bạn khi mà các bạn cần cái sự giúp đỡ của ai đó... Đừng tìm kiếm sự công bằng bởi vì công bằng không tồn tại."
 - Niềm tin ẩn: Đợi công bằng là chờ chết, tự bơi mới sống.
 - Đúng khi: 1. Khi đi xin việc hay thăng tiến, năng lực và giá trị bản thân quyết định chứ không phải sự kể khổ.
@@ -188,7 +188,7 @@ Tạm kết: Hành trình thay đổi không bao giờ là dễ dàng, nhưng n�
 - Sai khi: Trong các môi trường phúc lợi xã hội tối thiểu hoặc gia đình, nơi tình thương và sự đùm bọc được ưu tiên hơn sự cạnh tranh.
 - Áp dụng: Ngừng than vãn "tại sao mình xui xẻo" mỗi khi gặp khó khăn. Lập tức tự hỏi: "Mình có thể học thêm kỹ năng gì để vượt qua chuyện này?"
 
-### Góc Nhìn & Niềm Tin Ẩn 2
+#### Mục 3.1.2. Phân tích Góc nhìn 2
 - Hiện tượng: "Đồng tiền là khởi xướng cho rất nhiều những cái điều tốt đẹp... Bạn về quê bạn vay tiền, so với việc bạn về quê bạn cho tiền ấy cái gì nó tuyệt vời hơn... Phú quý sinh lễ nghĩa."
 - Niềm tin ẩn: Có thực mới vực được đạo, có tiền mới sang được người.
 - Đúng khi: 1. Khi muốn báo hiếu gia đình, chăm lo sức khỏe cho bố mẹ bằng những dịch vụ y tế tốt.
@@ -196,7 +196,7 @@ Tạm kết: Hành trình thay đổi không bao giờ là dễ dàng, nhưng n�
 - Sai khi: Tiền bạc bị đặt lên trên đạo đức, làm giàu bằng cách bất chấp pháp luật, hoặc khi tiền phá vỡ tình cảm gia đình.
 - Áp dụng: Gạt bỏ suy nghĩ "tiền là thứ xấu xa". Tập trung xây dựng một nguồn thu nhập ổn định và tự hào về việc kiếm tiền chân chính.
 
-### Góc Nhìn & Niềm Tin Ẩn 3
+#### Mục 3.1.3. Phân tích Góc nhìn 3
 - Hiện tượng: "Thương hiệu cá nhân của các bạn nó chỉ là nơi xây dựng mối quan hệ thôi. Còn để biến nó thành tiền... nó phải là sự kết nối. Bạn sẽ trở nên giàu có hơn nhờ vị thế và mối quan hệ chứ không phải lượt view."
 - Niềm tin ẩn: Lượt view là phù du, mối quan hệ mới là tài sản.
 - Đúng khi: 1. Khi có 100 khách hàng trung thành sẵn sàng mua mọi sản phẩm mình bán thay vì 1 triệu view nhưng không ai mua.
@@ -204,71 +204,19 @@ Tạm kết: Hành trình thay đổi không bao giờ là dễ dàng, nhưng n�
 - Sai khi: Ở giai đoạn mới bắt đầu (brand awareness), cần mượn lượt view (traffic) để nhiều người biết đến trước khi có thể chọn lọc để kết nối sâu.
 - Áp dụng: Bớt ám ảnh về lượt like/share. Dành thời gian trả lời chân thành từng comment và chủ động inbox hỏi thăm những người thường xuyên tương tác.
 
-## Giai Đoạn 4: Tổng Hợp & Đối Chiếu
+### 3.2. Tổng Hợp Và So Sánh Góc Nhìn
 - 3 niềm tin cốt lõi: Tự lực cánh sinh không chờ công bằng, Tiền tạo nền tảng cho sự sang trọng, Mối quan hệ là tài sản thực sự.
 - So sánh với mainstream: Thay vì dạy các kỹ xảo "câu view" hay "hack thuật toán", cô tập trung vào nội lực, sự chân thật và xây dựng cộng đồng gắn kết sâu sắc. Dám nói thẳng sự khốc liệt của việc kiếm tiền thay vì những lời hứa hẹn "ngồi không cũng ra tiền".
 - Tension nội tại: Một mặt cô vô cùng khắt khe, thẳng thắn, loại bỏ những người không cùng năng lượng (cắt Zoom, kích khỏi nhóm); mặt khác cô lại rất khao khát xây dựng một cộng đồng đầy ắp tình yêu thương, biết ơn và bao dung. Tuy nhiên điều này không mâu thuẫn: phải có ranh giới rõ ràng mới bảo vệ được sự thuần khiết của cộng đồng.
 
-## Giai Đoạn 5: Phân Loại & Lưu Vào Hệ Thống Tri Thức Cá Nhân
+### 3.3. Phân Loại Và Lưu Trữ Tri Thức
 (Ghi chú: P.A.R.A là phương pháp quản lý kiến thức gồm 4 nhóm: Dự án - Lĩnh vực - Tài nguyên - Lưu trữ)
 - Củng cố: Tư tưởng tự chịu trách nhiệm hoàn toàn phù hợp với tinh thần làm chủ nội tâm. Việc sống trọn vẹn ở "hiện tại" (Giai đoạn chuyển hóa đầu tiên cô nhắc đến) tương thích hoàn toàn với "Quá khứ là cái bóng, tương lai là ảo ảnh".
 - Mở rộng: Thang Bloom có thể bổ sung vào quá trình "phát triển trọn vẹn với tiềm năng", biến việc "tự học" (lý thuyết) thành "thực hành" (kiếm tiền/xây mối quan hệ).
 
-## Giai Đoạn 6: Câu Hỏi Phản Tư Nội Tâm
+### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
 1. Bạn đang bám chấp vào "sự công bằng" nào trong cuộc sống mà khiến bạn tự giới hạn bản thân?
 2. Mối quan hệ nào hiện tại đang là "tài sản" lớn nhất của bạn, và bạn đã nuôi dưỡng nó ra sao trong tuần qua?
 3. Bạn chọn lưu worldview nào vào thư viện niềm tin của mình? (Khuyến nghị: Lượt view là phù du, mối quan hệ mới là tài sản hoặc Đợi công bằng là chờ chết, tự bơi mới sống)
 
 ---
-
-# BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA)
-Nguồn: Viva Women - Buổi 1: Đánh Thức Nội Lực & Tự Lực Cánh Sinh 
-Giảng viên: Hằng Võ 
-Nguồn lưu trữ P.A.R.A: [execution_checklist.md](file: ///d: /Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_WUpci6EihAk/execution_checklist.md)
-
----
-
-## PHA 0: NEO NHẬN THỨC BAN ĐẦU
-- Suy nghĩ/Niềm tin ban đầu của bạn: `[Tôi từng nghĩ sự công bằng là điều mặc nhiên xã hội phải dành cho mình và lượt view/like trên MXH quyết định giá trị thương hiệu cá nhân]`
-- Nhận thức sau khi học: `[Chờ công bằng là tự làm khó mình; mối quan hệ chân thành và năng lực thực chiến mới là tài sản bền vững]`
-
----
-
-## ️ 1. CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG (CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG)
-
-| STT | Việc cần làm | Tần suất & Thời lượng | Chu kỳ thực hành | Trạng thái |
-|: ---: |: ---|: ---|: ---|: ---: |
-| 1 | Dừng than vãn: Ngừng đổ lỗi cho bối cảnh khi gặp khó khăn, hỏi ngay: "Mình cần học thêm kỹ năng gì?" | Tức thì khi có sự cố | 21 ngày liên tục | `[ ]` |
-| 2 | Kết nối chất lượng: Nhắn tin chăm sóc chân thành 1 khách hàng / đối tác trung thành thay vì săn lùng lượt view | 15 phút / ngày | 7 ngày liên tục | `[ ]` |
-| 3 | Ghi nhận thu nhập: Đổi thái độ trân trọng với đồng tiền kiếm được chân chính | 3 phút trước khi ngủ | Mỗi ngày | `[ ]` |
-
----
-
-## 2. BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU (BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU)
-
-1. Nhận diện điểm mù (Blind Spot): 
- Câu hỏi: Bạn đang bám chấp vào "sự công bằng" nào trong công việc hoặc cuộc sống khiến bạn tự giới hạn bản thân? 
- Trả lời của bạn: `[Điền phản tư tại đây]`
-
-2. Xác định rào cản trí năng (Monkey Mind): 
- Câu hỏi: Nỗi sợ nào khiến bạn chưa dũng cảm đặt giá trị thực cho sản phẩm/dịch vụ của mình? 
- Trả lời của bạn: `[Điền phản tư tại đây]`
-
-3. Mối quan hệ tài sản: 
- Câu hỏi: Ai là 3 người trong mạng lưới mối quan hệ mà bạn cần dành thời gian nuôi dưỡng sâu sắc nhất tuần này? 
- Trả lời của bạn: `[Điền phản tư tại đây]`
-
----
-
-## 3. THỬ THÁCH KỸ THUẬT FEYNMAN (TẦNG SÁNG TẠO)
-
-- Bài tập 2 câu: Hãy giải thích lại triết lý "Mối quan hệ là tài sản" bằng ngôn ngữ bình dân nhất:
- > `[Điền 2 câu diễn giải của bạn tại đây]`
-
----
-
-## 4. VÒNG LẶP PHẢN HỒI THỰC TẾ (VÒNG LẶP PHẢN HỒI THỰC TẾ)
-(Điền phần này sau khi bạn đã thực hành ngoài đời 7 ngày)
-
-- Kết quả thực tế khác lý thuyết như thế nào?`[Điền kết quả thực tế]`
-- Nguyên tắc nào cần điều chỉnh vào bản Khảo cổ niềm tin? `[Điền nguyên tắc điều chỉnh]`
