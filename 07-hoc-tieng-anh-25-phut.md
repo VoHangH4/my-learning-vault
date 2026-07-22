@@ -131,3 +131,61 @@ Inside my head, still I can hear the words she said
 ️ Phiên âm: /ɪnˈsaɪd maɪ hɛd, stɪl aɪ kæn hir ðə wɜrdz ʃi sɛd/
  Dịch nghĩa: Bên trong tâm trí anh, anh vẫn còn nghe thấy những lời cô ấy nói
  Note của cô Thảo: Nối âm "Inside my head". Chữ "words she" có thể nối âm /z/ sang /ʃ/.
+
+---
+
+## PHẦN 2: BẢNG KẾ HOẠCH HÀNH ĐỘNG THỰC CHUYỂN
+
+| Hạng mục | Vấn đề thường gặp | Hành động giải quyết (Actionable Steps) | Kết quả kỳ vọng |
+| :--- | :--- | :--- | :--- |
+| Routine Học Tiếng Anh 25P | Học ngắt quãng, thiếu kỷ luật, hay lấy lý do bận rộn. | 1. Gán cố định khung giờ 25 phút mỗi ngày (ví dụ: 6h00 - 6h25 sáng).<br>2. 10p nghe bài cô, 10p DailyDictation, 5p ôn tập/đọc thành tiếng.<br>3. Không bỏ bài quá 2 ngày liên tục. | Tạo thói quen tự học tự nhiên như đánh răng rửa mặt hàng ngày. |
+| Chuyển hóa Tư duy Học | Sợ sai, sợ phát âm không chuẩn, ngại nói. | 1. Tập trung vào tính nhất quán thay vì sự hoàn hảo.<br>2. Đọc to thành tiếng để luyện cơ miệng và độ nhạy âm thanh.<br>3. Tự ghi âm bài đọc để theo dõi sự tiến bộ hàng tuần. | Tăng sự tự tin, làm chủ phản xạ ngoại ngữ tự nhiên. |
+
+---
+
+## PHẦN 3: KHUNG TỰ CHIÊM NGHIỆM VÀ ỨNG DỤNG THỰC HÀNH (THANG BLOOM)
+
+> Lưu ý đặc biệt: Đây là phần Tự chiêm nghiệm & Chuyển hóa nội tâm được tách biệt rõ ràng khỏi bài học chính. Hệ thống được thiết kế theo Thang nhận thức Bloom (Phân tích - Đánh giá - Sáng tạo) nhằm giúp người học nhận diện Niềm tin ẩn, soi chiếu điểm mù và đưa vào thực hành thực tế.
+
+### 3.1. Phân Tích Góc Nhìn Và Niềm Tin Ẩn
+
+#### Mục 3.1.1. Phân tích Góc nhìn 1: Nhớ quy trình, không nhớ việc
+| Mục | Nội dung |
+| :--- | :--- |
+| Hiện tượng | Mỗi ngày phải gồng mình đấu trí xem có nên học tiếng Anh hay không. |
+| Niềm tin ẩn | Học ngoại ngữ cần nhiều động lực và sự nỗ lực phi thường. |
+| Đúng khi | Cần dồn sức ôn thi chứng chỉ trong thời gian ngắn. |
+| Sai khi | Xây dựng thói quen học tập bền vững suốt đời. |
+| Áp dụng: | Biến 25 phút học thành quy trình cố định sau khi ngủ dậy, không cần suy nghĩ hay đấu trí. |
+
+#### Mục 3.1.2. Phân tích Góc nhìn 2: Tính nhất quán vượt qua sự hoàn hảo
+| Mục | Nội dung |
+| :--- | :--- |
+| Hiện tượng | Chờ có đủ 2 tiếng rảnh rỗi mới chịu ngồi vào bàn học. |
+| Niềm tin ẩn | Học ít thì không có tác dụng. |
+| Đúng khi | Làm các bài nghiên cứu chuyên sâu dài hạn. |
+| Sai khi | Luyện tập phản xạ ngôn ngữ hàng ngày. |
+| Áp dụng: | Thà học 15-20 phút mỗi ngày còn hơn học 5 tiếng vào chủ nhật rồi bỏ cả tuần. |
+
+#### Mục 3.1.3. Phân tích Góc nhìn 3: Ngoại ngữ là công cụ mở rộng vị thế
+| Mục | Nội dung |
+| :--- | :--- |
+| Hiện tượng | Học tiếng Anh chỉ vì đối phó hoặc coi đó là môn học khô khan. |
+| Niềm tin ẩn | Tiếng Anh chỉ dành cho dân chuyên ngữ. |
+| Đúng khi | Xem ngoại ngữ như môn thi học thuật thuần túy. |
+| Sai khi | Xây dựng thương hiệu cá nhân và kết nối tri thức toàn cầu. |
+| Áp dụng: | Xem tiếng Anh là chiếc chìa khóa để truy cập kho tri thức và cơ hội mới. |
+
+### 3.2. Tổng Hợp Và So Sánh Góc Nhìn
+- Bảng 3 niềm tin: Nhớ quy trình thay vì nhớ việc - Nhất quán vượt hoàn hảo - Ngoại ngữ là công cụ mở rộng vị thế.
+- So sánh với mainstream: Không bán các lời hứa hẹn "thành thạo sau 1 tháng" mà tập trung vào xây dựng kỷ luật và quy trình 25 phút chuyển hóa bền vững.
+
+### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
+- Bài học liên quan 1: Tham khảo [01-viva-women-buoi-1-tu-luc-canh-sinh.md](01-viva-women-buoi-1-tu-luc-canh-sinh.md) để áp dụng tính kỷ luật tự học không chờ đợi hoàn cảnh.
+- Bài học liên quan 2: Tham khảo [02-viva-women-buoi-2-suc-manh-hien-dien.md](02-viva-women-buoi-2-suc-manh-hien-dien.md) để duy trì sự tập trung trọn vẹn trong 25 phút học mỗi ngày.
+- Bài học liên quan 3: Tham khảo [03-viva-women-buoi-3-hanh-trinh-tim-minh.md](03-viva-women-buoi-3-hanh-trinh-tim-minh.md) để nâng cấp kỹ năng ngôn ngữ cho trụ cột Phát triển bản thân.
+
+### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
+1. Rào cản lớn nhất khiến bạn chưa duy trì được 25 phút học tiếng Anh mỗi ngày là gì?
+2. Khung giờ cố định nào trong ngày tốt nhất để bạn đặt làm Routine 25P?
+3. Bạn chọn cam kết thực hành Routine 25P này liên tục trong bao nhiêu ngày kể từ hôm nay?
