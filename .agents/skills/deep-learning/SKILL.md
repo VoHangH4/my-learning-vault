@@ -1,9 +1,9 @@
 ---
 name: deep-learning
 description: >
-  Hệ Điều Hành Học Sâu (Deep Learning OS v3.3.0 - Closed-Loop Metacognition) - Đóng gói chuẩn Antigravity Skill.
-  Chuyển hóa mọi nguồn tri thức (YouTube, Sách PDF, Zoom, Web) qua Vòng lặp Siêu nhận thức khép kín (Kolb's Cycle & Metacognitive Monitoring).
-  Bao gồm 3 file P.A.R.A đầu ra linh hoạt, cơ chế Khảo Bài Cũ 60s, Neo Nhận Thức Ban Đầu (Pha 0) và Vòng Lặp Phản Hồi Từ Thực Tế.
+ Hệ Điều Hành Học Sâu (Deep Learning OS v3.3.0 - Closed-Loop Metacognition) - Đóng gói chuẩn Antigravity Skill.
+ Chuyển hóa mọi nguồn tri thức (YouTube, Sách PDF, Zoom, Web) qua Vòng lặp Siêu nhận thức khép kín (Kolb's Cycle & Metacognitive Monitoring).
+ Bao gồm 3 file P.A.R.A đầu ra linh hoạt, cơ chế Khảo Bài Cũ 60s, Neo Nhận Thức Ban Đầu (Pha 0) và Vòng Lặp Phản Hồi Từ Thực Tế.
 version: 3.3.0
 status: approved
 zone: B
@@ -14,12 +14,12 @@ updated: 2026-07-22
 
 # Skill: Deep Learning OS (Hệ Điều Hành Học Sâu Khép Kín)
 
-> **Triết lý:** "Học không phải là tích trữ thông tin. Học là một vòng lặp tự tiến hóa: Neo nhận thức ban đầu → Phân tích tinh hoa → Thử nghiệm thực tế → Cập nhật niềm tin mới."
+> **Triết lý:** "Học không phải là tích trữ thông tin. Học là một vòng lặp tự tiến hóa: Neo nhận thức ban đầu Phân tích tinh hoa Thử nghiệm thực tế Cập nhật niềm tin mới."
 > **Nguyên tắc vàng:** **HÀNH ĐỘNG TRƯỚC - NẠP MỚI SAU - KHÉP KÍN VÒNG LẶP PHẢN TƯ.**
 
 ---
 
-## 📌 KHI NÀO KÍCH HOẠT (TRIGGERS)
+## KHI NÀO KÍCH HOẠT (TRIGGERS)
 
 Skill được kích hoạt khi:
 - User gõ `/skill @deep-learning` hoặc "học sâu bài này", "chuyển hóa kiến thức", "học theo thang bloom".
@@ -27,7 +27,7 @@ Skill được kích hoạt khi:
 
 ---
 
-## 🔒 CƠ CHẾ KHÓA KHẢO BÀI CỦ & NEO NHẬN THỨC BAN ĐẦU (PHASE 0 & GATING)
+## CƠ CHẾ KHÓA KHẢO BÀI CỦ & NEO NHẬN THỨC BAN ĐẦU (PHASE 0 & GATING)
 
 ### 1. Khảo Bài Cũ 60s & Lặp Lại Ngắt Quãng (Spaced Repetition Checkpoint)
 Trước khi nhận tài liệu mới:
@@ -41,33 +41,33 @@ Trước khi lập Sổ Tay Tinh Hoa, AI đặt 1 câu hỏi định hình:
 
 ---
 
-## 📂 BỘ 3 TÀI SẢN P.A.R.A CHUẨN HÓA
+## BỘ 3 TÀI SẢN P.A.R.A CHUẨN HÓA
 
 Mỗi bài học lưu tại `d:\Antigravity\love myself\Hoc-Sau\[Nguon-Du-Lieu]\YYYY-MM-DD_ten-chu-de\`:
 
 ```
 YYYY-MM-DD_ten-chu-de/
-├── 1. transcript_book.md       ← TẦNG 1-2: NHỚ & HIỂU (Sổ tay tinh hoa long-form 300+ dòng)
-├── 2. analysis.md              ← TẦNG 3-4: PHÂN TÍCH & ĐÁNH GIÁ (Khảo cổ 3 Worldviews, Tension, Pre/Post Anchoring)
-└── 3. execution_checklist.md   ← TẦNG 5-6: VẬN DỤNG & SÁNG TẠO (Checklist thời lượng, Feynman, Nhật ký Phản tư)
+├── 1. transcript_book.md TẦNG 1-2: NHỚ & HIỂU (Sổ tay tinh hoa long-form 300+ dòng)
+├── 2. analysis.md TẦNG 3-4: PHÂN TÍCH & ĐÁNH GIÁ (Khảo cổ 3 Worldviews, Tension, Pre/Post Anchoring)
+└── 3. execution_checklist.md TẦNG 5-6: VẬN DỤNG & SÁNG TẠO (Checklist thời lượng, Feynman, Nhật ký Phản tư)
 ```
 
 ---
 
-## 🔄 VÒNG LẶP HỌC SÂU KHÉP KÍN 5 BƯỚC (KOLB'S CYCLE)
+## VÒNG LẶP HỌC SÂU KHÉP KÍN 5 BƯỚC (KOLB'S CYCLE)
 
 ```mermaid
 graph TD
-    A["Pha 0: Neo Nhận Thức Ban Đầu (Pre-Assessment)"] --> B["Pha 1: Sổ Tay Tinh Hoa (Remember / Understand)"]
-    B --> C["Pha 2: Khảo Cổ Niềm Tin (Analyze / Evaluate)"]
-    C --> D["Pha 3: Bảng Thực Hành Thời Lượng / Phản Tư (Apply)"]
-    D --> E["Pha 4: Thử Thách Feynman & Đóng Vòng Lặp Phản Hồi Thực Tế (Create & Reality Feedback)"]
-    E --> F["Pha 5: Khóa Bài Cũ & Spaced Repetition (Retention Engine)"]
+ A["Pha 0: Neo Nhận Thức Ban Đầu (Pre-Assessment)"] --> B["Pha 1: Sổ Tay Tinh Hoa (Remember / Understand)"]
+ B --> C["Pha 2: Khảo Cổ Niềm Tin (Analyze / Evaluate)"]
+ C --> D["Pha 3: Bảng Thực Hành Thời Lượng / Phản Tư (Apply)"]
+ D --> E["Pha 4: Thử Thách Feynman & Đóng Vòng Lặp Phản Hồi Thực Tế (Create & Reality Feedback)"]
+ E --> F["Pha 5: Khóa Bài Cũ & Spaced Repetition (Retention Engine)"]
 ```
 
 ### Phase 1: Data Ingestion & Book Compilation (`transcript_book.md`)
 - Bóc tách dữ liệu gốc (YouTube, PDF, Web, Zoom).
-- Biên tập theo `references/book_template.md` (long-form 300+ dòng, trích dẫn chạm `> 💬 quote`, câu chuyện ngụ ngôn).
+- Biên tập theo `references/book_template.md` (long-form 300+ dòng, trích dẫn chạm `> quote`, câu chuyện ngụ ngôn).
 
 ### Phase 2: Belief Archaeology (`analysis.md`)
 - Bóc tách 3 Worldviews cốt lõi (viết dạng TỤC NGỮ) theo `references/analysis_template.md`.
@@ -75,8 +75,8 @@ graph TD
 
 ### Phase 3: Action & Reflection Execution (`execution_checklist.md` / `reflection_journal.md`)
 - Phân loại định dạng đầu ra thích hợp:
-  - Bài học Kỹ năng → Checklist gán nhãn thời lượng `[X phút/ngày]`.
-  - Bài học Nội tâm → Khung tự khai vấn 3 tầng & Lời nhắc tâm trí.
+ - Bài học Kỹ năng Checklist gán nhãn thời lượng `[X phút/ngày]`.
+ - Bài học Nội tâm Khung tự khai vấn 3 tầng & Lời nhắc tâm trí.
 
 ### Phase 4: Creative Feynman & Reality Feedback Loop (Đóng Vòng Lặp Kolb)
 - Thử thách Feynman: Tự diễn giải lại trong 2 câu ngắn.
@@ -88,7 +88,7 @@ graph TD
 
 ---
 
-## ⛔ CRITICAL RULES
+## CRITICAL RULES
 1. **P.A.R.A TRƯỚC, ARTIFACT SAU:** Ghi trực tiếp vào file local trước, tạo Artifact sau.
 2. **GHI NHẬN LỊCH SỬ:** Mọi thay đổi bắt buộc cập nhật vào `CHANGES.log`.
 3. **ĐÓNG VÒNG LẶP NỘI TÂM:** Mọi thực hành thực tế phải được phản hồi lại để hoàn thiện hệ thống tư duy.

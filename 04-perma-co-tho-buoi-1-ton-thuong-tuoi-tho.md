@@ -1,8 +1,8 @@
 ---
 tags:
-  - perma
-  - co-tho
-  - ton-thuong-tuoi-tho
+ - perma
+ - co-tho
+ - ton-thuong-tuoi-tho
 dien_gia: "Cô Thơ"
 tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
 khoa_hoc: "Đồng Hành Perma - Buổi 1"

@@ -1,13 +1,13 @@
 ---
 tags:
-  - tong-quan
-  - hoc-sau
-  - huong-dan
+ - tong-quan
+ - hoc-sau
+ - huong-dan
 tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
 repository: "my-learning-vault"
 ---
 
-# 📖 LỜI NÓI ĐẦU — TỦ SÁCH HỌC SÂU (DIGITAL LEARNING & BOOK VAULT)
+# LỜI NÓI ĐẦU — TỦ SÁCH HỌC SÂU (DIGITAL LEARNING & BOOK VAULT)
 
 Chào mừng bạn đến với **Tủ Sách Học Sâu Online**. 
 
@@ -17,7 +17,7 @@ Tủ sách này được quy hoạch theo triết lý **Repository làm không g
 
 ---
 
-## 🏷️ HỆ THỐNG THẺ PHÂN LOẠI (TAGS)
+## ️ HỆ THỐNG THẺ PHÂN LOẠI (TAGS)
 - **`#viva-women`**: Chuỗi 3 buổi học Viva Women (Tự lực cánh sinh, Sức mạnh hiện diện, Ngôi nhà nội lực).
 - **`#perma`**: Chuỗi 3 buổi học Đồng Hành Perma của Cô Thơ (Tổn thương tuổi thơ, Phản ứng sinh tồn, Sang chấn cảm xúc).
 - **`#tieng-anh`**: Routine & Phương pháp học tiếng Anh 25 phút mỗi ngày.

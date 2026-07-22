@@ -1,8 +1,8 @@
 ---
 tags:
-  - viva-women
-  - tu-luc-canh-sinh
-  - moi-quan-he-la-tai-san
+ - viva-women
+ - tu-luc-canh-sinh
+ - moi-quan-he-la-tai-san
 tac_gia_ghi_chep: "Võ Hằng (Người học & Ghi chép)"
 khoa_hoc: "Viva Women - Buổi 1"
 ---
@@ -184,31 +184,31 @@ Hành trình thay đổi không bao giờ là dễ dàng, nhưng nó xứng đá
 ## Giai Đoạn 3: Khảo Cổ Niềm Tin (3 Thế Giới Quan Cốt Lõi)
 
 ### Thế Giới Quan 1
-- **📍 Hiện tượng:** "Xã hội này là một xã hội của sự cạnh tranh và không có bất cứ một cơ hội nào đến với cuộc sống của các bạn khi mà các bạn cần cái sự giúp đỡ của ai đó... Đừng tìm kiếm sự công bằng bởi vì công bằng không tồn tại."
-- **💡 Niềm tin ẩn:** *Đợi công bằng là chờ chết, tự bơi mới sống.*
-- **✅ Đúng khi:** 
-  1. Khi đi xin việc hay thăng tiến, năng lực và giá trị bản thân quyết định chứ không phải sự kể khổ.
-  2. Khi làm kinh doanh/xây kênh, thuật toán và thị trường đào thải những ai không chịu học hỏi và thích nghi.
-- **❌ Sai khi:** Trong các môi trường phúc lợi xã hội tối thiểu hoặc gia đình, nơi tình thương và sự đùm bọc được ưu tiên hơn sự cạnh tranh.
-- **🎯 Áp dụng cho Võ Hằng:** Ngừng than vãn "tại sao mình xui xẻo" mỗi khi gặp khó khăn. Lập tức tự hỏi: "Mình có thể học thêm kỹ năng gì để vượt qua chuyện này?"
+- ** Hiện tượng:** "Xã hội này là một xã hội của sự cạnh tranh và không có bất cứ một cơ hội nào đến với cuộc sống của các bạn khi mà các bạn cần cái sự giúp đỡ của ai đó... Đừng tìm kiếm sự công bằng bởi vì công bằng không tồn tại."
+- ** Niềm tin ẩn:** *Đợi công bằng là chờ chết, tự bơi mới sống.*
+- ** Đúng khi:** 
+ 1. Khi đi xin việc hay thăng tiến, năng lực và giá trị bản thân quyết định chứ không phải sự kể khổ.
+ 2. Khi làm kinh doanh/xây kênh, thuật toán và thị trường đào thải những ai không chịu học hỏi và thích nghi.
+- ** Sai khi:** Trong các môi trường phúc lợi xã hội tối thiểu hoặc gia đình, nơi tình thương và sự đùm bọc được ưu tiên hơn sự cạnh tranh.
+- ** Áp dụng:** Ngừng than vãn "tại sao mình xui xẻo" mỗi khi gặp khó khăn. Lập tức tự hỏi: "Mình có thể học thêm kỹ năng gì để vượt qua chuyện này?"
 
 ### Thế Giới Quan 2
-- **📍 Hiện tượng:** "Đồng tiền là khởi xướng cho rất nhiều những cái điều tốt đẹp... Bạn về quê bạn vay tiền, so với việc bạn về quê bạn cho tiền ấy cái gì nó tuyệt vời hơn... Phú quý sinh lễ nghĩa."
-- **💡 Niềm tin ẩn:** *Có thực mới vực được đạo, có tiền mới sang được người.*
-- **✅ Đúng khi:** 
-  1. Khi muốn báo hiếu gia đình, chăm lo sức khỏe cho bố mẹ bằng những dịch vụ y tế tốt.
-  2. Khi cần đầu tư vào giáo dục, phát triển bản thân (tham gia khóa học, mua công cụ làm việc).
-- **❌ Sai khi:** Tiền bạc bị đặt lên trên đạo đức, làm giàu bằng cách bất chấp pháp luật, hoặc khi tiền phá vỡ tình cảm gia đình.
-- **🎯 Áp dụng cho Võ Hằng:** Gạt bỏ suy nghĩ "tiền là thứ xấu xa". Tập trung xây dựng một nguồn thu nhập ổn định và tự hào về việc kiếm tiền chân chính.
+- ** Hiện tượng:** "Đồng tiền là khởi xướng cho rất nhiều những cái điều tốt đẹp... Bạn về quê bạn vay tiền, so với việc bạn về quê bạn cho tiền ấy cái gì nó tuyệt vời hơn... Phú quý sinh lễ nghĩa."
+- ** Niềm tin ẩn:** *Có thực mới vực được đạo, có tiền mới sang được người.*
+- ** Đúng khi:** 
+ 1. Khi muốn báo hiếu gia đình, chăm lo sức khỏe cho bố mẹ bằng những dịch vụ y tế tốt.
+ 2. Khi cần đầu tư vào giáo dục, phát triển bản thân (tham gia khóa học, mua công cụ làm việc).
+- ** Sai khi:** Tiền bạc bị đặt lên trên đạo đức, làm giàu bằng cách bất chấp pháp luật, hoặc khi tiền phá vỡ tình cảm gia đình.
+- ** Áp dụng:** Gạt bỏ suy nghĩ "tiền là thứ xấu xa". Tập trung xây dựng một nguồn thu nhập ổn định và tự hào về việc kiếm tiền chân chính.
 
 ### Thế Giới Quan 3
-- **📍 Hiện tượng:** "Thương hiệu cá nhân của các bạn nó chỉ là nơi xây dựng mối quan hệ thôi. Còn để biến nó thành tiền... nó phải là sự kết nối. Bạn sẽ trở nên giàu có hơn nhờ vị thế và mối quan hệ chứ không phải lượt view."
-- **💡 Niềm tin ẩn:** *Lượt view là phù du, mối quan hệ mới là tài sản.*
-- **✅ Đúng khi:** 
-  1. Khi có 100 khách hàng trung thành sẵn sàng mua mọi sản phẩm mình bán thay vì 1 triệu view nhưng không ai mua.
-  2. Khi gặp biến cố kinh doanh, chính những đối tác, bạn bè chân thành (network) mới là người chìa tay ra giúp.
-- **❌ Sai khi:** Ở giai đoạn mới bắt đầu (brand awareness), cần mượn lượt view (traffic) để nhiều người biết đến trước khi có thể chọn lọc để kết nối sâu.
-- **🎯 Áp dụng cho Võ Hằng:** Bớt ám ảnh về lượt like/share. Dành thời gian trả lời chân thành từng comment và chủ động inbox hỏi thăm những người thường xuyên tương tác.
+- ** Hiện tượng:** "Thương hiệu cá nhân của các bạn nó chỉ là nơi xây dựng mối quan hệ thôi. Còn để biến nó thành tiền... nó phải là sự kết nối. Bạn sẽ trở nên giàu có hơn nhờ vị thế và mối quan hệ chứ không phải lượt view."
+- ** Niềm tin ẩn:** *Lượt view là phù du, mối quan hệ mới là tài sản.*
+- ** Đúng khi:** 
+ 1. Khi có 100 khách hàng trung thành sẵn sàng mua mọi sản phẩm mình bán thay vì 1 triệu view nhưng không ai mua.
+ 2. Khi gặp biến cố kinh doanh, chính những đối tác, bạn bè chân thành (network) mới là người chìa tay ra giúp.
+- ** Sai khi:** Ở giai đoạn mới bắt đầu (brand awareness), cần mượn lượt view (traffic) để nhiều người biết đến trước khi có thể chọn lọc để kết nối sâu.
+- ** Áp dụng:** Bớt ám ảnh về lượt like/share. Dành thời gian trả lời chân thành từng comment và chủ động inbox hỏi thăm những người thường xuyên tương tác.
 
 ## Giai Đoạn 4: Tổng Hợp & Đối Chiếu
 - **3 niềm tin cốt lõi:** Tự lực cánh sinh không chờ công bằng, Tiền tạo nền tảng cho sự sang trọng, Mối quan hệ là tài sản thực sự.
@@ -228,22 +228,22 @@ Hành trình thay đổi không bao giờ là dễ dàng, nhưng nó xứng đá
 
 ---
 
-# 🎯 BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA)
-**Nguồn:** Viva Women - Buổi 1: Đánh Thức Nội Lực & Tự Lực Cánh Sinh  
-**Giảng viên:** Hằng Võ  
+# BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA (BẢNG HÀNH ĐỘNG THỰC HÀNH CHUYỂN HÓA)
+**Nguồn:** Viva Women - Buổi 1: Đánh Thức Nội Lực & Tự Lực Cánh Sinh 
+**Giảng viên:** Hằng Võ 
 **Nguồn lưu trữ P.A.R.A:** [execution_checklist.md](file:///d:/Antigravity/love%20myself/Hoc-Sau/youtube-learn/2026-07-22_WUpci6EihAk/execution_checklist.md)
 
 ---
 
-## 🔒 PHA 0: NEO NHẬN THỨC BAN ĐẦU
-- **Suy nghĩ/Niềm tin ban đầu của bạn:**  
-  `[Tôi từng nghĩ sự công bằng là điều mặc nhiên xã hội phải dành cho mình và lượt view/like trên MXH quyết định giá trị thương hiệu cá nhân]`
-- **Nhận thức sau khi học:**  
-  `[Chờ công bằng là tự làm khó mình; mối quan hệ chân thành và năng lực thực chiến mới là tài sản bền vững]`
+## PHA 0: NEO NHẬN THỨC BAN ĐẦU
+- **Suy nghĩ/Niềm tin ban đầu của bạn:** 
+ `[Tôi từng nghĩ sự công bằng là điều mặc nhiên xã hội phải dành cho mình và lượt view/like trên MXH quyết định giá trị thương hiệu cá nhân]`
+- **Nhận thức sau khi học:** 
+ `[Chờ công bằng là tự làm khó mình; mối quan hệ chân thành và năng lực thực chiến mới là tài sản bền vững]`
 
 ---
 
-## ⏱️ 1. CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG (CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG)
+## ️ 1. CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG (CHECKLIST HÀNH ĐỘNG CÓ ẤN ĐỊNH THỜI LƯỢNG)
 
 | STT | Việc cần làm | Tần suất & Thời lượng | Chu kỳ thực hành | Trạng thái |
 |:---:|:---|:---|:---|:---:|
@@ -253,30 +253,30 @@ Hành trình thay đổi không bao giờ là dễ dàng, nhưng nó xứng đá
 
 ---
 
-## ❓ 2. BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU (BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU)
+## 2. BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU (BỘ CÂU HỎI TỰ KHAI VẤN ĐÀO SÂU)
 
-1. **Nhận diện điểm mù (Blind Spot):**  
-   *Câu hỏi:* Bạn đang bám chấp vào "sự công bằng" nào trong công việc hoặc cuộc sống khiến bạn tự giới hạn bản thân?  
-   *Trả lời của bạn:* `[Điền phản tư tại đây]`
+1. **Nhận diện điểm mù (Blind Spot):** 
+ *Câu hỏi:* Bạn đang bám chấp vào "sự công bằng" nào trong công việc hoặc cuộc sống khiến bạn tự giới hạn bản thân? 
+ *Trả lời của bạn:* `[Điền phản tư tại đây]`
 
-2. **Xác định rào cản trí năng (Monkey Mind):**  
-   *Câu hỏi:* Nỗi sợ nào khiến bạn chưa dũng cảm đặt giá trị thực cho sản phẩm/dịch vụ của mình?  
-   *Trả lời của bạn:* `[Điền phản tư tại đây]`
+2. **Xác định rào cản trí năng (Monkey Mind):** 
+ *Câu hỏi:* Nỗi sợ nào khiến bạn chưa dũng cảm đặt giá trị thực cho sản phẩm/dịch vụ của mình? 
+ *Trả lời của bạn:* `[Điền phản tư tại đây]`
 
-3. **Mối quan hệ tài sản:**  
-   *Câu hỏi:* Ai là 3 người trong mạng lưới mối quan hệ mà bạn cần dành thời gian nuôi dưỡng sâu sắc nhất tuần này?  
-   *Trả lời của bạn:* `[Điền phản tư tại đây]`
+3. **Mối quan hệ tài sản:** 
+ *Câu hỏi:* Ai là 3 người trong mạng lưới mối quan hệ mà bạn cần dành thời gian nuôi dưỡng sâu sắc nhất tuần này? 
+ *Trả lời của bạn:* `[Điền phản tư tại đây]`
 
 ---
 
-## 💡 3. THỬ THÁCH KỸ THUẬT FEYNMAN (TẦNG SÁNG TẠO)
+## 3. THỬ THÁCH KỸ THUẬT FEYNMAN (TẦNG SÁNG TẠO)
 
 - **Bài tập 2 câu:** Hãy giải thích lại triết lý "Mối quan hệ là tài sản" bằng ngôn ngữ bình dân nhất:
-  > `[Điền 2 câu diễn giải của bạn tại đây]`
+ > `[Điền 2 câu diễn giải của bạn tại đây]`
 
 ---
 
-## 🔁 4. VÒNG LẶP PHẢN HỒI THỰC TẾ (VÒNG LẶP PHẢN HỒI THỰC TẾ)
+## 4. VÒNG LẶP PHẢN HỒI THỰC TẾ (VÒNG LẶP PHẢN HỒI THỰC TẾ)
 *(Điền phần này sau khi bạn đã thực hành ngoài đời 7 ngày)*
 
 - **Kết quả thực tế khác lý thuyết như thế nào?** `[Điền kết quả thực tế]`
