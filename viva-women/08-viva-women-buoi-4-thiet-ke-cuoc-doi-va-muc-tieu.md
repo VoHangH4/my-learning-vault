@@ -179,7 +179,7 @@ Trân trọng, biết ơn mọi nhân duyên, nhưng phải luôn tỉnh thức 
 ### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
 - Bài học liên quan 1: Tham khảo [01-viva-women-buoi-1-tu-luc-canh-sinh.md](01-viva-women-buoi-1-tu-luc-canh-sinh.md) để củng cố tinh thần Tự chịu trách nhiệm 100% trước khi thiết lập mục tiêu sự nghiệp.
 - Bài học liên quan 2: Tham khảo [02-viva-women-buoi-2-suc-manh-hien-dien.md](02-viva-women-buoi-2-suc-manh-hien-dien.md) để ứng dụng triết lý "Đạo của nước" giữ sự an tĩnh trong quá trình rèn luyện tính nhất quán.
-- Bài học liên quan 3: Tham khảo [07-hoc-tieng-anh-25-phut.md](07-hoc-tieng-anh-25-phut.md) để áp dụng nguyên lý "Nhớ quy trình, không nhớ việc" vào việc sản xuất nội dung đều đặn mỗi ngày.
+- Bài học liên quan 3: Tham khảo [07-hoc-tieng-anh-25-phut.md](../tieng-anh/07-hoc-tieng-anh-25-phut.md) để áp dụng nguyên lý "Nhớ quy trình, không nhớ việc" vào việc sản xuất nội dung đều đặn mỗi ngày.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
 1. Tôi đang cố gắng bán sản phẩm hay đang cố gắng nâng cấp con người mình để xứng đáng với tệp khách hàng chất lượng cao hơn?

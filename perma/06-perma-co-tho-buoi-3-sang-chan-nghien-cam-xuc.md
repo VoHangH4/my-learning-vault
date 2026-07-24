@@ -86,7 +86,7 @@ Dù quyền lợi cá nhân không bị ảnh hưởng, nhiều người vẫn c
 
 ### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
 - Bài học liên quan 1: Tham khảo [05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md](05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md) để đối chiếu cách tiềm thức tìm kiếm cảm xúc quen thuộc.
-- Bài học liên quan 2: Tham khảo [03-viva-women-buoi-3-hanh-trinh-tim-minh.md](03-viva-women-buoi-3-hanh-trinh-tim-minh.md) để định hình nhân dạng mới tĩnh an trong Ngôi nhà 5 trụ cột.
+- Bài học liên quan 2: Tham khảo [03-viva-women-buoi-3-hanh-trinh-tim-minh.md](../viva-women/03-viva-women-buoi-3-hanh-trinh-tim-minh.md) để định hình nhân dạng mới tĩnh an trong Ngôi nhà 5 trụ cột.
 - Bài học liên quan 3: Tham khảo [04-perma-co-tho-buoi-1-ton-thuong-tuoi-tho.md](04-perma-co-tho-buoi-1-ton-thuong-tuoi-tho.md) để hoàn tất trọn vẹn chuỗi 3 buổi chữa lành Perma.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm

@@ -242,7 +242,7 @@ Date: 2026-07-22
 ### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
 
 - Bài học liên quan 1: Tham khảo [02-viva-women-buoi-2-suc-manh-hien-dien.md](02-viva-women-buoi-2-suc-manh-hien-dien.md) để rèn luyện chất giọng an tĩnh xuất phát từ sự hiện diện nội tại.
-- Bài học liên quan 2: Tham khảo [06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md](06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md) để tháo gỡ các nghiện cảm xúc tiêu cực đang cản trở trụ cột Tâm an.
+- Bài học liên quan 2: Tham khảo [06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md](../perma/06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md) để tháo gỡ các nghiện cảm xúc tiêu cực đang cản trở trụ cột Tâm an.
 - Bài học liên quan 3: Tham khảo [01-viva-women-buoi-1-tu-luc-canh-sinh.md](01-viva-women-buoi-1-tu-luc-canh-sinh.md) để củng cố tư tưởng xây dựng mối quan hệ là tài sản thực sự.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm

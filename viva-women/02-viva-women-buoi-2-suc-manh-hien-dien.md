@@ -193,7 +193,7 @@ Speaker: Hằng Võ
 ### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
 
 - Bài học liên quan 1: Tham khảo [01-viva-women-buoi-1-tu-luc-canh-sinh.md](01-viva-women-buoi-1-tu-luc-canh-sinh.md) để nắm vững nền tảng tư duy Tự chịu trách nhiệm 100% trước khi thực hành Tĩnh an.
-- Bài học liên quan 2: Tham khảo [05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md](05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md) để nhận diện các phản ứng sinh tồn (Fight, Flight, Freeze, Fawn) khi tâm trí bị xáo động.
+- Bài học liên quan 2: Tham khảo [05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md](../perma/05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md) để nhận diện các phản ứng sinh tồn (Fight, Flight, Freeze, Fawn) khi tâm trí bị xáo động.
 - Bài học liên quan 3: Tham khảo [03-viva-women-buoi-3-hanh-trinh-tim-minh.md](03-viva-women-buoi-3-hanh-trinh-tim-minh.md) để đưa sự hiện diện vào xây dựng Ngôi nhà nội lực 5 trụ cột.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm

@@ -212,8 +212,8 @@ Tạm kết: Hành trình thay đổi không bao giờ là dễ dàng, nhưng n�
 ### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
 
 - Bài học liên quan 1: Tham khảo [02-viva-women-buoi-2-suc-manh-hien-dien.md](02-viva-women-buoi-2-suc-manh-hien-dien.md) để nâng cấp từ "Tự lực cánh sinh" lên "Sức mạnh hiện diện & Đạo của nước".
-- Bài học liên quan 2: Tham khảo [04-perma-co-tho-buoi-1-ton-thuong-tuoi-tho.md](04-perma-co-tho-buoi-1-ton-thuong-tuoi-tho.md) để thấu hiểu gốc rễ tổn thương tuổi thơ ảnh hưởng đến cơ chế tự vệ trong công việc hiện tại.
-- Bài học liên quan 3: Tham khảo [07-hoc-tieng-anh-25-phut.md](07-hoc-tieng-anh-25-phut.md) để áp dụng tư duy "Nhớ quy trình, không nhớ việc" vào xây dựng thói quen tự học hàng ngày.
+- Bài học liên quan 2: Tham khảo [04-perma-co-tho-buoi-1-ton-thuong-tuoi-tho.md](../perma/04-perma-co-tho-buoi-1-ton-thuong-tuoi-tho.md) để thấu hiểu gốc rễ tổn thương tuổi thơ ảnh hưởng đến cơ chế tự vệ trong công việc hiện tại.
+- Bài học liên quan 3: Tham khảo [07-hoc-tieng-anh-25-phut.md](../tieng-anh/07-hoc-tieng-anh-25-phut.md) để áp dụng tư duy "Nhớ quy trình, không nhớ việc" vào xây dựng thói quen tự học hàng ngày.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
 1. Bạn đang bám chấp vào "sự công bằng" nào trong cuộc sống mà khiến bạn tự giới hạn bản thân?

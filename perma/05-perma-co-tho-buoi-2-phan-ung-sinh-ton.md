@@ -154,7 +154,7 @@ Khi yếu tố kích hoạt xuất hiện, tín hiệu sẽ được truyền l�
 
 ### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
 - Bài học liên quan 1: Tham khảo [04-perma-co-tho-buoi-1-ton-thuong-tuoi-tho.md](04-perma-co-tho-buoi-1-ton-thuong-tuoi-tho.md) để hiểu nguồn gốc của các cơ chế phản ứng sinh tồn.
-- Bài học liên quan 2: Tham khảo [02-viva-women-buoi-2-suc-manh-hien-dien.md](02-viva-women-buoi-2-suc-manh-hien-dien.md) để áp dụng triết lý "Đạo của nước" giúp giải phóng sự gồng mình tự vệ.
+- Bài học liên quan 2: Tham khảo [02-viva-women-buoi-2-suc-manh-hien-dien.md](../viva-women/02-viva-women-buoi-2-suc-manh-hien-dien.md) để áp dụng triết lý "Đạo của nước" giúp giải phóng sự gồng mình tự vệ.
 - Bài học liên quan 3: Tham khảo [06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md](06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md) để bứt phá khỏi vòng lặp nghiện cảm xúc tiêu cực.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm

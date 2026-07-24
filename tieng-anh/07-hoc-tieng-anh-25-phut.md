@@ -181,9 +181,9 @@ Inside my head, still I can hear the words she said
 - So sánh với mainstream: Không bán các lời hứa hẹn "thành thạo sau 1 tháng" mà tập trung vào xây dựng kỷ luật và quy trình 25 phút chuyển hóa bền vững.
 
 ### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
-- Bài học liên quan 1: Tham khảo [01-viva-women-buoi-1-tu-luc-canh-sinh.md](01-viva-women-buoi-1-tu-luc-canh-sinh.md) để áp dụng tính kỷ luật tự học không chờ đợi hoàn cảnh.
-- Bài học liên quan 2: Tham khảo [02-viva-women-buoi-2-suc-manh-hien-dien.md](02-viva-women-buoi-2-suc-manh-hien-dien.md) để duy trì sự tập trung trọn vẹn trong 25 phút học mỗi ngày.
-- Bài học liên quan 3: Tham khảo [03-viva-women-buoi-3-hanh-trinh-tim-minh.md](03-viva-women-buoi-3-hanh-trinh-tim-minh.md) để nâng cấp kỹ năng ngôn ngữ cho trụ cột Phát triển bản thân.
+- Bài học liên quan 1: Tham khảo [01-viva-women-buoi-1-tu-luc-canh-sinh.md](../viva-women/01-viva-women-buoi-1-tu-luc-canh-sinh.md) để áp dụng tính kỷ luật tự học không chờ đợi hoàn cảnh.
+- Bài học liên quan 2: Tham khảo [02-viva-women-buoi-2-suc-manh-hien-dien.md](../viva-women/02-viva-women-buoi-2-suc-manh-hien-dien.md) để duy trì sự tập trung trọn vẹn trong 25 phút học mỗi ngày.
+- Bài học liên quan 3: Tham khảo [03-viva-women-buoi-3-hanh-trinh-tim-minh.md](../viva-women/03-viva-women-buoi-3-hanh-trinh-tim-minh.md) để nâng cấp kỹ năng ngôn ngữ cho trụ cột Phát triển bản thân.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
 1. Rào cản lớn nhất khiến bạn chưa duy trì được 25 phút học tiếng Anh mỗi ngày là gì?

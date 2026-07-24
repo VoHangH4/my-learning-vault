@@ -198,7 +198,7 @@ Bạn cần hiểu cách bộ não hoạt động và tại sao cảm xúc lại
 
 ### 3.3. Liên Kết Tri Thức Với Các Bài Học Khác Trong Tủ Sách
 - Bài học liên quan 1: Tham khảo [05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md](05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md) để nhận diện các phản ứng sinh tồn (Fight, Flight, Freeze, Fawn) khi tổn thương bị kích hoạt.
-- Bài học liên quan 2: Tham khảo [01-viva-women-buoi-1-tu-luc-canh-sinh.md](01-viva-women-buoi-1-tu-luc-canh-sinh.md) để chuyển hóa tư duy từ nạn nhân sang tự lực cánh sinh.
+- Bài học liên quan 2: Tham khảo [01-viva-women-buoi-1-tu-luc-canh-sinh.md](../viva-women/01-viva-women-buoi-1-tu-luc-canh-sinh.md) để chuyển hóa tư duy từ nạn nhân sang tự lực cánh sinh.
 - Bài học liên quan 3: Tham khảo [06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md](06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md) để chữa lành hoàn toàn vòng lặp nghiện cảm xúc.
 
 ### 3.4. Bộ Câu Hỏi Phản Tư Nội Tâm
