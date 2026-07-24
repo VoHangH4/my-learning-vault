@@ -186,3 +186,163 @@ Trân trọng, biết ơn mọi nhân duyên, nhưng phải luôn tỉnh thức 
 2. Khán giả có nhìn thấy phiên bản tương lai hoàn thiện hơn của họ khi tiếp xúc với tôi không? Nếu chưa, tôi cần bổ sung khí chất, kiến thức hay phong thái gì?
 3. Trong hàng ngàn người ngoài kia, 100 con người nào là đối tượng mục tiêu tôi cần chinh phục để xoay chuyển hoàn toàn sự nghiệp? Tôi đã trao đủ sự chân thành cho họ chưa?
 4. Điều ngứa ngáy nhất, khao khát nhất bên trong tôi lúc này là gì? Có phải tôi đang mải mê kiếm tiền mà bỏ quên xây dựng con người?
+
+### 3.5. Biểu Mẫu Xác Định Mục Tiêu Theo 5 Chặng Sự Nghiệp (Tài liệu đính kèm buổi học)
+
+> Hướng dẫn: Hãy đọc từng chặng, trả lời câu hỏi và viết mục tiêu phù hợp với giai đoạn hiện tại của bạn. Không cần làm hoàn hảo ngay — điều quan trọng là nhìn rõ mình đang ở đâu và bước tiếp theo là gì.
+
+---
+
+### CHẶNG 1: Khám phá bản thân
+
+Trọng tâm: Tìm ra chính mình — hiểu mình là ai, mình có gì, mình muốn sống và làm việc theo giá trị nào.
+
+#### Câu hỏi xác định mục tiêu
+
+1. Tôi là ai khi không cần chứng minh với ai?
+1. Tôi có điểm mạnh, tài năng hoặc trải nghiệm nổi bật nào?
+1. Tôi muốn sống và làm việc theo những giá trị nào?
+1. Điều gì khiến tôi thấy có ý nghĩa khi làm lâu dài?
+1. Tôi không muốn tiếp tục sống/làm việc theo cách nào nữa?
+
+#### Mục tiêu cần viết ra
+
+Viết rõ chân dung bản thân, giá trị cốt lõi, điểm mạnh, điều mình muốn theo đuổi và hình ảnh con người mình muốn trở thành.
+
+#### Gợi ý điền
+
+- Tôi nhận ra mình là người...
+- Điểm mạnh nổi bật của tôi là...
+- Giá trị sống quan trọng nhất với tôi là...
+- Tôi muốn trở thành một người...
+- Trong chặng này, mục tiêu của tôi là...
+
+#### Cam kết hành động
+
+Trong 30 ngày tới, tôi sẽ dành thời gian quan sát bản thân, viết nhật ký, làm bài tập khám phá bản thân và chọn ra 1 hướng đi phù hợp nhất.
+
+---
+
+### CHẶNG 2: Xây dựng năng lực
+
+Trọng tâm: Giỏi nghề — rèn kỷ luật, tích lũy kinh nghiệm, trở thành người có chuyên môn và kiếm tiền bằng kỹ năng.
+
+#### Câu hỏi xác định mục tiêu
+
+1. Tôi cần giỏi kỹ năng nào để đi xa hơn trong sự nghiệp?
+1. Tôi đang thiếu kiến thức, kinh nghiệm hoặc kỷ luật nào?
+1. Tôi muốn trở thành người có chuyên môn trong lĩnh vực nào?
+1. Ai là người tôi có thể học hỏi hoặc lấy làm hình mẫu?
+1. Tôi cần luyện tập điều gì mỗi ngày để năng lực tăng lên?
+
+#### Mục tiêu cần viết ra
+
+Viết rõ 1–3 năng lực cốt lõi cần xây dựng, tiêu chuẩn giỏi nghề, kết quả cần đạt được và kỹ năng có thể giúp mình kiếm tiền.
+
+#### Gợi ý điền
+
+- Kỹ năng tôi cần tập trung phát triển là...
+- Tôi muốn giỏi trong lĩnh vực...
+- Tiêu chuẩn “giỏi nghề” của tôi là...
+- Tôi cần học từ...
+- Trong 90 ngày tới, tôi muốn đạt được...
+
+#### Cam kết hành động
+
+Trong 90 ngày tới, tôi sẽ chọn 1 kỹ năng trọng tâm, học sâu, thực hành đều đặn, nhận phản hồi và tạo ra kết quả cụ thể.
+
+---
+
+### CHẶNG 3: Tạo ra giá trị lớn
+
+Trọng tâm: Giải quyết vấn đề cho người khác, xây dựng thương hiệu cá nhân, gia tăng ảnh hưởng và tăng thu nhập theo giá trị tạo ra.
+
+#### Câu hỏi xác định mục tiêu
+
+1. Tôi có thể giải quyết vấn đề gì cho người khác?
+1. Ai là nhóm người tôi muốn phục vụ?
+1. Giá trị nào của tôi có thể chuyển thành sản phẩm, dịch vụ, nội dung hoặc trải nghiệm?
+1. Tôi muốn người khác nhớ đến mình vì điều gì?
+1. Thu nhập của tôi có đang tương xứng với giá trị tôi tạo ra không?
+
+#### Mục tiêu cần viết ra
+
+Viết rõ nhóm khách hàng/cộng đồng mình phục vụ, vấn đề mình giải quyết, giá trị mình tạo ra, thương hiệu cá nhân muốn xây dựng và mục tiêu thu nhập.
+
+#### Gợi ý điền
+
+- Nhóm người tôi muốn phục vụ là...
+- Vấn đề tôi có thể giúp họ giải quyết là...
+- Giá trị tôi muốn tạo ra là...
+- Tôi muốn được nhớ đến như một người...
+- Mục tiêu giá trị/thu nhập của tôi trong chặng này là...
+
+#### Cam kết hành động
+
+Trong 90 ngày tới, tôi sẽ tạo ra ít nhất 1 sản phẩm/dịch vụ/nội dung có giá trị, chia sẻ đều đặn và đo kết quả bằng phản hồi hoặc doanh thu.
+
+---
+
+### CHẶNG 4: Xây dựng hệ thống
+
+Trọng tâm: Xây đội ngũ, chuẩn hóa quy trình, phân quyền và xây doanh nghiệp/sự nghiệp bền vững.
+
+#### Câu hỏi xác định mục tiêu
+
+1. Công việc nào đang phụ thuộc quá nhiều vào cá nhân tôi?
+1. Tôi cần chuẩn hóa quy trình nào để làm việc hiệu quả hơn?
+1. Tôi cần ai đồng hành để phát triển bền vững?
+1. Việc nào tôi nên giữ, việc nào nên giao, việc nào nên loại bỏ?
+1. Hệ thống nào giúp tôi tạo giá trị ngay cả khi tôi không trực tiếp làm mọi thứ?
+
+#### Mục tiêu cần viết ra
+
+Viết rõ mô hình vận hành, quy trình cần chuẩn hóa, vai trò cần có trong đội ngũ, việc cần phân quyền và hệ thống giúp sự nghiệp/doanh nghiệp phát triển bền vững.
+
+#### Gợi ý điền
+
+- Việc đang phụ thuộc vào tôi nhiều nhất là...
+- Quy trình tôi cần chuẩn hóa là...
+- Người/đội ngũ tôi cần có là...
+- Việc tôi cần phân quyền là...
+- Hệ thống tôi muốn xây trong chặng này là...
+
+#### Cam kết hành động
+
+Trong 6 tháng tới, tôi sẽ chọn 1 quy trình quan trọng để chuẩn hóa, xây tài liệu hướng dẫn, thử phân quyền và đo hiệu quả vận hành.
+
+---
+
+### CHẶNG 5: Kiến tạo di sản
+
+Trọng tâm: Truyền cảm hứng, đào tạo thế hệ sau, đóng góp cho cộng đồng và tạo giá trị vượt lên trên lợi nhuận.
+
+#### Câu hỏi xác định mục tiêu
+
+1. Tôi muốn để lại điều gì cho thế hệ sau?
+1. Giá trị nào tôi muốn lan tỏa lâu dài?
+1. Tôi có thể đào tạo, truyền cảm hứng hoặc nâng đỡ ai?
+1. Tôi muốn đóng góp gì cho cộng đồng ngoài lợi nhuận?
+1. Nếu nhìn lại sau 10 năm, tôi muốn tự hào vì mình đã tạo ra ảnh hưởng nào?
+
+#### Mục tiêu cần viết ra
+
+Viết rõ di sản mình muốn kiến tạo, cộng đồng mình muốn phụng sự, tri thức/giá trị muốn trao truyền và ảnh hưởng dài hạn muốn để lại.
+
+#### Gợi ý điền
+
+- Điều tôi muốn để lại là...
+- Giá trị tôi muốn lan tỏa là...
+- Nhóm người tôi muốn nâng đỡ là...
+- Đóng góp tôi muốn tạo ra cho cộng đồng là...
+- Di sản dài hạn của tôi là...
+
+#### Cam kết hành động
+
+Trong 1 năm tới, tôi sẽ chọn 1 hoạt động phụng sự hoặc đào tạo thế hệ sau, biến kinh nghiệm của mình thành tài liệu/chương trình/cộng đồng có giá trị lâu dài.
+
+---
+
+### 2.Tổng kết mục tiêu cá nhân
+
+#### Chặng hiện tại của tôi là:
