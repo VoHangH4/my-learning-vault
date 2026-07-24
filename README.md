@@ -16,6 +16,8 @@
 | `05-perma-co-tho-buoi-2-phan-ung-sinh-ton.md` | Đồng Hành Perma - Buổi 2: Phản Ứng Sinh Tồn | `#perma` | Cô Thơ |
 | `06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md` | Đồng Hành Perma - Buổi 3: Sang Chấn & Cảm Xúc | `#perma` | Cô Thơ |
 | `07-hoc-tieng-anh-25-phut.md` | Lộ trình & Routine Học Tiếng Anh 25 Phút | `#tieng-anh` | Võ Hằng |
+| `08-viva-women-buoi-4-thiet-ke-cuoc-doi-va-muc-tieu.md` | Viva Women - Buổi 4: Thiết Kế Cuộc Đời Và Mục Tiêu | `#viva-women` | Hằng Võ |
+
 
 ---
 
