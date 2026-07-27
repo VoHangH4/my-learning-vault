@@ -4,12 +4,12 @@ description: >
  Hệ Điều Hành Học Sâu (Deep Learning OS v3.3.0 - Closed-Loop Metacognition) - Đóng gói chuẩn Antigravity Skill.
  Chuyển hóa mọi nguồn tri thức (YouTube, Sách PDF, Zoom, Web) qua Vòng lặp Siêu nhận thức khép kín (Kolb's Cycle & Metacognitive Monitoring).
  Bao gồm 3 file P.A.R.A đầu ra linh hoạt, cơ chế Khảo Bài Cũ 60s, Neo Nhận Thức Ban Đầu (Pha 0) và Vòng Lặp Phản Hồi Từ Thực Tế.
-version: 3.3.0
+version: 3.4.0
 status: approved
 zone: B
-keywords: [deep-learning, bloom-taxonomy, feynman, spaced-repetition, metacognition, kolb-cycle, worldview]
+keywords: [deep-learning, bloom-taxonomy, feynman, spaced-repetition, metacognition, kolb-cycle, worldview, offline-anchors, micro-habits]
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-27
 ---
 
 # Skill: Deep Learning OS (Hệ Điều Hành Học Sâu Khép Kín)
@@ -75,8 +75,12 @@ graph TD
 
 ### Phase 3: Action & Reflection Execution (`execution_checklist.md` / `reflection_journal.md`)
 - Phân loại định dạng đầu ra thích hợp:
- - Bài học Kỹ năng Checklist gán nhãn thời lượng `[X phút/ngày]`.
- - Bài học Nội tâm Khung tự khai vấn 3 tầng & Lời nhắc tâm trí.
+  - Bài học Kỹ năng: Checklist gán nhãn thời lượng `[X phút/ngày]`.
+  - Bài học Nội tâm: Khung tự khai vấn 3 tầng & Lời nhắc tâm trí.
+- **CẦU NỐI ĐỜI THỰC (OFFLINE ACTION ANCHORS):**
+  - **Neo Thể Lý 5s:** Định hình 1 phản xạ cơ thể vật lý (nhịp thở, tư thế lùi bước, chắp tay, khoảng dừng 5s) khi gặp trigger ngoài đời.
+  - **Micro-Habit (< 5 phút/ngày):** 1 hành động vật lý duy nhất thực hiện ngoài đời thực.
+  - **Nhật ký Phản tư 2 phút:** Theo dõi kết quả áp dụng hành vi ngoài đời thực cuối ngày.
 
 ### Phase 4: Creative Feynman & Reality Feedback Loop (Đóng Vòng Lặp Kolb)
 - Thử thách Feynman: Tự diễn giải lại trong 2 câu ngắn.
@@ -92,3 +96,5 @@ graph TD
 1. P.A.R.A TRƯỚC, ARTIFACT SAU: Ghi trực tiếp vào file local trước, tạo Artifact sau.
 2. GHI NHẬN LỊCH SỬ: Mọi thay đổi bắt buộc cập nhật vào `CHANGES.log`.
 3. ĐÓNG VÒNG LẶP NỘI TÂM: Mọi thực hành thực tế phải được phản hồi lại để hoàn thiện hệ thống tư duy.
+4. KHÔNG DỪNG Ở TRÊN MÁY: Mọi bài học sâu bắt buộc phải chốt được 1 Neo Thể Lý 5 giây và 1 Micro-Habit thực hiện ngoài đời thực.
+
