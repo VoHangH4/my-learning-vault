@@ -17,6 +17,8 @@
 | [06-buoi-3-sang-chan-nghien-cam-xuc.md](perma/06-perma-co-tho-buoi-3-sang-chan-nghien-cam-xuc.md) | Đồng Hành Perma - Buổi 3: Sang Chấn & Cảm Xúc | `#perma` | Cô Thơ |
 | [07-hoc-tieng-anh-25-phut.md](tieng-anh/07-hoc-tieng-anh-25-phut.md) | Lộ trình & Routine Học Tiếng Anh 25 Phút | `#tieng-anh` | Võ Hằng |
 | [08-buoi-4-thiet-ke-cuoc-doi-va-muc-tieu.md](viva-women/08-viva-women-buoi-4-thiet-ke-cuoc-doi-va-muc-tieu.md) | Viva Women - Buổi 4: Thiết Kế Cuộc Đời Và Mục Tiêu | `#viva-women` | Hằng Võ |
+| [09-buoi-5-nghe-thuat-giao-tiep-va-truyen-cam-hung.md](viva-women/09-viva-women-buoi-5-nghe-thuat-giao-tiep-va-truyen-cam-hung.md) | Viva Women - Buổi 5: Nghệ Thuật Giao Tiếp Và Truyền Cảm Hưng | `#viva-women` | Hằng Võ |
+
 
 
 
