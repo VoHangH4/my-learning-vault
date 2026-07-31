@@ -13,106 +13,113 @@ khoa_hoc: "Đồng Hành Perma - Buổi 6"
 ## PHẦN 1: SỔ TAY TỔNG HỢP NỘI DUNG BÀI HỌC
 
 
-## PHẦN 1: TÂM LÝ ĐẰNG SAU VIỆC LẬP KẾ HOẠCH NHƯNG KHÔNG HÀNH ĐỘNG
+# SỔ TAY TINH HOA LONG-FORM: PERMA BUỔI 6 - LẬP KẾ HOẠCH & THỰC THI
 
-### 1.1 Bản Năng Sinh Tồn & Tránh Né Nỗi Đau
-Mọi sự thay đổi, dù là tích cực, đều được não bộ ghi nhận như một "nỗi đau" vì nó đòi hỏi năng lượng và phá vỡ trạng thái cân bằng (homeostasis). 
-Khi đối mặt với việc lập kế hoạch mới, não bộ tự động bật chế độ sinh tồn:
-- Đóng băng: Không biết bắt đầu từ đâu, cảm giác quá tải.
-- Bỏ chạy: Viện lý do (ốm đau, mệt mỏi, "không hợp mệnh") để lùi lại vùng an toàn.
-- Kháng cự: Nổi cáu, tức giận với hoàn cảnh hoặc tự phán xét bản thân.
+## CHƯƠNG 1: ĐI TÌM TỪ KHÓA CỦA NỘI TÂM - CHẤP NHẬN VÀ SỰ RÕ RÀNG
 
-### 1.2 Bẫy "An Toàn Độc Hại"
-Chúng ta thường tìm cách hợp thức hóa sự trì hoãn bằng những vỏ bọc hợp lý.
-- Tâm lý nạn nhân đôi khi được sử dụng như một liều thuốc an thần để an ủi bản thân trước những thất bại tạm thời.
-- Sự thỏa hiệp với "vùng an toàn độc hại" (ví dụ: lương thấp nhưng ổn định, phụ thuộc vào gia đình) khiến chúng ta triệt tiêu đi "cơn đói sinh tồn", từ đó mất đi năng lực vươn lên.
-- Khi ước mơ không đủ lớn, hoặc không có nỗi đau đủ sắc, động lực hành động sẽ bị thui chột.
+Buổi học thứ 6 bắt đầu bằng một câu hỏi rất ngắn nhưng đầy sức nặng từ Cô Thơ: "Hãy cho em xin một từ, chỉ một từ thôi để miêu tả về nội tâm bên trong mình hoặc cảm nhận về bản thân sau 6 tuần vừa qua." 
 
-### 1.3 Lỗi Mâu Thuẫn Giá Trị (Conflict of Values)
-Sự đình công của não bộ thường đến từ mâu thuẫn bên trong:
-- Muốn thăng tiến, kiếm nhiều tiền nhưng lại đam mê sự nhàn hạ, tự do.
-- Muốn trở thành một người mẹ hoàn hảo, vừa làm tốt công việc xã hội vừa chu toàn việc nhà, dẫn đến quá tải và kiệt sức (burn-out).
-- Việc thêm một mục tiêu mới mà không màng tới "hệ sinh thái cuộc sống" (sức khỏe, gia đình, lối sống) sẽ làm gãy đổ mọi nỗ lực.
+Không gian Zoom như chững lại một nhịp. Bắt đầu một hành trình quay vào bên trong chưa bao giờ là dễ dàng, và đôi khi, chỉ một từ cũng đủ để gói ghém toàn bộ những xáo trộn và bình yên mà các học viên đã đi qua.
 
----
+Chị Hà, một thành viên mới bước vào không gian học tập này, với góc độ của một người làm giáo dục, chia sẻ từ "Muông" và "Ấm". Một cảm giác ấm áp của sự kết nối, của việc được thuộc về một nơi mà mọi người đều chân thật với chính mình. Chị Ngọc chọn từ "Nhẫn và bao dung", sự kiên nhẫn không chỉ dành cho người khác mà còn dành cho chính những khiếm khuyết của bản thân. Chị Trâm chọn từ "Chấp nhận" - sự buông bỏ những kỳ vọng độc hại để đón nhận thực tại.
 
-## PHẦN 2: TRIẾT LÝ LẬP KẾ HOẠCH THỰC THI TỬ TẾ
+Đặc biệt, sự chia sẻ từ Nhung đã chạm đến chiều sâu của quá trình bóc tách nội tâm. Lớp áo ngoài cùng luôn là lớp áo cứng nhất, nhưng khi bóc dần từng lớp hành của niềm tin cũ, nước mắt đã rơi. Nhưng đó là những giọt nước mắt của sự gột rửa.
 
-### 2.1 Nhân Dạng Lựa Chọn (Chosen Identity) ở Thì Hiện Tại
-Thay vì viết mục tiêu dưới dạng "Tôi sẽ trở thành...", hãy viết ở thì hiện tại "Tôi là...".
-- Não bộ chỉ xử lý tốt những gì thuộc về hiện tại. Khi đặt nhân dạng ở hiện tại, não bộ không coi đó là một giấc mơ viển vông nữa mà bắt đầu vận hành chế độ "xem xét nguồn lực, phân bổ thời gian".
-- Sự hoang mang khi đọc lại nhân dạng là bình thường. Đó là bài test sự thật về niềm tin nội tâm: Bạn có thực sự tin mình xứng đáng với nó không?
+> "Đi đến sự rõ ràng và chân thật với chính mình. Bóc hành là hay rớt nước mắt lắm." - Một học viên chia sẻ.
 
-### 2.2 Quy Luật Đào Thải Mục Tiêu
-Không thể thêm mục tiêu vào mà không bớt đi một thói quen cũ.
-- Một mục tiêu không được phép cản trở các mục tiêu quan trọng khác của cuộc đời.
-- Phải tự hỏi: "Tôi làm điều đó thì gia đình tôi có hạnh phúc hơn không? Bản thân tôi có hạnh phúc hơn không?".
-- Tâm thế đúng: "Tôi sẽ tìm được điểm mấu chốt để thêm mục tiêu này vào", chứ không phải "Tôi sẽ xem có khoảng trống nào không để nhét nó vào".
+Cô Thơ chúc mừng sự rơi nước mắt ấy. Bởi vì, việc bóc được một vài lớp niềm tin hay suy nghĩ bên ngoài, tuy đau đớn, nhưng lại là dấu hiệu của sự khởi đầu. Sự chuyển hóa chỉ bắt đầu khi chúng ta có một điểm rõ ràng để nhìn nhận và bắt tay vào làm.
 
-### 2.3 Chữa Lành Bằng Ngôn Từ Khẳng Định (Quy Tắc Con Voi Hồng)
-Não bộ không hiểu từ "KHÔNG". Nếu nói "Tôi sẽ không cáu gắt", não bộ sẽ chỉ ghi nhận hình ảnh "cáu gắt".
-- Cần lập trình lại hành vi bằng ngôn ngữ khẳng định và có tính hướng dẫn.
-- Thay vì "Tôi sẽ không ngắt lời con", hãy viết "Tôi sẽ lặng im lắng nghe và ghi chép lại ý kiến của con".
+## CHƯƠNG 2: NHÂN DẠNG LỰA CHỌN - SỐNG TRONG THỰC TẠI MỚI
 
----
+Trọng tâm của những tuần trước là việc viết ra một "Nhân dạng lựa chọn" (Chosen Identity). Không phải là tương lai mặc định, không phải là "tôi sẽ trở thành", mà là "tôi chọn tôi là người đó" và viết nó ở thì hiện tại.
 
-## PHẦN 3: KỸ THUẬT CHIA NHỎ MỤC TIÊU VÀ VI THÓI QUEN
+Tại sao phải viết ở thì hiện tại? Bởi vì não bộ của con người có một cơ chế rất đặc biệt: nó chỉ ưu tiên xử lý những gì thuộc về hiện tại. Khi chúng ta kể câu chuyện của mình ở tương lai, não bộ sẽ xếp nó vào ngăn kéo "những giấc mơ", nơi không cần phải phân bổ nguồn lực hay năng lượng để giải quyết ngay lập tức. Nhưng khi ta khẳng định "Tôi là...", não bộ bị đặt vào một trạng thái phải vận hành: nó bắt đầu xem xét nguồn lực, phân bổ thời gian, tập trung vào việc gì và bỏ bớt việc gì.
 
-### 3.1 Nâng Cấp Khung SMART Bằng Tính Khai Vấn
-- S (Specific - Cụ Thể): Không chung chung như "cải thiện kỹ năng". Phải cụ thể đến mức não bộ tự vẽ ra được một bức tranh rõ nét (ví dụ: Ngôi nhà 70m2, vách kính, ở ngoại ô).
-- M (Measurable - Đo Lường): Phải có con số (thời gian, số lượng). Không có định lượng, não không có sức ép thúc đẩy.
-- A (Achievable - Khả Thi): Chìa khóa vàng: "Tôi sẽ không thể làm việc này trừ khi...". Câu hỏi này ép não bộ tìm ra lỗ hổng và rào cản thực tế.
-- R (Relevant - Liên Quan): Phải hòa hợp tuyệt đối với hệ sinh thái cuộc sống. Đừng bắt một người sống chậm phải làm việc với cường độ startup 24/7.
-- T (Time-bound - Thời Hạn): Cột mốc hoàn thành phải đi kèm với LÝ DO BẮT BUỘC. Tại sao phải là tháng 6 chứ không phải tháng 12? (Ví dụ: Vì tháng 7 con vào lớp mới).
+Tuy nhiên, khi đối diện với nhân dạng lựa chọn của chính mình, không phải ai cũng thấy dễ chịu.
 
-### 3.2 Ma Trận Động Lực Học (Giải Mã Điểm Mù Cố Gắng)
-- Điểm mạnh cốt lõi: Năng lực thực sự giúp đạt mục tiêu là gì? (Kiên nhẫn? Chuyên môn?).
-- Cơ hội ngoại cảnh: Đòn bẩy nào có thể dùng? (Đội ngũ, công nghệ, mối quan hệ).
-- Lỗ hổng cá nhân: Điểm yếu nào bên trong sẽ phá hỏng kế hoạch? (Dễ nổi nóng, thiếu tập trung).
-- Lực cản bên ngoài: Yếu tố ngoại cảnh nào sẽ gây nhiễu? (Tiếng ồn, công việc phát sinh).
+Cô Thơ đặt câu hỏi: "Các chị em đọc lại bản kế hoạch, nhân dạng lựa chọn của mình đi. Mọi người có cảm thấy nó đủ sức không? Có thực sự tin vào điều đấy không? Hay trong lòng vẫn la lên những tiếng nói nhỏ: 'Mày không làm được đâu', 'Điều đấy là không thể'?"
 
-### 3.3 Micro-actions (Vi Hành Động Cầm Nắm Được)
-Một chiến lược vĩ mô (Xây dựng hồ sơ chuyên nghiệp) phải được băm nhỏ thành những hành động có thể "cầm nắm" được mỗi ngày (Update 1 kỹ năng lên LinkedIn vào 20h00).
-- Đừng ôm đồm sửa chữa mọi điểm yếu cùng một lúc.
-- Kỷ luật phải đi kèm với minh chứng (tưới nước cho cái cây mục tiêu mỗi ngày).
+Phương thú nhận: "Đọc thấy hơi ảo, nhưng đâu đó lại có một niềm tin là biết đâu nó thành sự thật thì sao." 
+Cảm giác "ảo" là một phản ứng rất tự nhiên. Khi ước mơ vượt ra khỏi vùng an toàn hiện tại, tiếng nói của sự tự ti và cơ chế phòng vệ của não bộ sẽ ngay lập tức phán xét. Chúng ta hoài nghi về khả năng của mình, về sự xứng đáng của bản thân.
 
----
+Chị Hằng mang đến một câu chuyện sâu sắc về sự đứt gãy giữa ước mơ và hành động. Dù tự nhận mình là người mơ mộng và có kỷ luật, chị vẫn cảm thấy chông chênh, không biết cách kết nối mục tiêu vĩ mô với những hành động nhỏ hàng ngày. Trong chị luôn văng vẳng câu hỏi: Liệu con đường này có đúng không? Liệu đây là điều bản chất mình thực sự muốn, hay chỉ là do hoàn cảnh hiện tại xô đẩy?
 
-## PHẦN 4: HÀNH TRÌNH 14 NGÀY CHUYỂN HÓA
+Hình ảnh về tương lai của chị Hằng vô cùng sống động:
+> "Hình ảnh mà lúc nào cũng xuất hiện trong đầu chị, là đến cuối đời... chị được nằm giữa một bãi cỏ thiên nhiên xanh tươi, xung quanh là dòng sông róc rách. Chị nằm ở đấy, dần dần nhắm mắt lại và rời khỏi thế giới này. Rất bình yên, hòa vào thiên nhiên và trở thành một chiếc lá."
 
-Sự chuyển hóa sâu sắc diễn ra theo tiến trình:
-1. Từ Đổ Lỗi -> Quyền Tự Quyết: Nhận 100% trách nhiệm về sự mông lung của chính mình. Không chờ ai dọn đường.
-2. Từ Phản Ứng -> Tỉnh Thức: Dừng lại trước khi phán xét. Đặt câu hỏi: "Điều quan trọng nhất lúc này là gì?".
-3. Từ Né Tránh -> Đối Mặt: Ngừng tô hồng hiện thực. Nhìn thẳng vào mảng rách của bức tranh để vá lại.
-4. Ngừng Nghi Ngờ -> Hành Động Tập Trung: Sự lo lắng vô định giống như ngồi trên bập bênh - chuyển động liên tục nhưng không đi đến đâu.
+Bức tranh mộc mạc nhưng đậm chất thơ ấy đã làm Cô Thơ xúc động, bởi cô cũng mang một hình ảnh tương tự về một ngôi nhà trên đồi cỏ, ngắm mây trời, hoặc ngồi bên bếp lửa chia sẻ những câu chuyện với mọi người.
 
----
+Những hình ảnh đó, dù mông lung hay rõ nét, đều cho thấy sự khát khao sâu thẳm bên trong. Nhưng để biến nó thành hiện thực, chúng ta không thể chỉ dừng lại ở giấc mơ. Chúng ta phải đi qua sự mông lung đó bằng sự rõ ràng của việc lập kế hoạch.
 
-## PHẦN 5: TRÍCH DẪN GỐC ĐẮT GIÁ TỪ CÔ THƠ
+## CHƯƠNG 3: VƯỢT QUA SỰ MÔNG LUNG TRONG THẾ GIỚI BIẾN ĐỘNG
+
+Khi chúng ta đặt ra một ước mơ, nó là điều chưa xảy ra. Vì vậy, cảm giác hoang mang, mơ hồ là điều tất yếu. Cô Thơ nhấn mạnh bối cảnh của thế giới hiện đại:
+
+> "Chúng ta đang sống trong một thế giới thay đổi quá nhanh. Không biết ngày mai chuyện gì sẽ xảy ra. Chỉ từ đợt Covid, chúng ta còn chưa biết AI là gì, cho đến bây giờ nó thâm nhập vào cuộc sống như một người bạn... Những tượng đài, những công ty lớn sụp đổ, những công ty mới mọc lên. Sự thay đổi là điều không thể kiểm soát được."
+
+Trong một thế giới đầy biến động, việc nghĩ về tương lai càng dễ sinh ra sợ hãi. Nhưng cốt lõi nằm ở việc: Mọi thứ trong cuộc đời sẽ dựa trên cách chúng ta kể câu chuyện của mình. 
+
+Thay vì kể câu chuyện tương lai xa vời, hãy kéo nó về hiện tại bằng nhân dạng lựa chọn. Không phải để tạo ra ảo tưởng, mà để kích hoạt sự tập trung của não bộ.
+
+Chị Ngọc là một minh chứng sống động cho việc ứng dụng nhân dạng lựa chọn vào thực tế. Tuần qua, đối mặt với một khó khăn bất ngờ từ người thân gây ra nỗi buồn và sự bế tắc, chị đã phản ứng khác hẳn: "Mình đã bình tĩnh hơn mình tưởng. Nghe xong nỗi buồn, tự đặt luôn câu hỏi: Bây giờ mình đang giải quyết việc này thế nào?" 
+
+Đó chính là sức mạnh của nhân dạng thiên về chuyển hóa nội tâm. Khi niềm tin đủ lớn, chúng ta không bị hoàn cảnh quật ngã mà lập tức tìm kiếm giải pháp.
+
+## CHƯƠNG 4: NÂNG CẤP KHUNG SMART BẰNG TÂM LÝ HỌC
+
+Để biến nhân dạng lựa chọn thành hiện thực, Cô Thơ dẫn dắt lớp đi vào thực hành sâu với khung mục tiêu SMART. Không chỉ là một công cụ quản trị thông thường, SMART ở đây được phân tích dưới lăng kính của ngôn ngữ lập trình tư duy não bộ (NLP) và sự hòa hợp sinh thái cuộc sống.
+
+### 4.1. S - Specific (Cụ thể hóa bức tranh tâm trí)
+Não bộ không hiểu những mệnh lệnh mờ nhạt như "Tôi sẽ nâng cấp kỹ năng" hay "Tôi sẽ cải thiện năng lực". Nó cần một hình ảnh chính xác.
+
+Ví dụ của các học viên:
+- Chị Lan: "Tôi đọc hết cuốn sách." -> "Hàng ngày mẹ con tôi cùng nhau show English 30 phút."
+- Phương: "Tôi độc lập tài chính." -> "Tôi có thể giải quyết xong công việc trong giờ hành chính."
+- Chị Hằng: "Ngôi nhà một tầng một gác xép rộng 70m2, vách kính bao quanh giúp không gian thoáng đãng, bài trí tối giản như chính tôi."
+
+Chỉ khi câu chữ vẽ ra được một bức tranh mà nhắm mắt lại bạn cũng có thể mường tượng ra màu sắc, kích thước, và không gian của nó, thì mục tiêu mới đủ cụ thể để não bộ ghi nhận.
+
+### 4.2. M - Measurable (Đo lường bằng con số để tạo sức ép)
+Mục tiêu cụ thể nhưng nếu thiếu con số thì não bộ sẽ không cảm nhận được sức ép để thúc đẩy. Phải đo lường bằng số tiền, số phút, số lượng.
+- Nếu là độc lập tài chính: Cần bao nhiêu tiền một tháng? 
+- Chị Lan: "Lắng nghe con trong 30 phút mà không vội đưa ý kiến của mình."
+- Chị Dương: "Tôi là người mẹ đồng hành cùng con học tiếng Anh hàng ngày."
+Con số là thứ neo giữ chúng ta không bị thả trôi vào sự dễ dãi của chính mình.
+
+### 4.3. A - Achievable (Khả thi và câu thần chú giải mã rào cản)
+Đây là bước mà hầu hết mọi người thất bại. Tính khả thi không chỉ phụ thuộc vào thời gian rảnh rỗi, mà còn là nguồn lực về tài chính, sức khỏe, và sự cân bằng trong cuộc sống.
+
+Để kiểm chứng tính khả thi, Cô Thơ cung cấp một câu thần chú quyền năng nhất trong nghệ thuật lập kế hoạch:
+
+> **"Tôi sẽ không thể làm việc này trừ khi..."**
+
+Khi đứng trước một ước mơ quá lớn (như ngôi nhà 70m2 trong 5 năm tới của chị Hằng), việc ép não bộ điền vào chỗ trống của câu nói này sẽ lập tức bóc tách vấn đề. "Tôi sẽ không thể mua nhà trừ khi tôi nắm rõ tình hình tài chính hiện tại", "Trừ khi tôi cắt giảm chi phí sinh hoạt"... Câu nói này biến ước mơ viển vông thành một chuỗi các vấn đề cần giải quyết ngay trong hiện tại. Nó đập tan ảo tưởng và mang lại sự minh mẫn.
+
+### 4.4. R - Relevant (Hòa hợp với hệ sinh thái cuộc sống)
+Mục tiêu phải phù hợp tuyệt đối với hệ sinh thái cuộc sống. Đây là một quy luật sống còn: **Quy luật Đào thải Mục tiêu.**
+
+Chúng ta có 4 mảnh ghép lớn: Niềm vui bản thân, Mục tiêu cốt lõi (ý chí), Các mối quan hệ (gia đình, bạn bè), và Lối sống/Sức khỏe. Sự đình công của não bộ thường xảy ra khi ta nhét thêm một mục tiêu làm phá vỡ sự hòa hợp này.
+
+Cô Thơ phân tích sâu về tâm lý phụ nữ, đặc biệt là phụ nữ sau sinh:
+> "Sinh con xong, áp lực tài chính lên rất cao. Các mẹ bắt đầu muốn học thêm, kiếm tiền thêm. Nhưng cơ thể người mẹ cần 3 năm để bình phục hoàn toàn. Khi chúng vững tin tự đặt kỳ vọng quá cao trong lúc hệ sinh thái sức khỏe đang không ổn, kết quả tất yếu là kiệt sức và đổ lỗi cho bản thân."
+
+Hay như mục tiêu của chị Hà: "Hoàn thành công việc trước giờ đón con và giữ năng lượng bình an. Về nhà còn đủ năng lượng dọn dẹp, sắp xếp nhà cửa và luôn giữ được bình tĩnh trước hai con tuổi dậy thì."
+Cô Thơ ngay lập tức khai vấn: Mục tiêu này có đang quá tải không? Việc đòi hỏi bản thân vừa hoàn hảo trong công việc, vừa hoàn hảo trong việc nhà, vừa là một người mẹ không bao giờ nổi cáu với hai đứa trẻ đang tuổi nổi loạn... liệu có thực sự khả thi trong 2 giờ mỗi tối? Nếu không cẩn thận, mục tiêu thiên thần này sẽ trở thành ngọn giáo đâm ngược lại chính sự tự tôn của người mẹ.
+
+Tâm thế đúng khi thiết lập mục tiêu không phải là "Tôi sẽ xem có chỗ nào trống để nhét nó vào", mà phải là "Tôi sẽ tìm ra điểm mấu chốt để sắp xếp lại, và tôi chấp nhận bớt đi một thói quen cũ để nuôi dưỡng mục tiêu mới này."
+
+### 4.5. T - Time-bound (Thời hạn và giới hạn)
+Thời hạn không chỉ là một cái mốc trên lịch, mà nó còn là ranh giới. Việc ấn định thời gian (ví dụ: hoàn thành công việc trước 5h chiều) giúp não bộ thiết lập một nhịp sinh học mới. Khi đến 5h chiều, não bộ sẽ tự động "cúp cầu dao" công việc và chuyển sang chế độ gia đình, không để những lo âu của văn phòng tràn vào không gian phòng ăn.
+
+## CHƯƠNG 5: HÀNH ĐỘNG VÀ BUÔNG BỎ SỰ HOÀN HẢO
+
+Cuối cùng, mọi kế hoạch xuất sắc đến mấy cũng vô nghĩa nếu không có những vi hành động (micro-actions) mỗi ngày.
+
+Sự chuyển hóa không đến từ một cú nhảy vọt, mà đến từ sự lặp đi lặp lại những hành động nhỏ bé nhất. Không phán xét bản thân khi làm sai, không so sánh mình với những tượng đài xa vời. Hãy đối mặt với năng lực thực tế, nhận diện lỗ hổng cá nhân (tính dễ nổi nóng, hay mất tập trung) và lực cản bên ngoài để thiết kế những bước đi vừa vặn.
 
 > "Sự chuyển hóa chỉ bắt đầu khi bạn ngừng đổ lỗi cho hoàn cảnh và nhận 100% trách nhiệm về sự mông lung của chính mình."
 
-> "Chúng ta đang sống trong một thế giới thay đổi quá nhanh. Việc cảm thấy mông lung, hoang mang về ước mơ tương lai là chuyện vô cùng bình thường. Mọi thứ cuộc đời mình sẽ dựa trên cách chúng ta kể câu chuyện của mình như thế nào."
-
-> "Não bộ sẽ tự chọn chế độ 'tàng hình' để không bị nhồi nhét quá nhiều mục tiêu cùng một thời điểm. Bạn phải luyện tập cho nó."
-
-> "Tôi sẽ không thể làm việc này trừ khi... - Bạn hãy nằm lòng câu này! Với bất kỳ mục tiêu nào cảm thấy xa vời, lắp câu này vào, não bạn sẽ tự minh mẫn và nhìn ra lỗ hổng."
-
-> "Một mục tiêu không được phép cản trở các mục tiêu quan trọng khác. Nếu nó mâu thuẫn với phong cách sống cốt lõi, tự động bản thân mình sẽ buông nó. Và lúc buông được, mình thấy nhẹ nhõm vô cùng vì đã chọn sai hướng."
-
-> "Sinh con xong, áp lực tài chính lên 300%, chúng ta bắt đầu muốn học thêm, kiếm tiền thêm. Nhưng cơ thể người mẹ cần 3 năm để bình phục. Chúng ta tự đặt kỳ vọng cao khi hệ sinh thái sức khỏe đang không ổn, và kết quả là kiệt sức."
-
-> "Quy tắc Con Voi Hồng: Ngôn ngữ lập trình hành vi. Đừng nói 'Đừng chạy, ngã đấy', hãy nói 'Dừng lại, đi chậm thôi con'. Thay lời phủ định bằng lời khẳng định và hướng dẫn."
-
-> "Lo lắng, hoang mang vô định là khi chúng ta giống như đang ngồi trên một chiếc bập bênh: vận động liên tục nhưng không thực sự tạo ra một kết quả nào hết, không đi đến đâu cả."
-
-> "Tâm lý nạn nhân không xấu, nó giúp ta khôi phục sự an ủi trong lúc tuyệt vọng. Nhưng nếu ở trong nó quá lâu và tự huyễn hoặc, ta sẽ mất đi khả năng vươn lên."
-
-> "Sự cố gắng của chúng ta nằm ở độ lớn của ước mơ. Nếu hiện tại chưa đủ đau đớn để thay đổi, phải thiết lập một phần thưởng đủ lớn để thèm khát tuyệt đối."
-
-> "Đừng để mục tiêu trôi nổi. Phải ghi rõ lý do, chia nhỏ số lượng công việc, đối mặt thẳng với năng lực thực sự và tìm người đồng hành giám sát kỷ luật."
-
-> "Nhân dạng lựa chọn không phải là thứ để ở tương lai. Bạn phải sống với nó ngay hiện tại."
+Và quan trọng nhất, ngôn ngữ khẳng định phải luôn đồng hành. Thay vì nhắc não bộ về những nỗi sợ ("tôi không muốn nghèo", "tôi không muốn cáu gắt"), hãy ra lệnh cho nó bằng những bức tranh tươi sáng, rõ nét, đong đầy hy vọng về một thực tại mà ở đó, bạn chính là người mà bạn đã lựa chọn để trở thành.
 
 
 ## PHẦN 2: BẢNG KẾ HOẠCH HÀNH ĐỘNG THỰC CHUYỂN
