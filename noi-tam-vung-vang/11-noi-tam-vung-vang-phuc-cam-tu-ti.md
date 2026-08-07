@@ -1,6 +1,6 @@
 ---
 tags:
-  - the-human-page
+  - noi-tam-vung-vang
   - phuc-cam-tu-ti
   - tam-ly-hoc
   - adler
